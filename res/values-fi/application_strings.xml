@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nature Quiz</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="play_button">Pelaa</string>
+    <string name="help_button">Ohjeet</string>
+    <string name="title_activity_help">Ohjeet</string>
+    <string name="help_description">"
+        Nature Quiz näyttää sinulle erilaisia kuvia ja sinun tulee tietää kuvassa olevan asian nimi. Esimerkiksi, jos kuvassa on karhu niin sinun tulee kirjoittaa vastaukseen 'karhu'. Sinun ei tarvitse tietää minkälainen karhu on kyseessä, joten pelkkä karhu riittää.\n
+        Aloittaaksesi pelin, valitse alkuvalikosta 'Pelaa'. Tämän jälkeen valitse haluamasi kategoria. Seuraavaksi peli näyttää sinulle kuvia, joihin sinun tulee tietää vastaus. Voit hyppiä kuvien välillä vapaasti, joten sinun ei tarvitse tietää tai vastata jokaiseen.\n
+        Valitettavasti vastauksia ei ole vielä käännetty suomeksi, joten peliä pelataan englanniksi.\n
+        Tiedot Wikipediasta.\n
+        Kuvista kiitos kuuluu:
+         * http://pixabay.com/
+         * http://commons.wikimedia.org/wiki/
+        "
+    </string>
+
+</resources>

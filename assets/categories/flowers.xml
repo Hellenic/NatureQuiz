@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_flowers_name</name>
+    <description>@string/quiz_flowers_description</description>
+    <image>flowers.jpg</image>
+    <link>@string/quiz_flowers_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_flowers_dandelion_name</name>
+	        <hint>@string/quiz_flowers_dandelion_hint</hint>
+	        <description>@string/quiz_flowers_dandelion_description</description>
+	        <answers>@array/quiz_flowers_dandelion_answers</answers>
+	        <image>dandelion.jpg</image>
+	        <link>@string/quiz_flowers_dandelion_link</link>
+	        <facts>@array/quiz_flowers_dandelion_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_flowers_coltsfoot_name</name>
+	        <hint>@string/quiz_flowers_coltsfoot_hint</hint>
+	        <description>@string/quiz_flowers_coltsfoot_description</description>
+	        <answers>@array/quiz_flowers_coltsfoot_answers</answers>
+	        <image>coltsfoot.jpg</image>
+	        <link>@string/quiz_flowers_coltsfoot_link</link>
+	        <facts>@array/quiz_flowers_coltsfoot_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_flowers_rose_name</name>
+	        <hint>@string/quiz_flowers_rose_hint</hint>
+	        <description>@string/quiz_flowers_rose_description</description>
+	        <answers>@array/quiz_flowers_rose_answers</answers>
+	        <image>rose.jpg</image>
+	        <link>@string/quiz_flowers_rose_link</link>
+	        <facts>@array/quiz_flowers_rose_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_flowers_celandine_name</name>
+	        <hint>@string/quiz_flowers_celandine_hint</hint>
+	        <description>@string/quiz_flowers_celandine_description</description>
+	        <answers>@array/quiz_flowers_celandine_answers</answers>
+	        <image>greater-celandine.jpg</image>
+	        <link>@string/quiz_flowers_celandine_link</link>
+	        <facts>@array/quiz_flowers_celandine_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_flowers_snowdrop_name</name>
+	        <hint>@string/quiz_flowers_snowdrop_hint</hint>
+	        <description>@string/quiz_flowers_snowdrop_description</description>
+	        <answers>@array/quiz_flowers_snowdrop_answers</answers>
+	        <image>snowdrop.jpg</image>
+	        <link>@string/quiz_flowers_snowdrop_link</link>
+	        <facts>@array/quiz_flowers_snowdrop_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_flowers_cornflower_name</name>
+	        <hint>@string/quiz_flowers_cornflower_hint</hint>
+	        <description>@string/quiz_flowers_cornflower_description</description>
+	        <answers>@array/quiz_flowers_cornflower_answers</answers>
+	        <image>cornflower.jpg</image>
+	        <link>@string/quiz_flowers_cornflower_link</link>
+	        <facts>@array/quiz_flowers_cornflower_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_flowers_carnation_name</name>
+	        <hint>@string/quiz_flowers_carnation_hint</hint>
+	        <description>@string/quiz_flowers_carnation_description</description>
+	        <answers>@array/quiz_flowers_carnation_answers</answers>
+	        <image>peacocks-carnation.jpg</image>
+	        <link>@string/quiz_flowers_carnation_link</link>
+	        <facts>@array/quiz_flowers_carnation_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_flowers_bluebell_name</name>
+	        <hint>@string/quiz_flowers_bluebell_hint</hint>
+	        <description>@string/quiz_flowers_bluebell_description</description>
+	        <answers>@array/quiz_flowers_bluebell_answers</answers>
+	        <image>bluebell.jpg</image>
+	        <link>@string/quiz_flowers_bluebell_link</link>
+	        <facts>@array/quiz_flowers_bluebell_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_flowers_dahlia_name</name>
+	        <hint>@string/quiz_flowers_dahlia_hint</hint>
+	        <description>@string/quiz_flowers_dahlia_description</description>
+	        <answers>@array/quiz_flowers_dahlia_answers</answers>
+	        <image>dahlia.jpg</image>
+	        <link>@string/quiz_flowers_dahlia_link</link>
+	        <facts>@array/quiz_flowers_dahlia_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_flowers_marigold_name</name>
+	        <hint>@string/quiz_flowers_marigold_hint</hint>
+	        <description>@string/quiz_flowers_marigold_description</description>
+	        <answers>@array/quiz_flowers_marigold_answers</answers>
+	        <image>marigold.jpg</image>
+	        <link>@string/quiz_flowers_marigold_link</link>
+	        <facts>@array/quiz_flowers_marigold_facts</facts>
+	    </level>
+	</levels>
+</category>

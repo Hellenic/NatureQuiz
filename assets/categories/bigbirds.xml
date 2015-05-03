@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_bigbirds_name</name>
+    <description>@string/quiz_bigbirds_description</description>
+    <image>bigbirds.jpg</image>
+    <link>@string/quiz_bigbirds_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_bigbirds_duck_name</name>
+	        <hint>@string/quiz_bigbirds_duck_hint</hint>
+	        <description>@string/quiz_bigbirds_duck_description</description>
+	        <answers>@array/quiz_bigbirds_duck_answers</answers>
+	        <image>duck.jpg</image>
+	        <link>@string/quiz_bigbirds_duck_link</link>
+	        <facts>@array/quiz_bigbirds_duck_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_bigbirds_goose_name</name>
+	        <hint>@string/quiz_bigbirds_goose_hint</hint>
+	        <description>@string/quiz_bigbirds_goose_description</description>
+	        <answers>@array/quiz_bigbirds_goose_answers</answers>
+	        <image>goose.jpg</image>
+	        <link>@string/quiz_bigbirds_goose_link</link>
+	        <facts>@array/quiz_bigbirds_goose_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_bigbirds_swan_name</name>
+	        <hint>@string/quiz_bigbirds_swan_hint</hint>
+	        <description>@string/quiz_bigbirds_swan_description</description>
+	        <answers>@array/quiz_bigbirds_swan_answers</answers>
+	        <image>swan.jpg</image>
+	        <link>@string/quiz_bigbirds_swan_link</link>
+	        <facts>@array/quiz_bigbirds_swan_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_bigbirds_goldeneye_name</name>
+	        <hint>@string/quiz_bigbirds_goldeneye_hint</hint>
+	        <description>@string/quiz_bigbirds_goldeneye_description</description>
+	        <answers>@array/quiz_bigbirds_goldeneye_answers</answers>
+	        <image>goldeneye.jpg</image>
+	        <link>@string/quiz_bigbirds_goldeneye_link</link>
+	        <facts>@array/quiz_bigbirds_goldeneye_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_bigbirds_crane_name</name>
+	        <hint>@string/quiz_bigbirds_crane_hint</hint>
+	        <description>@string/quiz_bigbirds_crane_description</description>
+	        <answers>@array/quiz_bigbirds_crane_answers</answers>
+	        <image>crane.jpg</image>
+	        <link>@string/quiz_bigbirds_crane_link</link>
+	        <facts>@array/quiz_bigbirds_crane_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_bigbirds_heron_name</name>
+	        <hint>@string/quiz_bigbirds_heron_hint</hint>
+	        <description>@string/quiz_bigbirds_heron_description</description>
+	        <answers>@array/quiz_bigbirds_heron_answers</answers>
+	        <image>heron.jpg</image>
+	        <link>@string/quiz_bigbirds_heron_link</link>
+	        <facts>@array/quiz_bigbirds_heron_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_bigbirds_hawk_name</name>
+	        <hint>@string/quiz_bigbirds_hawk_hint</hint>
+	        <description>@string/quiz_bigbirds_hawk_description</description>
+	        <answers>@array/quiz_bigbirds_hawk_answers</answers>
+	        <image>hawk.jpg</image>
+	        <link>@string/quiz_bigbirds_hawk_link</link>
+	        <facts>@array/quiz_bigbirds_hawk_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_bigbirds_eagle_name</name>
+	        <hint>@string/quiz_bigbirds_eagle_hint</hint>
+	        <description>@string/quiz_bigbirds_eagle_description</description>
+	        <answers>@array/quiz_bigbirds_eagle_answers</answers>
+	        <image>eagle.jpg</image>
+	        <link>@string/quiz_bigbirds_eagle_link</link>
+	        <facts>@array/quiz_bigbirds_eagle_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_bigbirds_owl_name</name>
+	        <hint>@string/quiz_bigbirds_owl_hint</hint>
+	        <description>@string/quiz_bigbirds_owl_description</description>
+	        <answers>@array/quiz_bigbirds_owl_answers</answers>
+	        <image>owl.jpg</image>
+	        <link>@string/quiz_bigbirds_owl_link</link>
+	        <facts>@array/quiz_bigbirds_owl_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_bigbirds_grouse_name</name>
+	        <hint>@string/quiz_bigbirds_grouse_hint</hint>
+	        <description>@string/quiz_bigbirds_grouse_description</description>
+	        <answers>@array/quiz_bigbirds_grouse_answers</answers>
+	        <image>grouse.jpg</image>
+	        <link>@string/quiz_bigbirds_grouse_link</link>
+	        <facts>@array/quiz_bigbirds_grouse_facts</facts>
+	    </level>
+	    
+	    <level id="11">
+	        <name>@string/quiz_bigbirds_fgrouse_name</name>
+	        <hint>@string/quiz_bigbirds_fgrouse_hint</hint>
+	        <description>@string/quiz_bigbirds_fgrouse_description</description>
+	        <answers>@array/quiz_bigbirds_fgrouse_answers</answers>
+	        <image>fgrouse.jpg</image>
+	        <link>@string/quiz_bigbirds_fgrouse_link</link>
+	        <facts>@array/quiz_bigbirds_fgrouse_facts</facts>
+	    </level>
+	    
+	    <level id="12">
+	        <name>@string/quiz_bigbirds_pheasant_name</name>
+	        <hint>@string/quiz_bigbirds_pheasant_hint</hint>
+	        <description>@string/quiz_bigbirds_pheasant_description</description>
+	        <answers>@array/quiz_bigbirds_pheasant_answers</answers>
+	        <image>pheasant.jpg</image>
+	        <link>@string/quiz_bigbirds_pheasant_link</link>
+	        <facts>@array/quiz_bigbirds_pheasant_facts</facts>
+	    </level>
+	</levels>
+</category>

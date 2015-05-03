@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_fish_name</name>
+    <description>@string/quiz_fish_description</description>
+    <image>fish.jpg</image>
+    <link>@string/quiz_fish_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_fish_perch_name</name>
+	        <hint>@string/quiz_fish_perch_hint</hint>
+	        <description>@string/quiz_fish_perch_description</description>
+	        <answers>@array/quiz_fish_perch_answers</answers>
+	        <image>perch.jpg</image>
+	        <link>@string/quiz_fish_perch_link</link>
+	        <facts>@array/quiz_fish_perch_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_fish_pike_name</name>
+	        <hint>@string/quiz_fish_pike_hint</hint>
+	        <description>@string/quiz_fish_pike_description</description>
+	        <answers>@array/quiz_fish_pike_answers</answers>
+	        <image>pike.jpg</image>
+	        <link>@string/quiz_fish_pike_link</link>
+	        <facts>@array/quiz_fish_pike_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_fish_pikeperch_name</name>
+	        <hint>@string/quiz_fish_pikeperch_hint</hint>
+	        <description>@string/quiz_fish_pikeperch_description</description>
+	        <answers>@array/quiz_fish_pikeperch_answers</answers>
+	        <image>pike-perch.jpg</image>
+	        <link>@string/quiz_fish_pikeperch_link</link>
+	        <facts>@array/quiz_fish_pikeperch_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_fish_salmon_name</name>
+	        <hint>@string/quiz_fish_salmon_hint</hint>
+	        <description>@string/quiz_fish_salmon_description</description>
+	        <answers>@array/quiz_fish_salmon_answers</answers>
+	        <image>salmon.jpg</image>
+	        <link>@string/quiz_fish_salmon_link</link>
+	        <facts>@array/quiz_fish_salmon_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_fish_trout_name</name>
+	        <hint>@string/quiz_fish_trout_hint</hint>
+	        <description>@string/quiz_fish_trout_description</description>
+	        <answers>@array/quiz_fish_trout_answers</answers>
+	        <image>rainbow-trout.jpg</image>
+	        <link>@string/quiz_fish_trout_link</link>
+	        <facts>@array/quiz_fish_trout_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_fish_burbot_name</name>
+	        <hint>@string/quiz_fish_burbot_hint</hint>
+	        <description>@string/quiz_fish_burbot_description</description>
+	        <answers>@array/quiz_fish_burbot_answers</answers>
+	        <image>burbot.jpg</image>
+	        <link>@string/quiz_fish_burbot_link</link>
+	        <facts>@array/quiz_fish_burbot_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_fish_bream_name</name>
+	        <hint>@string/quiz_fish_bream_hint</hint>
+	        <description>@string/quiz_fish_bream_description</description>
+	        <answers>@array/quiz_fish_bream_answers</answers>
+	        <image>bream.jpg</image>
+	        <link>@string/quiz_fish_bream_link</link>
+	        <facts>@array/quiz_fish_bream_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_fish_roach_name</name>
+	        <hint>@string/quiz_fish_roach_hint</hint>
+	        <description>@string/quiz_fish_roach_description</description>
+	        <answers>@array/quiz_fish_roach_answers</answers>
+	        <image>common-roach.jpg</image>
+	        <link>@string/quiz_fish_roach_link</link>
+	        <facts>@array/quiz_fish_roach_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_fish_whitefish_name</name>
+	        <hint>@string/quiz_fish_whitefish_hint</hint>
+	        <description>@string/quiz_fish_whitefish_description</description>
+	        <answers>@array/quiz_fish_whitefish_answers</answers>
+	        <image>whitefish.jpg</image>
+	        <link>@string/quiz_fish_whitefish_link</link>
+	        <facts>@array/quiz_fish_whitefish_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_fish_herring_name</name>
+	        <hint>@string/quiz_fish_herring_hint</hint>
+	        <description>@string/quiz_fish_herring_description</description>
+	        <answers>@array/quiz_fish_herring_answers</answers>
+	        <image>herring.jpg</image>
+	        <link>@string/quiz_fish_herring_link</link>
+	        <facts>@array/quiz_fish_herring_facts</facts>
+	    </level>
+	    
+	    <level id="11">
+	        <name>@string/quiz_fish_crab_name</name>
+	        <hint>@string/quiz_fish_crab_hint</hint>
+	        <description>@string/quiz_fish_crab_description</description>
+	        <answers>@array/quiz_fish_crab_answers</answers>
+	        <image>crab.jpg</image>
+	        <link>@string/quiz_fish_crab_link</link>
+	        <facts>@array/quiz_fish_crab_facts</facts>
+	    </level>
+	    
+	    <level id="12">
+	        <name>@string/quiz_fish_crayfish_name</name>
+	        <hint>@string/quiz_fish_crayfish_hint</hint>
+	        <description>@string/quiz_fish_crayfish_description</description>
+	        <answers>@array/quiz_fish_crayfish_answers</answers>
+	        <image>crayfish.jpg</image>
+	        <link>@string/quiz_fish_crayfish_link</link>
+	        <facts>@array/quiz_fish_crayfish_facts</facts>
+	    </level>
+	    
+	    <level id="13">
+	        <name>@string/quiz_fish_lobster_name</name>
+	        <hint>@string/quiz_fish_lobster_hint</hint>
+	        <description>@string/quiz_fish_lobster_description</description>
+	        <answers>@array/quiz_fish_lobster_answers</answers>
+	        <image>lobster.jpg</image>
+	        <link>@string/quiz_fish_lobster_link</link>
+	        <facts>@array/quiz_fish_lobster_facts</facts>
+	    </level>
+	</levels>
+</category>

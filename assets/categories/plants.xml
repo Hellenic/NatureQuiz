@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_plants_name</name>
+    <description>@string/quiz_plants_description</description>
+    <image>plants.jpg</image>
+    <link>@string/quiz_plants_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_plants_thistle_name</name>
+	        <hint>@string/quiz_plants_thistle_hint</hint>
+	        <description>@string/quiz_plants_thistle_description</description>
+	        <answers>@array/quiz_plants_thistle_answers</answers>
+	        <image>thistle.jpg</image>
+	        <link>@string/quiz_plants_thistle_link</link>
+	        <facts>@array/quiz_plants_thistle_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_plants_mugwort_name</name>
+	        <hint>@string/quiz_plants_mugwort_hint</hint>
+	        <description>@string/quiz_plants_mugwort_description</description>
+	        <answers>@array/quiz_plants_mugwort_answers</answers>
+	        <image>mugwort.jpg</image>
+	        <link>@string/quiz_plants_mugwort_link</link>
+	        <facts>@array/quiz_plants_mugwort_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_plants_juniper_name</name>
+	        <hint>@string/quiz_plants_juniper_hint</hint>
+	        <description>@string/quiz_plants_juniper_description</description>
+	        <answers>@array/quiz_plants_juniper_answers</answers>
+	        <image>juniper.jpg</image>
+	        <link>@string/quiz_plants_juniper_link</link>
+	        <facts>@array/quiz_plants_juniper_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_plants_willowherb_name</name>
+	        <hint>@string/quiz_plants_willowherb_hint</hint>
+	        <description>@string/quiz_plants_willowherb_description</description>
+	        <answers>@array/quiz_plants_willowherb_answers</answers>
+	        <image>willowherb.jpg</image>
+	        <link>@string/quiz_plants_willowherb_link</link>
+	        <facts>@array/quiz_plants_willowherb_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_plants_nettle_name</name>
+	        <hint>@string/quiz_plants_nettle_hint</hint>
+	        <description>@string/quiz_plants_nettle_description</description>
+	        <answers>@array/quiz_plants_nettle_answers</answers>
+	        <image>nettle.jpg</image>
+	        <link>@string/quiz_plants_nettle_link</link>
+	        <facts>@array/quiz_plants_nettle_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_plants_milfoil_name</name>
+	        <hint>@string/quiz_plants_milfoil_hint</hint>
+	        <description>@string/quiz_plants_milfoil_description</description>
+	        <answers>@array/quiz_plants_milfoil_answers</answers>
+	        <image>milfoil.jpg</image>
+	        <link>@string/quiz_plants_milfoil_link</link>
+	        <facts>@array/quiz_plants_milfoil_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_plants_burdock_name</name>
+	        <hint>@string/quiz_plants_burdock_hint</hint>
+	        <description>@string/quiz_plants_burdock_description</description>
+	        <answers>@array/quiz_plants_burdock_answers</answers>
+	        <image>burdock.jpg</image>
+	        <link>@string/quiz_plants_burdock_link</link>
+	        <facts>@array/quiz_plants_burdock_facts</facts>
+	    </level>
+	</levels>
+</category>

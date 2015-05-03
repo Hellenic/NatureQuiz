@@ -1,0 +1,21 @@
+<resources>
+    
+    <!-- Strings related to Settings -->
+    <string name="title_activity_settings">предпочтения</string>
+
+    <!-- General settings -->
+    <string name="pref_header_general">общий</string>
+    
+    <string name="pref_localization_title">локализация</string>
+    <string-array name="pref_localization_titles">
+        <item>английский</item>
+        <item>финский</item>
+        <item>русский</item>
+    </string-array>
+    <string-array name="pref_localization_values">
+        <item>en</item>
+        <item>fi</item>
+        <item>ru</item>
+    </string-array>
+    
+</resources>

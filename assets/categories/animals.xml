@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_animals_name</name>
+    <description>@string/quiz_animals_description</description>
+    <image>animals.jpg</image>
+    <link>@string/quiz_animals_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_animals_bear_name</name>
+	        <hint>@string/quiz_animals_bear_hint</hint>
+	        <description>@string/quiz_animals_bear_description</description>
+	        <answers>@array/quiz_animals_bear_answers</answers>
+	        <image>bear.jpg</image>
+	        <link>@string/quiz_animals_bear_link</link>
+	        <facts>@array/quiz_animals_bear_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_animals_moose_name</name>
+	        <hint>@string/quiz_animals_moose_hint</hint>
+	        <description>@string/quiz_animals_moose_description</description>
+	        <answers>@array/quiz_animals_moose_answers</answers>
+	        <image>moose.jpg</image>
+	        <link>@string/quiz_animals_moose_link</link>
+	        <facts>@array/quiz_animals_moose_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_animals_deer_name</name>
+	        <hint>@string/quiz_animals_deer_hint</hint>
+	        <description>@string/quiz_animals_deer_description</description>
+	        <answers>@array/quiz_animals_deer_answers</answers>
+	        <image>deer.jpg</image>
+	        <link>@string/quiz_animals_deer_link</link>
+	        <facts>@array/quiz_animals_deer_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_animals_fox_name</name>
+	        <hint>@string/quiz_animals_fox_hint</hint>
+	        <description>@string/quiz_animals_fox_description</description>
+	        <answers>@array/quiz_animals_fox_answers</answers>
+	        <image>fox.jpg</image>
+	        <link>@string/quiz_animals_fox_link</link>
+	        <facts>@array/quiz_animals_fox_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_animals_frog_name</name>
+	        <hint>@string/quiz_animals_frog_hint</hint>
+	        <description>@string/quiz_animals_frog_description</description>
+	        <answers>@array/quiz_animals_frog_answers</answers>
+	        <image>frog.jpg</image>
+	        <link>@string/quiz_animals_frog_link</link>
+	        <facts>@array/quiz_animals_frog_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_animals_snake_name</name>
+	        <hint>@string/quiz_animals_snake_hint</hint>
+	        <description>@string/quiz_animals_snake_description</description>
+	        <answers>@array/quiz_animals_snake_answers</answers>
+	        <image>snake.jpg</image>
+	        <link>@string/quiz_animals_snake_link</link>
+	        <facts>@array/quiz_animals_snake_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_animals_wolf_name</name>
+	        <hint>@string/quiz_animals_wolf_hint</hint>
+	        <description>@string/quiz_animals_wolf_description</description>
+	        <answers>@array/quiz_animals_wolf_answers</answers>
+	        <image>wolf.jpg</image>
+	        <link>@string/quiz_animals_wolf_link</link>
+	        <facts>@array/quiz_animals_wolf_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_animals_squirrel_name</name>
+	        <hint>@string/quiz_animals_squirrel_hint</hint>
+	        <description>@string/quiz_animals_squirrel_description</description>
+	        <answers>@array/quiz_animals_squirrel_answers</answers>
+	        <image>squirrel.jpg</image>
+	        <link>@string/quiz_animals_squirrel_link</link>
+	        <facts>@array/quiz_animals_squirrel_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_animals_hedgehog_name</name>
+	        <hint>@string/quiz_animals_hedgehog_hint</hint>
+	        <description>@string/quiz_animals_hedgehog_description</description>
+	        <answers>@array/quiz_animals_hedgehog_answers</answers>
+	        <image>hedgehog.jpg</image>
+	        <link>@string/quiz_animals_hedgehog_link</link>
+	        <facts>@array/quiz_animals_hedgehog_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_animals_mouse_name</name>
+	        <hint>@string/quiz_animals_mouse_hint</hint>
+	        <description>@string/quiz_animals_mouse_description</description>
+	        <answers>@array/quiz_animals_mouse_answers</answers>
+	        <image>mouse.jpg</image>
+	        <link>@string/quiz_animals_mouse_link</link>
+	        <facts>@array/quiz_animals_mouse_facts</facts>
+	    </level>
+	    
+	    <level id="11">
+	        <name>@string/quiz_animals_rat_name</name>
+	        <hint>@string/quiz_animals_rat_hint</hint>
+	        <description>@string/quiz_animals_rat_description</description>
+	        <answers>@array/quiz_animals_rat_answers</answers>
+	        <image>rat.jpg</image>
+	        <link>@string/quiz_animals_rat_link</link>
+	        <facts>@array/quiz_animals_rat_facts</facts>
+	    </level>
+	    
+	    <level id="12">
+	        <name>@string/quiz_animals_rabbit_name</name>
+	        <hint>@string/quiz_animals_rabbit_hint</hint>
+	        <description>@string/quiz_animals_rabbit_description</description>
+	        <answers>@array/quiz_animals_rabbit_answers</answers>
+	        <image>rabbit.jpg</image>
+	        <link>@string/quiz_animals_rabbit_link</link>
+	        <facts>@array/quiz_animals_rabbit_facts</facts>
+	    </level>
+	</levels>
+</category>

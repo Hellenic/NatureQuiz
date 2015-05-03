@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_insects_name</name>
+    <description>@string/quiz_insects_description</description>
+    <image>insects.jpg</image>
+    <link>@string/quiz_insects_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_insects_mosquito_name</name>
+	        <hint>@string/quiz_insects_mosquito_hint</hint>
+	        <description>@string/quiz_insects_mosquito_description</description>
+	        <answers>@array/quiz_insects_mosquito_answers</answers>
+	        <image>mosquito.jpg</image>
+	        <link>@string/quiz_insects_mosquito_link</link>
+	        <facts>@array/quiz_insects_mosquito_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_insects_horsefly_name</name>
+	        <hint>@string/quiz_insects_horsefly_hint</hint>
+	        <description>@string/quiz_insects_horsefly_description</description>
+	        <answers>@array/quiz_insects_horsefly_answers</answers>
+	        <image>horsefly.jpg</image>
+	        <link>@string/quiz_insects_horsefly_link</link>
+	        <facts>@array/quiz_insects_horsefly_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_insects_bee_name</name>
+	        <hint>@string/quiz_insects_bee_hint</hint>
+	        <description>@string/quiz_insects_bee_description</description>
+	        <answers>@array/quiz_insects_bee_answers</answers>
+	        <image>bumblebee.jpg</image>
+	        <link>@string/quiz_insects_bee_link</link>
+	        <facts>@array/quiz_insects_bee_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_insects_wasp_name</name>
+	        <hint>@string/quiz_insects_wasp_hint</hint>
+	        <description>@string/quiz_insects_wasp_description</description>
+	        <answers>@array/quiz_insects_wasp_answers</answers>
+	        <image>wasp.jpg</image>
+	        <link>@string/quiz_insects_wasp_link</link>
+	        <facts>@array/quiz_insects_wasp_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_insects_butterfly_name</name>
+	        <hint>@string/quiz_insects_butterfly_hint</hint>
+	        <description>@string/quiz_insects_butterfly_description</description>
+	        <answers>@array/quiz_insects_butterfly_answers</answers>
+	        <image>butterfly.jpg</image>
+	        <link>@string/quiz_insects_butterfly_link</link>
+	        <facts>@array/quiz_insects_butterfly_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_insects_dragonfly_name</name>
+	        <hint>@string/quiz_insects_dragonfly_hint</hint>
+	        <description>@string/quiz_insects_dragonfly_description</description>
+	        <answers>@array/quiz_insects_dragonfly_answers</answers>
+	        <image>dragonfly.jpg</image>
+	        <link>@string/quiz_insects_dragonfly_link</link>
+	        <facts>@array/quiz_insects_dragonfly_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_insects_fly_name</name>
+	        <hint>@string/quiz_insects_fly_hint</hint>
+	        <description>@string/quiz_insects_fly_description</description>
+	        <answers>@array/quiz_insects_fly_answers</answers>
+	        <image>common-fly.jpg</image>
+	        <link>@string/quiz_insects_fly_link</link>
+	        <facts>@array/quiz_insects_fly_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_insects_ladybug_name</name>
+	        <hint>@string/quiz_insects_ladybug_hint</hint>
+	        <description>@string/quiz_insects_ladybug_description</description>
+	        <answers>@array/quiz_insects_ladybug_answers</answers>
+	        <image>ladybug.jpg</image>
+	        <link>@string/quiz_insects_ladybug_link</link>
+	        <facts>@array/quiz_insects_ladybug_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_insects_ant_name</name>
+	        <hint>@string/quiz_insects_ant_hint</hint>
+	        <description>@string/quiz_insects_ant_description</description>
+	        <answers>@array/quiz_insects_ant_answers</answers>
+	        <image>ant.jpg</image>
+	        <link>@string/quiz_insects_ant_link</link>
+	        <facts>@array/quiz_insects_ant_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_insects_gecko_name</name>
+	        <hint>@string/quiz_insects_gecko_hint</hint>
+	        <description>@string/quiz_insects_gecko_description</description>
+	        <answers>@array/quiz_insects_gecko_answers</answers>
+	        <image>gecko.jpg</image>
+	        <link>@string/quiz_insects_gecko_link</link>
+	        <facts>@array/quiz_insects_gecko_facts</facts>
+	    </level>
+	    
+	    <level id="11">
+	        <name>@string/quiz_insects_beetle_name</name>
+	        <hint>@string/quiz_insects_beetle_hint</hint>
+	        <description>@string/quiz_insects_beetle_description</description>
+	        <answers>@array/quiz_insects_beetle_answers</answers>
+	        <image>beetle.jpg</image>
+	        <link>@string/quiz_insects_beetle_link</link>
+	        <facts>@array/quiz_insects_beetle_facts</facts>
+	    </level>
+	    
+	    <level id="12">
+	        <name>@string/quiz_insects_spider_name</name>
+	        <hint>@string/quiz_insects_spider_hint</hint>
+	        <description>@string/quiz_insects_spider_description</description>
+	        <answers>@array/quiz_insects_spider_answers</answers>
+	        <image>spider.jpg</image>
+	        <link>@string/quiz_insects_spider_link</link>
+	        <facts>@array/quiz_insects_spider_facts</facts>
+	    </level>
+	</levels>
+</category>

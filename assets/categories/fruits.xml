@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_fruits_name</name>
+    <description>@string/quiz_fruits_description</description>
+    <image>fruits.jpg</image>
+    <link>@string/quiz_fruits_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_fruits_apple_name</name>
+	        <hint>@string/quiz_fruits_apple_hint</hint>
+	        <description>@string/quiz_fruits_apple_description</description>
+	        <answers>@array/quiz_fruits_apple_answers</answers>
+	        <image>apple.jpg</image>
+	        <link>@string/quiz_fruits_apple_link</link>
+	        <facts>@array/quiz_fruits_apple_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_fruits_orange_name</name>
+	        <hint>@string/quiz_fruits_orange_hint</hint>
+	        <description>@string/quiz_fruits_orange_description</description>
+	        <answers>@array/quiz_fruits_orange_answers</answers>
+	        <image>orange.jpg</image>
+	        <link>@string/quiz_fruits_orange_link</link>
+	        <facts>@array/quiz_fruits_orange_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_fruits_lemon_name</name>
+	        <hint>@string/quiz_fruits_lemon_hint</hint>
+	        <description>@string/quiz_fruits_lemon_description</description>
+	        <answers>@array/quiz_fruits_lemon_answers</answers>
+	        <image>lemon.jpg</image>
+	        <link>@string/quiz_fruits_lemon_link</link>
+	        <facts>@array/quiz_fruits_lemon_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_fruits_banana_name</name>
+	        <hint>@string/quiz_fruits_banana_hint</hint>
+	        <description>@string/quiz_fruits_banana_description</description>
+	        <answers>@array/quiz_fruits_banana_answers</answers>
+	        <image>banana.jpg</image>
+	        <link>@string/quiz_fruits_banana_link</link>
+	        <facts>@array/quiz_fruits_banana_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_fruits_cherry_name</name>
+	        <hint>@string/quiz_fruits_cherry_hint</hint>
+	        <description>@string/quiz_fruits_cherry_description</description>
+	        <answers>@array/quiz_fruits_cherry_answers</answers>
+	        <image>cherry.jpg</image>
+	        <link>@string/quiz_fruits_cherry_link</link>
+	        <facts>@array/quiz_fruits_cherry_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_fruits_peach_name</name>
+	        <hint>@string/quiz_fruits_peach_hint</hint>
+	        <description>@string/quiz_fruits_peach_description</description>
+	        <answers>@array/quiz_fruits_peach_answers</answers>
+	        <image>peach.jpg</image>
+	        <link>@string/quiz_fruits_peach_link</link>
+	        <facts>@array/quiz_fruits_peach_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_fruits_pineapple_name</name>
+	        <hint>@string/quiz_fruits_pineapple_hint</hint>
+	        <description>@string/quiz_fruits_pineapple_description</description>
+	        <answers>@array/quiz_fruits_pineapple_answers</answers>
+	        <image>pineapple.jpg</image>
+	        <link>@string/quiz_fruits_pineapple_link</link>
+	        <facts>@array/quiz_fruits_pineapple_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_fruits_pear_name</name>
+	        <hint>@string/quiz_fruits_pear_hint</hint>
+	        <description>@string/quiz_fruits_pear_description</description>
+	        <answers>@array/quiz_fruits_pear_answers</answers>
+	        <image>pear.jpg</image>
+	        <link>@string/quiz_fruits_pear_link</link>
+	        <facts>@array/quiz_fruits_pear_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_fruits_plum_name</name>
+	        <hint>@string/quiz_fruits_plum_hint</hint>
+	        <description>@string/quiz_fruits_plum_description</description>
+	        <answers>@array/quiz_fruits_plum_answers</answers>
+	        <image>plum.jpg</image>
+	        <link>@string/quiz_fruits_plum_link</link>
+	        <facts>@array/quiz_fruits_plum_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_fruits_grapefruit_name</name>
+	        <hint>@string/quiz_fruits_grapefruit_hint</hint>
+	        <description>@string/quiz_fruits_grapefruit_description</description>
+	        <answers>@array/quiz_fruits_grapefruit_answers</answers>
+	        <image>grapefruit.jpg</image>
+	        <link>@string/quiz_fruits_grapefruit_link</link>
+	        <facts>@array/quiz_fruits_grapefruit_facts</facts>
+	    </level>
+	    
+	    <level id="11">
+	        <name>@string/quiz_fruits_watermelon_name</name>
+	        <hint>@string/quiz_fruits_watermelon_hint</hint>
+	        <description>@string/quiz_fruits_watermelon_description</description>
+	        <answers>@array/quiz_fruits_watermelon_answers</answers>
+	        <image>watermelon.jpg</image>
+	        <link>@string/quiz_fruits_watermelon_link</link>
+	        <facts>@array/quiz_fruits_watermelon_facts</facts>
+	    </level>
+	    
+	</levels>
+</category>

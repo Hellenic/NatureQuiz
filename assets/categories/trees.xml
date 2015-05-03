@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_trees_name</name>
+    <description>@string/quiz_trees_description</description>
+    <image>trees.jpg</image>
+    <link>@string/quiz_trees_link</link>
+    <completedText>@string/quiz_trees_completedText</completedText>
+    <progressText>@string/quiz_trees_progressText</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_trees_birch_name</name>
+	        <hint>@string/quiz_trees_birch_hint</hint>
+	        <description>@string/quiz_trees_birch_description</description>
+	        <answers>@array/quiz_trees_birch_answers</answers>
+	        <answerText>@string/quiz_trees_birch_answerText</answerText>
+	        <image>birch.jpg</image>
+	        <link>@string/quiz_trees_birch_link</link>
+	        <facts>@array/quiz_trees_birch_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_trees_pine_name</name>
+	        <hint>@string/quiz_trees_pine_hint</hint>
+	        <description>@string/quiz_trees_pine_description</description>
+	        <answers>@array/quiz_trees_pine_answers</answers>
+	        <image>pine.jpg</image>
+	        <link>@string/quiz_trees_pine_link</link>
+	        <facts>@array/quiz_trees_pine_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_trees_spruce_name</name>
+	        <hint>@string/quiz_trees_spruce_hint</hint>
+	        <description>@string/quiz_trees_spruce_description</description>
+	        <answers>@array/quiz_trees_spruce_answers</answers>
+	        <image>spruce.jpg</image>
+	        <link>@string/quiz_trees_spruce_link</link>
+	        <facts>@array/quiz_trees_spruce_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_trees_oak_name</name>
+	        <hint>@string/quiz_trees_oak_hint</hint>
+	        <description>@string/quiz_trees_oak_description</description>
+	        <answers>@array/quiz_trees_oak_answers</answers>
+	        <image>oak.jpg</image>
+	        <link>@string/quiz_trees_oak_link</link>
+	        <facts>@array/quiz_trees_oak_answers</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_trees_alder_name</name>
+	        <hint>@string/quiz_trees_alder_hint</hint>
+	        <description>@string/quiz_trees_alder_description</description>
+	        <answers>@array/quiz_trees_alder_answers</answers>
+	        <image>alder.jpg</image>
+	        <link>@string/quiz_trees_alder_link</link>
+	        <facts>@array/quiz_trees_alder_answers</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_trees_aspen_name</name>
+	        <hint>@string/quiz_trees_aspen_hint</hint>
+	        <description>@string/quiz_trees_aspen_description</description>
+	        <answers>@array/quiz_trees_aspen_answers</answers>
+	        <image>aspen.jpg</image>
+	        <link>@string/quiz_trees_aspen_link</link>
+	        <facts>@array/quiz_trees_aspen_answers</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_trees_willow_name</name>
+	        <hint>@string/quiz_trees_willow_hint</hint>
+	        <description>@string/quiz_trees_willow_description</description>
+	        <answers>@array/quiz_trees_willow_answers</answers>
+	        <image>willow.jpg</image>
+	        <link>@string/quiz_trees_willow_link</link>
+	        <facts>@array/quiz_trees_willow_answers</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_trees_rowan_name</name>
+	        <hint>@string/quiz_trees_rowan_hint</hint>
+	        <description>@string/quiz_trees_rowan_description</description>
+	        <answers>@array/quiz_trees_rowan_answers</answers>
+	        <image>rowan.jpg</image>
+	        <link>@string/quiz_trees_rowan_link</link>
+	        <facts>@array/quiz_trees_rowan_answers</facts>
+	    </level>
+	</levels>
+</category>

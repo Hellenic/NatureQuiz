@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application string -->
+    <string name="app_name">Nature Quiz</string>
+    <string name="nature_quiz_header">Nature Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_quit">Quit</string>
+    <string name="play_button">Play</string>
+    <string name="help_button">How to play</string>
+    <string name="title_activity_help">How to play</string>
+    <string name="help_description">"Nature Quiz will show you various pictures and then you need to type in the name of the object in the picture. For example, if picture of bear is shown to you, you need to type in 'bear'. You do not need to know if it's a grey bear or brown bear, so just 'bear' is enough.\n
+        To play Nature Quiz you first select 'Play' on the first screen. On the second screen, you select the category you want to try out. After that you can see the pictures and if you want, you can browse between them if you don't want to answer (or just don't know) all of them.\n
+        Have a great time with Nature Quiz!\n
+        Information from Wikipedia.\n
+        Thanks for the pictures goes to:
+         * http://pixabay.com/
+         * http://commons.wikimedia.org/wiki/
+        "
+    </string>
+    <string name="title_activity_play">Quiz</string>
+    <string name="title_activity_final">Completed</string>
+    <string name="title_activity_category">Categories</string>
+    
+    <!-- Game strings -->
+    <string name="quiz_picture_description">Quiz picture</string>
+    <string name="quiz_answer_message">Write the answer here</string>
+    <string name="quiz_answer_button">Done</string>
+    <string name="quiz_next_button">Okay</string>
+    <string name="quiz_complete_game">Complete</string>
+    <string name="quiz_category_text">Category</string>
+    <string name="quiz_dialog_reset_category">Reset the category progress?</string>
+    <string name="quiz_dialog_yes">Yes</string>
+    <string name="quiz_dialog_no">Cancel</string>
+    
+    <string name="game_action_back_fast">Skip backwards</string>
+    <string name="game_action_back">Back</string>
+    <string name="game_action_forward">Forward</string>
+    <string name="game_action_forward_fast">Skip forward</string>
+    
+    <!-- Game defaults -->
+    <string name="quiz_default_hint">Default hint text placeholder</string>
+    <string name="quiz_default_answer_text">Correct!</string>
+    <string name="quiz_default_synonym_answer_text">Close enough, we\'ll give you this one!</string>
+    <string name="quiz_default_incorrect_answer_text">Try again!</string>
+    <string name="quiz_default_category_completed">Congratulations! You\'ve completed all the levels of the category. See if you can do the other categories!</string>
+    <string name="quiz_default_category_progress">Good attempt. However, there is still some unanswered questions. Try to get those too!</string>
+    
+</resources>

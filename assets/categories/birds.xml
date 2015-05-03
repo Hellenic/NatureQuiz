@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_commonbirds_name</name>
+    <description>@string/quiz_commonbirds_description</description>
+    <image>birds.jpg</image>
+    <link>@string/quiz_commonbirds_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_commonbirds_swallow_name</name>
+	        <hint>@string/quiz_commonbirds_swallow_hint</hint>
+	        <description>@string/quiz_commonbirds_swallow_description</description>
+	        <answers>@array/quiz_commonbirds_swallow_answers</answers>
+	        <image>swallow.jpg</image>
+	        <link>@string/quiz_commonbirds_swallow_link</link>
+	        <facts>@array/quiz_commonbirds_swallow_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_commonbirds_sparrow_name</name>
+	        <hint>@string/quiz_commonbirds_sparrow_hint</hint>
+	        <description>@string/quiz_commonbirds_sparrow_description</description>
+	        <answers>@array/quiz_commonbirds_sparrow_answers</answers>
+	        <image>sparrow.jpg</image>
+	        <link>@string/quiz_commonbirds_sparrow_link</link>
+	        <facts>@array/quiz_commonbirds_sparrow_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_commonbirds_wagtail_name</name>
+	        <hint>@string/quiz_commonbirds_wagtail_hint</hint>
+	        <description>@string/quiz_commonbirds_wagtail_description</description>
+	        <answers>@array/quiz_commonbirds_wagtail_answers</answers>
+	        <image>wagtail.jpg</image>
+	        <link>@string/quiz_commonbirds_wagtail_link</link>
+	        <facts>@array/quiz_commonbirds_wagtail_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_commonbirds_greattit_name</name>
+	        <hint>@string/quiz_commonbirds_greattit_hint</hint>
+	        <description>@string/quiz_commonbirds_greattit_description</description>
+	        <answers>@array/quiz_commonbirds_greattit_answers</answers>
+	        <image>greattit.jpg</image>
+	        <link>@string/quiz_commonbirds_greattit_link</link>
+	        <facts>@array/quiz_commonbirds_greattit_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_commonbirds_thrush_name</name>
+	        <hint>@string/quiz_commonbirds_thrush_hint</hint>
+	        <description>@string/quiz_commonbirds_thrush_description</description>
+	        <answers>@array/quiz_commonbirds_thrush_answers</answers>
+	        <image>thrush.jpg</image>
+	        <link>@string/quiz_commonbirds_thrush_link</link>
+	        <facts>@array/quiz_commonbirds_thrush_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_commonbirds_seagull_name</name>
+	        <hint>@string/quiz_commonbirds_seagull_hint</hint>
+	        <description>@string/quiz_commonbirds_seagull_description</description>
+	        <answers>@array/quiz_commonbirds_seagull_answers</answers>
+	        <image>seagull.jpg</image>
+	        <link>@string/quiz_commonbirds_seagull_link</link>
+	        <facts>@array/quiz_commonbirds_seagull_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_commonbirds_raven_name</name>
+	        <hint>@string/quiz_commonbirds_raven_hint</hint>
+	        <description>@string/quiz_commonbirds_raven_description</description>
+	        <answers>@array/quiz_commonbirds_raven_answers</answers>
+	        <image>raven.jpg</image>
+	        <link>@string/quiz_commonbirds_raven_link</link>
+	        <facts>@array/quiz_commonbirds_raven_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_commonbirds_magpie_name</name>
+	        <hint>@string/quiz_commonbirds_magpie_hint</hint>
+	        <description>@string/quiz_commonbirds_magpie_description</description>
+	        <answers>@array/quiz_commonbirds_magpie_answers</answers>
+	        <image>magpie.jpg</image>
+	        <link>@string/quiz_commonbirds_magpie_link</link>
+	        <facts>@array/quiz_commonbirds_magpie_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_commonbirds_crow_name</name>
+	        <hint>@string/quiz_commonbirds_crow_hint</hint>
+	        <description>@string/quiz_commonbirds_crow_description</description>
+	        <answers>@array/quiz_commonbirds_crow_answers</answers>
+	        <image>crow.jpg</image>
+	        <link>@string/quiz_commonbirds_crow_link</link>
+	        <facts>@array/quiz_commonbirds_crow_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_commonbirds_pigeon_name</name>
+	        <hint>@string/quiz_commonbirds_pigeon_hint</hint>
+	        <description>@string/quiz_commonbirds_pigeon_description</description>
+	        <answers>@array/quiz_commonbirds_pigeon_answers</answers>
+	        <image>pigeon.jpg</image>
+	        <link>@string/quiz_commonbirds_pigeon_link</link>
+	        <facts>@array/quiz_commonbirds_pigeon_facts</facts>
+	    </level>
+	    
+	</levels>
+</category>

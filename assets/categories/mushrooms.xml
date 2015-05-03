@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_mushrooms_name</name>
+    <description>@string/quiz_mushrooms_description</description>
+    <image>mushrooms.jpg</image>
+    <link>@string/quiz_mushrooms_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_mushrooms_cep_name</name>
+	        <hint>@string/quiz_mushrooms_cep_hint</hint>
+	        <description>@string/quiz_mushrooms_cep_description</description>
+	        <answers>@array/quiz_mushrooms_cep_answers</answers>
+	        <image>cep.jpg</image>
+	        <link>@string/quiz_mushrooms_cep_link</link>
+	        <facts>@array/quiz_mushrooms_cep_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_mushrooms_morel_name</name>
+	        <hint>@string/quiz_mushrooms_morel_hint</hint>
+	        <description>@string/quiz_mushrooms_morel_description</description>
+	        <answers>@array/quiz_mushrooms_morel_answers</answers>
+	        <image>morel.jpg</image>
+	        <link>@string/quiz_mushrooms_morel_link</link>
+	        <facts>@array/quiz_mushrooms_morel_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_mushrooms_chanterelle_name</name>
+	        <hint>@string/quiz_mushrooms_chanterelle_hint</hint>
+	        <description>@string/quiz_mushrooms_chanterelle_description</description>
+	        <answers>@array/quiz_mushrooms_chanterelle_answers</answers>
+	        <image>chanterelle.jpg</image>
+	        <link>@string/quiz_mushrooms_chanterelle_link</link>
+	        <facts>@array/quiz_mushrooms_chanterelle_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_mushrooms_flyagaric_name</name>
+	        <hint>@string/quiz_mushrooms_flyagaric_hint</hint>
+	        <description>@string/quiz_mushrooms_flyagaric_description</description>
+	        <answers>@array/quiz_mushrooms_flyagaric_answers</answers>
+	        <image>fly-agaric.jpg</image>
+	        <link>@string/quiz_mushrooms_flyagaric_link</link>
+	        <facts>@array/quiz_mushrooms_flyagaric_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_mushrooms_annulatedboletus_name</name>
+	        <hint>@string/quiz_mushrooms_annulatedboletus_hint</hint>
+	        <description>@string/quiz_mushrooms_annulatedboletus_description</description>
+	        <answers>@array/quiz_mushrooms_annulatedboletus_answers</answers>
+	        <image>annulated-boletus.jpg</image>
+	        <link>@string/quiz_mushrooms_annulatedboletus_link</link>
+	        <facts>@array/quiz_mushrooms_annulatedboletus_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_mushrooms_russula_name</name>
+	        <hint>@string/quiz_mushrooms_russula_hint</hint>
+	        <description>@string/quiz_mushrooms_russula_description</description>
+	        <answers>@array/quiz_mushrooms_russula_answers</answers>
+	        <image>russula.jpg</image>
+	        <link>@string/quiz_mushrooms_russula_link</link>
+	        <facts>@array/quiz_mushrooms_russula_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_mushrooms_champignon_name</name>
+	        <hint>@string/quiz_mushrooms_champignon_hint</hint>
+	        <description>@string/quiz_mushrooms_champignon_description</description>
+	        <answers>@array/quiz_mushrooms_champignon_answers</answers>
+	        <image>champignon.jpg</image>
+	        <link>@string/quiz_mushrooms_champignon_link</link>
+	        <facts>@array/quiz_mushrooms_champignon_facts</facts>
+	    </level>
+	</levels>
+</category>

@@ -1,0 +1,21 @@
+<resources>
+    
+    <!-- Strings related to Settings -->
+    <string name="title_activity_settings">Asetukset</string>
+
+    <!-- General settings -->
+    <string name="pref_header_general">Yleiset</string>
+    
+    <string name="pref_localization_title">Kieli</string>
+    <string-array name="pref_localization_titles">
+        <item>Englanti</item>
+        <item>Suomi</item>
+        <item>Venäjä</item>
+    </string-array>
+    <string-array name="pref_localization_values">
+        <item>en</item>
+        <item>fi</item>
+        <item>ru</item>
+    </string-array>
+    
+</resources>

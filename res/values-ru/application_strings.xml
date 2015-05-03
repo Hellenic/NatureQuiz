@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nature Quiz</string>
+    <string name="action_settings">предпочтения</string>
+    <string name="play_button">играть</string>
+    <string name="help_button">помощь</string>
+    <string name="title_activity_help">помощь</string>
+    <string name="help_description">Инструкция, как играть в эту игру.</string>
+
+</resources>

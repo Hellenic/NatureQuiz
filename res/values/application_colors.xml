@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="level_progressbar_completed">#009900</color>
+	<color name="level_progressbar_current">#0033CC</color>
+	<color name="level_progressbar_empty">#FFCC33</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ProgressBar
+        android:id="@+id/level_progressbar"
+        style="@style/CategoryProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dp"
+    	android:layout_marginRight="1dp"
+        android:max="100"
+        android:progress="100" />
+    
+</merge>

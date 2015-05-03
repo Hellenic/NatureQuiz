@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_berries_name</name>
+    <description>@string/quiz_berries_description</description>
+    <image>berries.jpg</image>
+    <link>@string/quiz_berries_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_berries_strawberry_name</name>
+	        <hint>@string/quiz_berries_strawberry_hint</hint>
+	        <description>@string/quiz_berries_strawberry_description</description>
+	        <answers>@array/quiz_berries_strawberry_answers</answers>
+	        <image>strawberries.jpg</image>
+	        <link>@string/quiz_berries_strawberry_link</link>
+	        <facts>@array/quiz_berries_strawberry_facts</facts>
+	    </level>
+	    
+	    <level id="2">
+	        <name>@string/quiz_berries_cherry_name</name>
+	        <hint>@string/quiz_berries_cherry_hint</hint>
+	        <description>@string/quiz_berries_cherry_description</description>
+	        <answers>@array/quiz_berries_cherry_answers</answers>
+	        <image>cherries.jpg</image>
+	        <link>@string/quiz_berries_cherry_link</link>
+	        <facts>@array/quiz_berries_cherry_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_berries_gooseberry_name</name>
+	        <hint>@string/quiz_berries_gooseberry_hint</hint>
+	        <description>@string/quiz_berries_gooseberry_description</description>
+	        <answers>@array/quiz_berries_gooseberry_answers</answers>
+	        <image>gooseberry.jpg</image>
+	        <link>@string/quiz_berries_gooseberry_link</link>
+	        <facts>@array/quiz_berries_gooseberry_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_berries_redcurrant_name</name>
+	        <hint>@string/quiz_berries_redcurrant_hint</hint>
+	        <description>@string/quiz_berries_redcurrant_description</description>
+	        <answers>@array/quiz_berries_redcurrant_answers</answers>
+	        <image>redcurrant.jpg</image>
+	        <link>@string/quiz_berries_redcurrant_link</link>
+	        <facts>@array/quiz_berries_redcurrant_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_berries_blackcurrant_name</name>
+	        <hint>@string/quiz_berries_blackcurrant_hint</hint>
+	        <description>@string/quiz_berries_blackcurrant_description</description>
+	        <answers>@array/quiz_berries_blackcurrant_answers</answers>
+	        <image>blackcurrant.jpg</image>
+	        <link>@string/quiz_berries_blackcurrant_link</link>
+	        <facts>@array/quiz_berries_blackcurrant_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_berries_blueberry_name</name>
+	        <hint>@string/quiz_berries_blueberry_hint</hint>
+	        <description>@string/quiz_berries_blueberry_description</description>
+	        <answers>@array/quiz_berries_blueberry_answers</answers>
+	        <image>blueberry.jpg</image>
+	        <link>@string/quiz_berries_blueberry_link</link>
+	        <facts>@array/quiz_berries_blueberry_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_berries_lingonberry_name</name>
+	        <hint>@string/quiz_berries_lingonberry_hint</hint>
+	        <description>@string/quiz_berries_lingonberry_description</description>
+	        <answers>@array/quiz_berries_lingonberry_answers</answers>
+	        <image>lingonberries.jpg</image>
+	        <link>@string/quiz_berries_lingonberry_link</link>
+	        <facts>@array/quiz_berries_lingonberry_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_berries_raspberry_name</name>
+	        <hint>@string/quiz_berries_raspberry_hint</hint>
+	        <description>@string/quiz_berries_raspberry_description</description>
+	        <answers>@array/quiz_berries_raspberry_answers</answers>
+	        <image>raspberry.jpg</image>
+	        <link>@string/quiz_berries_raspberry_link</link>
+	        <facts>@array/quiz_berries_raspberry_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_berries_cranberry_name</name>
+	        <hint>@string/quiz_berries_cranberry_hint</hint>
+	        <description>@string/quiz_berries_cranberry_description</description>
+	        <answers>@array/quiz_berries_cranberry_answers</answers>
+	        <image>cranberry.jpg</image>
+	        <link>@string/quiz_berries_cranberry_link</link>
+	        <facts>@array/quiz_berries_cranberry_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_berries_cloudberry_name</name>
+	        <hint>@string/quiz_berries_cloudberry_hint</hint>
+	        <description>@string/quiz_berries_cloudberry_description</description>
+	        <answers>@array/quiz_berries_cloudberry_answers</answers>
+	        <image>cloudberry.jpg</image>
+	        <link>@string/quiz_berries_cloudberry_link</link>
+	        <facts>@array/quiz_berries_cloudberry_facts</facts>
+	    </level>
+	    
+	    <level id="11">
+	        <name>@string/quiz_berries_crowberry_name</name>
+	        <hint>@string/quiz_berries_crowberry_hint</hint>
+	        <description>@string/quiz_berries_crowberry_description</description>
+	        <answers>@array/quiz_berries_crowberry_answers</answers>
+	        <image>crowberry.jpg</image>
+	        <link>@string/quiz_berries_crowberry_link</link>
+	        <facts>@array/quiz_berries_crowberry_facts</facts>
+	    </level>
+	    
+	    <level id="12">
+	        <name>@string/quiz_berries_buckthorn_name</name>
+	        <hint>@string/quiz_berries_buckthorn_hint</hint>
+	        <description>@string/quiz_berries_buckthorn_description</description>
+	        <answers>@array/quiz_berries_buckthorn_answers</answers>
+	        <image>buckthorn.jpg</image>
+	        <link>@string/quiz_berries_buckthorn_link</link>
+	        <facts>@array/quiz_berries_buckthorn_facts</facts>
+	    </level>
+	    
+	    <level id="13">
+	        <name>@string/quiz_berries_bilberry_name</name>
+	        <hint>@string/quiz_berries_bilberry_hint</hint>
+	        <description>@string/quiz_berries_bilberry_description</description>
+	        <answers>@array/quiz_berries_bilberry_answers</answers>
+	        <image>bilberry.jpg</image>
+	        <link>@string/quiz_berries_bilberry_link</link>
+	        <facts>@array/quiz_berries_bilberry_facts</facts>
+	    </level>
+	</levels>
+</category>

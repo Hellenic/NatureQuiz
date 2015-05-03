@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+    <name>@string/quiz_vegetables_name</name>
+    <description>@string/quiz_vegetables_description</description>
+    <image>vegetables.jpg</image>
+    <link>@string/quiz_vegetables_link</link>
+    <completedText>@string/quiz_default_category_completed</completedText>
+    <progressText>@string/quiz_default_category_progress</progressText>
+	<levels>
+	    
+	    <level id="1">
+	        <name>@string/quiz_vegetables_potato_name</name>
+	        <hint>@string/quiz_vegetables_potato_hint</hint>
+	        <description>@string/quiz_vegetables_potato_description</description>
+	        <answers>@array/quiz_vegetables_potato_answers</answers>
+	        <image>potato.jpg</image>
+	        <link>@string/quiz_vegetables_potato_link</link>
+	        <facts>@array/quiz_vegetables_potato_facts</facts>
+	    </level>
+	    
+	   	<level id="2">
+	        <name>@string/quiz_vegetables_carrot_name</name>
+	        <hint>@string/quiz_vegetables_carrot_hint</hint>
+	        <description>@string/quiz_vegetables_carrot_description</description>
+	        <answers>@array/quiz_vegetables_carrot_answers</answers>
+	        <image>carrots.jpg</image>
+	        <link>@string/quiz_vegetables_carrot_link</link>
+	        <facts>@array/quiz_vegetables_carrot_facts</facts>
+	    </level>
+	    
+	    <level id="3">
+	        <name>@string/quiz_vegetables_pea_name</name>
+	        <hint>@string/quiz_vegetables_pea_hint</hint>
+	        <description>@string/quiz_vegetables_pea_description</description>
+	        <answers>@array/quiz_vegetables_pea_answers</answers>
+	        <image>pea.jpg</image>
+	        <link>@string/quiz_vegetables_pea_link</link>
+	        <facts>@array/quiz_vegetables_pea_facts</facts>
+	    </level>
+	    
+	    <level id="4">
+	        <name>@string/quiz_vegetables_cabbage_name</name>
+	        <hint>@string/quiz_vegetables_cabbage_hint</hint>
+	        <description>@string/quiz_vegetables_cabbage_description</description>
+	        <answers>@array/quiz_vegetables_cabbage_answers</answers>
+	        <image>cabbage.jpg</image>
+	        <link>@string/quiz_vegetables_cabbage_link</link>
+	        <facts>@array/quiz_vegetables_cabbage_facts</facts>
+	    </level>
+	    
+	    <level id="5">
+	        <name>@string/quiz_vegetables_cucumber_name</name>
+	        <hint>@string/quiz_vegetables_cucumber_hint</hint>
+	        <description>@string/quiz_vegetables_cucumber_description</description>
+	        <answers>@array/quiz_vegetables_cucumber_answers</answers>
+	        <image>cucumber.jpg</image>
+	        <link>@string/quiz_vegetables_cucumber_link</link>
+	        <facts>@array/quiz_vegetables_cucumber_facts</facts>
+	    </level>
+	    
+	    <level id="6">
+	        <name>@string/quiz_vegetables_onion_name</name>
+	        <hint>@string/quiz_vegetables_onion_hint</hint>
+	        <description>@string/quiz_vegetables_onion_description</description>
+	        <answers>@array/quiz_vegetables_onion_answers</answers>
+	        <image>onion.jpg</image>
+	        <link>@string/quiz_vegetables_onion_link</link>
+	        <facts>@array/quiz_vegetables_onion_facts</facts>
+	    </level>
+	    
+	    <level id="7">
+	        <name>@string/quiz_vegetables_tomato_name</name>
+	        <hint>@string/quiz_vegetables_tomato_hint</hint>
+	        <description>@string/quiz_vegetables_tomato_description</description>
+	        <answers>@array/quiz_vegetables_tomato_answers</answers>
+	        <image>tomato.jpg</image>
+	        <link>@string/quiz_vegetables_tomato_link</link>
+	        <facts>@array/quiz_vegetables_tomato_facts</facts>
+	    </level>
+	    
+	    <level id="8">
+	        <name>@string/quiz_vegetables_rhubarb_name</name>
+	        <hint>@string/quiz_vegetables_rhubarb_hint</hint>
+	        <description>@string/quiz_vegetables_rhubarb_description</description>
+	        <answers>@array/quiz_vegetables_rhubarb_answers</answers>
+	        <image>rhubarb.jpg</image>
+	        <link>@string/quiz_vegetables_rhubarb_link</link>
+	        <facts>@array/quiz_vegetables_rhubarb_facts</facts>
+	    </level>
+	    
+	    <level id="9">
+	        <name>@string/quiz_vegetables_redish_name</name>
+	        <hint>@string/quiz_vegetables_redish_hint</hint>
+	        <description>@string/quiz_vegetables_redish_description</description>
+	        <answers>@array/quiz_vegetables_redish_answers</answers>
+	        <image>redish.jpg</image>
+	        <link>@string/quiz_vegetables_redish_link</link>
+	        <facts>@array/quiz_vegetables_redish_facts</facts>
+	    </level>
+	    
+	    <level id="10">
+	        <name>@string/quiz_vegetables_bean_name</name>
+	        <hint>@string/quiz_vegetables_bean_hint</hint>
+	        <description>@string/quiz_vegetables_bean_description</description>
+	        <answers>@array/quiz_vegetables_bean_answers</answers>
+	        <image>beans.jpg</image>
+	        <link>@string/quiz_vegetables_bean_link</link>
+	        <facts>@array/quiz_vegetables_bean_facts</facts>
+	    </level>
+	    
+	    <level id="11">
+	        <name>@string/quiz_vegetables_pepper_name</name>
+	        <hint>@string/quiz_vegetables_pepper_hint</hint>
+	        <description>@string/quiz_vegetables_pepper_description</description>
+	        <answers>@array/quiz_vegetables_pepper_answers</answers>
+	        <image>pepper.jpg</image>
+	        <link>@string/quiz_vegetables_pepper_link</link>
+	        <facts>@array/quiz_vegetables_pepper_facts</facts>
+	    </level>
+	    
+	    <level id="12">
+	        <name>@string/quiz_vegetables_pumpkin_name</name>
+	        <hint>@string/quiz_vegetables_pumpkin_hint</hint>
+	        <description>@string/quiz_vegetables_pumpkin_description</description>
+	        <answers>@array/quiz_vegetables_pumpkin_answers</answers>
+	        <image>pumpkin.jpg</image>
+	        <link>@string/quiz_vegetables_pumpkin_link</link>
+	        <facts>@array/quiz_vegetables_pumpkin_facts</facts>
+	    </level>
+	    
+	    <level id="13">
+	        <name>@string/quiz_vegetables_garlic_name</name>
+	        <hint>@string/quiz_vegetables_garlic_hint</hint>
+	        <description>@string/quiz_vegetables_garlic_description</description>
+	        <answers>@array/quiz_vegetables_garlic_answers</answers>
+	        <image>garlic.jpg</image>
+	        <link>@string/quiz_vegetables_garlic_link</link>
+	        <facts>@array/quiz_vegetables_garlic_facts</facts>
+	    </level>
+	    
+	    <level id="14">
+	        <name>@string/quiz_vegetables_beetroot_name</name>
+	        <hint>@string/quiz_vegetables_beetroot_hint</hint>
+	        <description>@string/quiz_vegetables_beetroot_description</description>
+	        <answers>@array/quiz_vegetables_beetroot_answers</answers>
+	        <image>beetroot.jpg</image>
+	        <link>@string/quiz_vegetables_beetroot_link</link>
+	        <facts>@array/quiz_vegetables_beetroot_facts</facts>
+	    </level>
+	    
+	    <level id="15">
+	        <name>@string/quiz_vegetables_marrow_name</name>
+	        <hint>@string/quiz_vegetables_marrow_hint</hint>
+	        <description>@string/quiz_vegetables_marrow_description</description>
+	        <answers>@array/quiz_vegetables_marrow_answers</answers>
+	        <image>zucchini.jpg</image>
+	        <link>@string/quiz_vegetables_marrow_link</link>
+	        <facts>@array/quiz_vegetables_marrow_facts</facts>
+	    </level>
+	    
+	</levels>
+</category>
