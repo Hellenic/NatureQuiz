@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fruits -->
+    <string name="quiz_fruits_name">Fruits</string>
+    <string name="quiz_fruits_description">Test how well you know the most common fruits!</string>
+    <string name="quiz_fruits_link">http://en.m.wikipedia.org/wiki/Fruits</string>
+    
+    <!-- Fruits / Levels -->
+    
+    <!-- Apple -->
+    <string name="quiz_fruits_apple_name">Apple</string>
+    <string name="quiz_fruits_apple_hint"></string>
+    <string name="quiz_fruits_apple_description">The apple tree (Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.</string>
+	<string-array name="quiz_fruits_apple_answers">
+    	<item>apple</item>
+	</string-array>
+	<string name="quiz_fruits_apple_link">http://en.m.wikipedia.org/wiki/apple</string>
+	<string-array name="quiz_fruits_apple_facts">
+	</string-array>
+	
+	<!-- Orange -->
+    <string name="quiz_fruits_orange_name">Orange</string>
+    <string name="quiz_fruits_orange_hint"></string>
+    <string name="quiz_fruits_orange_description">"The orange (specifically, the sweet orange) is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. The fruit of the Citrus × sinensis is considered a sweet orange, (whereas the fruit of the Citrus × aurantium is considered a bitter orange).
+
+The orange is a hybrid, between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a simple backcrossed BC1 hybrid, but hybridized over multiple generations. The chloroplast genes, and therefore the maternal line, seem to be pomelo."</string>
+	<string-array name="quiz_fruits_orange_answers">
+    	<item>orange</item>
+	</string-array>
+	<string name="quiz_fruits_orange_link">http://en.m.wikipedia.org/wiki/Orange_(fruit)</string>
+	<string-array name="quiz_fruits_orange_facts">
+	</string-array>
+	
+	<!-- Lemon -->
+    <string name="quiz_fruits_lemon_name">Lemon</string>
+    <string name="quiz_fruits_lemon_hint"></string>
+    <string name="quiz_fruits_lemon_description">The lemon (Citrus x limon) is a small evergreen tree native to Asia. The tree\'s ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, though the pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5\%% to 6\%% citric acid, which gives lemons a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie.</string>
+	<string-array name="quiz_fruits_lemon_answers">
+    	<item>lemon</item>
+	</string-array>
+	<string name="quiz_fruits_lemon_link">http://en.m.wikipedia.org/wiki/lemon</string>
+	<string-array name="quiz_fruits_lemon_facts">
+	</string-array>
+	
+	<!-- Banana -->
+    <string name="quiz_fruits_banana_name">Banana</string>
+    <string name="quiz_fruits_banana_hint"></string>
+    <string name="quiz_fruits_banana_description">A banana is an edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa. (In some countries, bananas used for cooking may be called plantains.) The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind which may be green, yellow, red, purple, or brown when ripe. The fruits grow in clusters hanging from the top of the plant. Almost all modern edible parthenocarpic (seedless) bananas come from two wild species – Musa acuminata and Musa balbisiana. The scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa × paradisiaca for the hybrid Musa acuminata × M. balbisiana, depending on their genomic constitution. The old scientific name Musa sapientum is no longer used.</string>
+	<string-array name="quiz_fruits_banana_answers">
+    	<item>banana</item>
+	</string-array>
+	<string name="quiz_fruits_banana_link">http://en.m.wikipedia.org/wiki/banana</string>
+	<string-array name="quiz_fruits_banana_facts">
+	</string-array>
+	
+	<!-- Cherry -->
+    <string name="quiz_fruits_cherry_name">Cherry</string>
+    <string name="quiz_fruits_cherry_hint"></string>
+    <string name="quiz_fruits_cherry_description">The cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). The cherry fruits of commerce are usually obtained from a limited number of species such as cultivars of the sweet cherry, Prunus avium. The name \'cherry\' also refers to the cherry tree, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in "ornamental cherry", "cherry blossom", etc. Wild Cherry may refer to any of the cherry species growing outside of cultivation, although Prunus avium is often referred to specifically by the name "wild cherry" in the British Isles.</string>
+	<string-array name="quiz_fruits_cherry_answers">
+    	<item>cherry</item>
+	</string-array>
+	<string name="quiz_fruits_cherry_link">http://en.m.wikipedia.org/wiki/cherry</string>
+	<string-array name="quiz_fruits_cherry_facts">
+	</string-array>
+	
+	<!-- Peach -->
+    <string name="quiz_fruits_peach_name">Peach</string>
+    <string name="quiz_fruits_peach_hint"></string>
+    <string name="quiz_fruits_peach_description">The peach (Prunus persica) is a deciduous tree, native to Northwest China, in the region between the Tarim Basin and the north slopes of the Kunlun Shan mountains, where it was first domesticated and cultivated. It bears an edible juicy fruit also called a peach.</string>
+	<string-array name="quiz_fruits_peach_answers">
+    	<item>peach</item>
+	</string-array>
+	<string name="quiz_fruits_peach_link">http://en.m.wikipedia.org/wiki/peach</string>
+	<string-array name="quiz_fruits_peach_facts">
+	</string-array>
+	
+	<!-- Pineapple -->
+    <string name="quiz_fruits_pineapple_name">Pineapple</string>
+    <string name="quiz_fruits_pineapple_hint"></string>
+    <string name="quiz_fruits_pineapple_description">The pineapple (Ananas comosus) is a tropical plant with edible multiple fruit consisting of coalesced berries, and the most economically significant plant in the Bromeliaceae family. Pineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 20–24 months and fruiting in the following six months. Pineapple does not ripen significantly post-harvest.</string>
+	<string-array name="quiz_fruits_pineapple_answers">
+    	<item>pineapple</item>
+	</string-array>
+	<string name="quiz_fruits_pineapple_link">http://en.m.wikipedia.org/wiki/pineapple</string>
+	<string-array name="quiz_fruits_pineapple_facts">
+	</string-array>
+	
+	<!-- Pear -->
+    <string name="quiz_fruits_pear_name">Pear</string>
+    <string name="quiz_fruits_pear_hint"></string>
+    <string name="quiz_fruits_pear_description">The pear is any of several tree and shrub species of genus Pyrus /ˈpaɪrəs/, in the family Rosaceae. It is also the name of the pomaceous fruit of these trees. Several species of pear are valued for their edible fruit, while others are cultivated as ornamental trees.</string>
+	<string-array name="quiz_fruits_pear_answers">
+    	<item>pear</item>
+	</string-array>
+	<string name="quiz_fruits_pear_link">http://en.m.wikipedia.org/wiki/pear</string>
+	<string-array name="quiz_fruits_pear_facts">
+	</string-array>
+	
+	<!-- Plum -->
+    <string name="quiz_fruits_plum_name">Plum</string>
+    <string name="quiz_fruits_plum_hint"></string>
+    <string name="quiz_fruits_plum_description">A plum is a fruit of the subgenus Prunus of the genus Prunus. The subgenus is distinguished from other subgenera (peaches, cherries, bird cherries, etc.) in the shoots having a terminal bud and solitary side buds (not clustered), the flowers in groups of one to five together on short stems, and the fruit having a groove running down one side and a smooth stone (or pit).</string>
+	<string-array name="quiz_fruits_plum_answers">
+    	<item>plum</item>
+	</string-array>
+	<string name="quiz_fruits_plum_link">http://en.m.wikipedia.org/wiki/plum</string>
+	<string-array name="quiz_fruits_plum_facts">
+	</string-array>
+	
+	<!-- Grapefruit -->
+    <string name="quiz_fruits_grapefruit_name">Grapefruit</string>
+    <string name="quiz_fruits_grapefruit_hint"></string>
+    <string name="quiz_fruits_grapefruit_description">The grapefruit (Citrus × paradisi) is a subtropical citrus tree known for its sour to semi-sweet fruit, an 18th-century hybrid first bred in Barbados. When found, it was named the "forbidden fruit"; and it has also been misidentified with the pomelo or shaddock (C. maxima), one of the parents of this hybrid, the other being sweet orange (C. × sinensis).</string>
+	<string-array name="quiz_fruits_grapefruit_answers">
+    	<item>grapefruit</item>
+	</string-array>
+	<string name="quiz_fruits_grapefruit_link">http://en.m.wikipedia.org/wiki/grapefruit</string>
+	<string-array name="quiz_fruits_grapefruit_facts">
+	</string-array>
+	
+	<!-- Watermelon -->
+    <string name="quiz_fruits_watermelon_name">Watermelon</string>
+    <string name="quiz_fruits_watermelon_hint"></string>
+    <string name="quiz_fruits_watermelon_description">Watermelon (Citrullus lanatus var. lanatus, family Cucurbitaceae) is a vine-like (scrambler and trailer) flowering plant originally from southern Africa. It is a large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers. It is grown for its edible fruit, also known as a watermelon, which is a special kind of berry referred to by botanists as a pepo. The fruit has a smooth hard rind, usually green with dark green stripes or yellow spots, and a juicy, sweet interior flesh, usually deep red to pink, but sometimes orange, yellow, or white, with many seeds.</string>
+	<string-array name="quiz_fruits_watermelon_answers">
+    	<item>watermelon</item>
+	</string-array>
+	<string name="quiz_fruits_watermelon_link">http://en.m.wikipedia.org/wiki/watermelon</string>
+	<string-array name="quiz_fruits_watermelon_facts">
+	</string-array>
+	
+</resources>

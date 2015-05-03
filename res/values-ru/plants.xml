@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Plants -->
+    <string name="quiz_plants_name">Plants</string>
+    <string name="quiz_plants_description">Test how well you know the most common plants!</string>
+    <string name="quiz_plants_link">http://en.m.wikipedia.org/wiki/Plants</string>
+    
+    <!-- Plants / Levels -->
+    
+    <!-- Thistle -->
+    <string name="quiz_plants_thistle_name">Thistle</string>
+    <string name="quiz_plants_thistle_hint"></string>
+    <string name="quiz_plants_thistle_description">Thistle is the common name of a group of flowering plants characterized by leaves with sharp prickles on the margins, mostly in the family Asteraceae. Prickles often occur all over the plant – on surfaces such as those of the stem and flat parts of leaves. These are an adaptation that protects the plant against herbivorous animals, discouraging them from feeding on the plant. Typically, an involucre with a clasping shape of a cup or urn subtends each of a thistle\'s flowerheads.</string>
+	<string-array name="quiz_plants_thistle_answers">
+    	<item>thistle</item>
+	</string-array>
+	<string name="quiz_plants_thistle_link">http://en.m.wikipedia.org/wiki/thistle</string>
+	<string-array name="quiz_plants_thistle_facts">
+	</string-array>
+	
+	<!-- Mugwort -->
+    <string name="quiz_plants_mugwort_name">Mugwort</string>
+    <string name="quiz_plants_mugwort_hint"></string>
+    <string name="quiz_plants_mugwort_description">Mugwort is a common name for several species of aromatic plants in the genus Artemisia. In Europe, mugwort most often refers to the species Artemisia vulgaris, or common mugwort. While other species are sometimes referred to by more specific common names, they may be called simply "mugwort" in many contexts. For example, one species, Artemisia argyi, is often called "mugwort" in the context of traditional Asian medicine but may be also referred to by the more specific name "Chinese mugwort".</string>
+	<string-array name="quiz_plants_mugwort_answers">
+    	<item>mugwort</item>
+	</string-array>
+	<string name="quiz_plants_mugwort_link">http://en.m.wikipedia.org/wiki/mugwort</string>
+	<string-array name="quiz_plants_mugwort_facts">
+	</string-array>
+	
+	<!-- Juniper -->
+    <string name="quiz_plants_juniper_name">Juniper</string>
+    <string name="quiz_plants_juniper_hint"></string>
+    <string name="quiz_plants_juniper_description">Junipers are coniferous plants in the genus Juniperus /dʒuːˈnɪpərəs/ of the cypress family Cupressaceae. Depending on taxonomic viewpoint, between 50 and 67 species of juniper are widely distributed throughout the Northern Hemisphere, from the Arctic, south to tropical Africa in the Old World, and to the mountains of Central America.</string>
+	<string-array name="quiz_plants_juniper_answers">
+    	<item>juniper</item>
+	</string-array>
+	<string name="quiz_plants_juniper_link">http://en.m.wikipedia.org/wiki/juniper</string>
+	<string-array name="quiz_plants_juniper_facts">
+	</string-array>
+	
+	<!-- Willowherb -->
+    <string name="quiz_plants_willowherb_name">Willowherb</string>
+    <string name="quiz_plants_willowherb_hint"></string>
+    <string name="quiz_plants_willowherb_description">Epilobium is a genus in the family Onagraceae, containing about 160-200 species of flowering plants with a worldwide distribution. They are generally abundant in the subarctic, temperate and subantarctic regions, whereas in the subtropics and tropics they are restricted to the cool montane biomes, such as the New Guinea Highlands where they are plentiful.</string>
+	<string-array name="quiz_plants_willowherb_answers">
+    	<item>willowherb</item>
+    	<item>epilobium</item>
+	</string-array>
+	<string name="quiz_plants_willowherb_link">http://en.m.wikipedia.org/wiki/willowherb</string>
+	<string-array name="quiz_plants_willowherb_facts">
+	</string-array>
+	
+	<!-- Milfoil -->
+    <string name="quiz_plants_milfoil_name">Achillae Millefolium</string>
+    <string name="quiz_plants_milfoil_hint"></string>
+    <string name="quiz_plants_milfoil_description">Achillea millefolium, known commonly as yarrow /\ˈjæroʊ/ or common yarrow, is a flowering plant in the family Asteraceae. It is native to temperate regions of the Northern Hemisphere in Asia, Europe, and North America. In New Mexico and southern Colorado, it is called plumajillo (Spanish for \'little feather\') from its leaf shape and texture. In antiquity, yarrow was known as herbal militaris, for its use in staunching the flow of blood from wounds. Other common names for this species include gordaldo, nosebleed plant, old man\'s pepper, devil\'s nettle, sanguinary, milfoil, soldier\'s woundwort, thousand-leaf, and thousand-seal.</string>
+	<string-array name="quiz_plants_milfoil_answers">
+    	<item>milfoil</item>
+    	<item>yarrow</item>
+    	<item>achillea millefolium</item>
+	</string-array>
+	<string name="quiz_plants_milfoil_link">http://en.m.wikipedia.org/wiki/Achillea_millefolium</string>
+	<string-array name="quiz_plants_milfoil_facts">
+	</string-array>
+	
+	<!-- Burdock -->
+    <string name="quiz_plants_burdock_name">Burdock</string>
+    <string name="quiz_plants_burdock_hint"></string>
+    <string name="quiz_plants_burdock_description">Arctium is a genus of biennial plants commonly known as burdock, family Asteraceae. Native to the Old World, several species have been widely introduced worldwide.</string>
+	<string-array name="quiz_plants_burdock_answers">
+	    <item>arctium</item>
+    	<item>burdock</item>
+	</string-array>
+	<string name="quiz_plants_burdock_link">http://en.m.wikipedia.org/wiki/burdock</string>
+	<string-array name="quiz_plants_burdock_facts">
+	</string-array>
+	
+</resources>

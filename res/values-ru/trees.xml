@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Trees category -->
+    <string name="quiz_trees_name">Trees</string>
+    <string name="quiz_trees_description">Trees - the lungs of the world. Test how well you know the most common ones!</string>
+    <string name="quiz_trees_link">http://en.m.wikipedia.org/wiki/Trees</string>
+    <string name="quiz_trees_completedText">Congratulations! You\'ve completed all the levels of the category. See if you can do the other categories!</string>
+    <string name="quiz_trees_progressText">Good attempt. However, there is still some unanswered questions. Try to get those too!</string>
+    
+    <!-- Trees / Levels -->
+    
+    <!-- Birch -->
+    <string name="quiz_trees_birch_name">Birch</string>
+    <string name="quiz_trees_birch_hint"></string>
+    <string name="quiz_trees_birch_description">Very common leave-tree especially on Nordic countries. Bark is mostly white with some black spots. Gets green leaves on the spring and drops them for winter.</string>
+	<string-array name="quiz_trees_birch_answers">
+    	<item>birch</item>
+	</string-array>
+	<string name="quiz_trees_birch_answerText">That\'s correct!</string>
+	<string name="quiz_trees_birch_link">http://en.m.wikipedia.org/wiki/Birch</string>
+	<string-array name="quiz_trees_birch_facts">
+	    <item>It\'s green.</item>
+	</string-array>
+
+	<!-- Pine -->
+    <string name="quiz_trees_pine_name">Pine</string>
+    <string name="quiz_trees_pine_hint"></string>
+    <string name="quiz_trees_pine_description">Common conifer which mostle has branches on the upper part, also stays green throughout the year.</string>
+	<string-array name="quiz_trees_pine_answers">
+    	<item>pine</item>
+	</string-array>
+	<string name="quiz_trees_pine_link">http://en.m.wikipedia.org/wiki/Pine</string>
+	<string-array name="quiz_trees_pine_facts">
+	    <item>It\'s green pine.</item>
+	</string-array>
+    
+	<!-- Spruce -->
+    <string name="quiz_trees_spruce_name">Spruce</string>
+    <string name="quiz_trees_spruce_hint">Popular for Christmas!</string>
+    <string name="quiz_trees_spruce_description">Common conifer which is thick on branches, also stays green throughout the year.</string>
+	<string-array name="quiz_trees_spruce_answers">
+    	<item>spruce</item>
+    	<item>fir</item>
+	</string-array>
+	<string name="quiz_trees_spruce_link">http://en.m.wikipedia.org/wiki/Spruce</string>
+	<string-array name="quiz_trees_spruce_facts">
+	    <item>It\'s green spruce.</item>
+	</string-array>
+	
+	<!-- Oak -->
+    <string name="quiz_trees_oak_name">Oak</string>
+    <string name="quiz_trees_oak_hint"></string>
+    <string name="quiz_trees_oak_description">An oak is a tree or shrub in the genus Quercus (/ˈkwɜrkəs/; Latin "oak tree") of the beech family, Fagaceae. There are approximately 600 extant species of oaks. The common name "oak" may also appear in the names of species in related genera, notably Lithocarpus. The genus is native to the Northern Hemisphere, and includes deciduous and evergreen species extending from cool temperate to tropical latitudes in Asia and the Americas.</string>
+	<string-array name="quiz_trees_oak_answers">
+    	<item>oak</item>
+	</string-array>
+	<string name="quiz_trees_oak_link">http://en.m.wikipedia.org/wiki/Oak</string>
+	<string-array name="quiz_trees_oak_facts">
+	    <item>It\'s green oak.</item>
+	</string-array>
+	
+	<!-- Alder -->
+    <string name="quiz_trees_alder_name">Alder</string>
+    <string name="quiz_trees_alder_hint"></string>
+    <string name="quiz_trees_alder_description">Alder is the common name of a genus of flowering plants (Alnus) belonging to the birch family Betulaceae. The genus comprises about 30 species of monoecious trees and shrubs, a few reaching a large size, distributed throughout the north temperate zone with a few species extending into Central America and the northern Andes.</string>
+	<string-array name="quiz_trees_alder_answers">
+    	<item>alder</item>
+	</string-array>
+	<string name="quiz_trees_alder_link">http://en.m.wikipedia.org/wiki/alder</string>
+	<string-array name="quiz_trees_alder_facts">
+	    <item>It\'s green alder.</item>
+	</string-array>
+	
+	<!-- Aspen -->
+    <string name="quiz_trees_aspen_name">Aspen</string>
+    <string name="quiz_trees_aspen_hint"></string>
+    <string name="quiz_trees_aspen_description">Aspen is a common name for certain tree species; some, but not all, are classified by botanists in the section Populus, of the poplar genus.</string>
+	<string-array name="quiz_trees_aspen_answers">
+    	<item>aspen</item>
+	</string-array>
+	<string name="quiz_trees_aspen_link">http://en.m.wikipedia.org/wiki/aspen</string>
+	<string-array name="quiz_trees_aspen_facts">
+	    <item>It\'s green aspen.</item>
+	</string-array>
+	
+	<!-- Willow -->
+    <string name="quiz_trees_willow_name">Willow</string>
+    <string name="quiz_trees_willow_hint"></string>
+    <string name="quiz_trees_willow_description">Willows, also called sallows, and osiers, form the genus Salix, around 400 species of deciduous trees and shrubs, found primarily on moist soils in cold and temperate regions of the Northern Hemisphere. Most species are known as willow, but some narrow-leaved shrub species are called osier, and some broader-leaved species are referred to as sallow (from Old English sealh, related to the Latin word salix, willow). Some willows (particularly arctic and alpine species) are low-growing or creeping shrubs; for example, the dwarf willow (Salix herbacea) rarely exceeds 6 cm (2.4 in) in height, though it spreads widely across the ground.</string>
+	<string-array name="quiz_trees_willow_answers">
+    	<item>willow</item>
+	</string-array>
+	<string name="quiz_trees_willow_link">http://en.m.wikipedia.org/wiki/willow</string>
+	<string-array name="quiz_trees_willow_facts">
+	    <item>It\'s green willow.</item>
+	</string-array>
+	
+	<!-- Rowan -->
+    <string name="quiz_trees_rowan_name">Rowan</string>
+    <string name="quiz_trees_rowan_hint"></string>
+    <string name="quiz_trees_rowan_description">The rowans or mountain-ashes are shrubs or trees in genus Sorbus of family Rosaceae. They are native throughout the cool temperate regions of the Northern Hemisphere, with the highest species diversity in the mountains of western China and the Himalaya, where numerous apomictic microspecies occur. The name rowan was originally applied to the species Sorbus aucuparia, and is also used for other species in Sorbus subgenus Sorbus. Rowans are unrelated to the true ash trees, which belong to the genus Fraxinus, family Oleaceae, though their leaves bear superficial similarity.</string>
+	<string-array name="quiz_trees_rowan_answers">
+    	<item>rowan</item>
+	</string-array>
+	<string name="quiz_trees_rowan_link">http://en.m.wikipedia.org/wiki/rowan</string>
+	<string-array name="quiz_trees_rowan_facts">
+	    <item>It\'s green rowan.</item>
+	</string-array>
+</resources>

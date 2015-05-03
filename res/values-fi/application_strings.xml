@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">Nature Quiz</string>
+    <string name="nature_quiz_header">Nature Quiz</string>
     <string name="action_settings">Asetukset</string>
+    <string name="action_quit">Lopeta</string>
     <string name="play_button">Pelaa</string>
     <string name="help_button">Ohjeet</string>
     <string name="title_activity_help">Ohjeet</string>
@@ -16,5 +18,32 @@
          * http://commons.wikimedia.org/wiki/
         "
     </string>
+    <string name="title_activity_play">Quiz</string>
+    <string name="title_activity_final">Completed</string>
+    <string name="title_activity_category">Categories</string>
+    
+    <!-- Game strings -->
+    <string name="quiz_picture_description">Quiz picture</string>
+    <string name="quiz_answer_message">Write the answer here</string>
+    <string name="quiz_answer_button">Done</string>
+    <string name="quiz_next_button">Okay</string>
+    <string name="quiz_complete_game">Complete</string>
+    <string name="quiz_category_text">Category</string>
+    <string name="quiz_dialog_reset_category">Reset the category progress?</string>
+    <string name="quiz_dialog_yes">Yes</string>
+    <string name="quiz_dialog_no">Cancel</string>
+    
+    <string name="game_action_back_fast">Skip backwards</string>
+    <string name="game_action_back">Back</string>
+    <string name="game_action_forward">Forward</string>
+    <string name="game_action_forward_fast">Skip forward</string>
+    
+    <!-- Game defaults -->
+    <string name="quiz_default_hint">Default hint text placeholder</string>
+    <string name="quiz_default_answer_text">Correct!</string>
+    <string name="quiz_default_synonym_answer_text">Close enough, we\'ll give you this one!</string>
+    <string name="quiz_default_incorrect_answer_text">Try again!</string>
+    <string name="quiz_default_category_completed">Congratulations! You\'ve completed all the levels of the category. See if you can do the other categories!</string>
+    <string name="quiz_default_category_progress">Good attempt. However, there is still some unanswered questions. Try to get those too!</string>
 
 </resources>

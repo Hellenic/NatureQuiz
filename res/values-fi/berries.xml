@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Berries -->
+    <string name="quiz_berries_name">Berries</string>
+    <string name="quiz_berries_description">Test how well you know the most common berries!</string>
+    <string name="quiz_berries_link">http://en.m.wikipedia.org/wiki/Berries</string>
+    
+    <!-- Berries / Levels -->
+    
+    <!-- Strawberry -->
+    <string name="quiz_berries_strawberry_name">Strawberry</string>
+    <string name="quiz_berries_strawberry_hint"></string>
+    <string name="quiz_berries_strawberry_description">Red and delicious summer fruit.</string>
+	<string-array name="quiz_berries_strawberry_answers">
+    	<item>strawberry</item>
+	</string-array>
+	<string name="quiz_berries_strawberry_link">http://en.m.wikipedia.org/wiki/Strawberry</string>
+	<string-array name="quiz_berries_strawberry_facts">
+	    <item>It\'s red.</item>
+	</string-array>
+    
+	<!-- Cherry -->
+    <string name="quiz_berries_cherry_name">Cherry</string>
+    <string name="quiz_berries_cherry_hint"></string>
+    <string name="quiz_berries_cherry_description">The cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). The cherry fruits of commerce are usually obtained from a limited number of species such as cultivars of the sweet cherry, Prunus avium. The name \'cherry\' also refers to the cherry tree, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in &quot;ornamental cherry&quot;, &quot;cherry blossom&quot;, etc. Wild Cherry may refer to any of the cherry species growing outside of cultivation, although Prunus avium is often referred to specifically by the name &quot;wild cherry&quot; in the British Isles.</string>
+    <string-array name="quiz_berries_cherry_answers">
+    	<item>cherry</item>
+    	<item>cherries</item>
+	</string-array>
+	<string name="quiz_berries_cherry_link">http://en.m.wikipedia.org/wiki/Cherry</string>
+	<string-array name="quiz_berries_cherry_facts">
+	    <item>Red / Purple</item>
+	</string-array>
+	
+	<!-- Gooseberry -->
+    <string name="quiz_berries_gooseberry_name">gooseberry</string>
+    <string name="quiz_berries_gooseberry_hint"></string>
+    <string name="quiz_berries_gooseberry_description">The gooseberry (/ˈɡuːsbɛri/ or /ˈɡuːzbɛri/ (American) or /ˈɡʊzbəri/ (British)), with scientific names Ribes uva-crispa (and syn. Ribes grossularia), is a species of Ribes (which also includes the currants). It is native to Europe, northwestern Africa, west, south and southeast Asia. Gooseberry bushes produce an edible fruit and are grown on both a commercial and domestic basis.</string>
+	<string-array name="quiz_berries_gooseberry_answers">
+    	<item>gooseberry</item>
+	</string-array>
+	<string name="quiz_berries_gooseberry_link">http://en.m.wikipedia.org/wiki/gooseberry</string>
+	<string-array name="quiz_berries_gooseberry_facts">
+	</string-array>
+	
+	<!-- Red currant -->
+    <string name="quiz_berries_redcurrant_name">redcurrant</string>
+    <string name="quiz_berries_redcurrant_hint"></string>
+    <string name="quiz_berries_redcurrant_description">The redcurrant (or red currant), Ribes rubrum, is a member of the genus Ribes in the gooseberry family Grossulariaceae, native to parts of western Europe (Belgium, Great Britain ergo England, Scotland, Northern Ireland and Wales, France, Norway, Sweden, Germany, Netherlands, northern Italy, northern Spain, Portugal and Poland). It is a deciduous shrub normally growing to 1–1.5 m (3.3–4.9 ft) tall, occasionally 2 m (7 ft), with five-lobed leaves arranged spirally on the stems. The flowers are inconspicuous yellow-green, in pendulous 4–8 cm (2–3 in) racemes, maturing into bright red translucent edible berries about 8–12 mm (0.3–0.5 in) diameter, with 3–10 berries on each raceme. An established bush can produce 3–4 kg (7–9 lb) of berries from mid to late summer.</string>
+	<string-array name="quiz_berries_redcurrant_answers">
+    	<item>redcurrant</item>
+	</string-array>
+	<string name="quiz_berries_redcurrant_link">http://en.m.wikipedia.org/wiki/redcurrant</string>
+	<string-array name="quiz_berries_redcurrant_facts">
+	    <item>It\'s red.</item>
+	</string-array>
+	
+	<!-- Black currant -->
+    <string name="quiz_berries_blackcurrant_name">blackcurrant</string>
+    <string name="quiz_berries_blackcurrant_hint"></string>
+    <string name="quiz_berries_blackcurrant_description">Slightly sour summer fruit. Most popular on cakes or as a juice. Juice is especially good during winter when warmed.</string>
+	<string-array name="quiz_berries_blackcurrant_answers">
+    	<item>blackcurrant</item>
+	</string-array>
+	<string name="quiz_berries_blackcurrant_link">http://en.m.wikipedia.org/wiki/blackcurrant</string>
+	<string-array name="quiz_berries_blackcurrant_facts">
+	    <item>It\'s red.</item>
+	</string-array>
+	
+	<!-- Blueberry -->
+    <string name="quiz_berries_blueberry_name">blueberry</string>
+    <string name="quiz_berries_blueberry_hint"></string>
+    <string name="quiz_berries_blueberry_description">Usually ripe starting from July. Rather sweet berry used for many purposes.</string>
+	<string-array name="quiz_berries_blueberry_answers">
+    	<item>blueberry</item>
+	</string-array>
+	<string name="quiz_berries_blueberry_link">http://en.m.wikipedia.org/wiki/blueberry</string>
+	<string-array name="quiz_berries_blueberry_facts">
+	    <item>It\'s red.</item>
+	</string-array>
+	
+	<!-- Lingonberry -->
+    <string name="quiz_berries_lingonberry_name">lingonberry</string>
+    <string name="quiz_berries_lingonberry_hint"></string>
+    <string name="quiz_berries_lingonberry_description">Not so sweet summer fruit. Most popular on pies or as a juice.</string>
+	<string-array name="quiz_berries_lingonberry_answers">
+    	<item>lingonberry</item>
+	</string-array>
+	<string name="quiz_berries_lingonberry_link">http://en.m.wikipedia.org/wiki/lingonberry</string>
+	<string-array name="quiz_berries_lingonberry_facts">
+	    <item>It\'s red.</item>
+	</string-array>
+	
+	<!-- Raspberry -->
+    <string name="quiz_berries_raspberry_name">raspberry</string>
+    <string name="quiz_berries_raspberry_hint"></string>
+    <string name="quiz_berries_raspberry_description">Usually ripe starting from July. Rather sweet berry used for many purposes.</string>
+	<string-array name="quiz_berries_raspberry_answers">
+    	<item>raspberry</item>
+	</string-array>
+	<string name="quiz_berries_raspberry_link">http://en.m.wikipedia.org/wiki/raspberry</string>
+	<string-array name="quiz_berries_raspberry_facts">
+	    <item>It\'s red.</item>
+	</string-array>
+	
+	<!-- Cloudberry -->
+    <string name="quiz_berries_cloudberry_name">cloudberry</string>
+    <string name="quiz_berries_cloudberry_hint">Grows in swampy areas.</string>
+    <string name="quiz_berries_cloudberry_description">Rubus chamaemorus (derived from Greek chamai &quot;on the ground&quot;, moros &quot;mulberry&quot;), though not the same as the berry now called \'mulberry\', is a rhizomatous herb native to alpine and arctic tundra and boreal forest, producing amber-colored edible fruit similar to the raspberry or blackberry. English common names include cloudberry, bakeapple (in Newfoundland and Labrador), knotberry and knoutberry (in England), aqpik or low-bush salmonberry (in Alaska - not to be confused with true salmonberry, Rubus spectabilis), and averin or evron (in Scotland).</string>
+	<string-array name="quiz_berries_cloudberry_answers">
+    	<item>cloudberry</item>
+	</string-array>
+	<string name="quiz_berries_cloudberry_link">http://en.m.wikipedia.org/wiki/cloudberry</string>
+	<string-array name="quiz_berries_cloudberry_facts">
+	    <item>Orange</item>
+	</string-array>
+	
+	<!-- Cranberry -->
+    <string name="quiz_berries_cranberry_name">Cranberry</string>
+    <string name="quiz_berries_cranberry_hint"></string>
+    <string name="quiz_berries_cranberry_description">Cranberries are a group of evergreen dwarf shrubs or trailing vines in the subgenus Oxycoccus of the genus Vaccinium. In Britain, cranberry may refer to the native species Vaccinium oxycoccos, while in North America, cranberry may refer to Vaccinium macrocarpon. Vaccinium oxycoccos is cultivated in central and northern Europe, while Vaccinium macrocarpon is cultivated throughout the northern United States, Canada and Chile. In some methods of classification, Oxycoccus is regarded as a genus in its own right. They can be found in acidic bogs throughout the cooler regions of the northern hemisphere.</string>
+	<string-array name="quiz_berries_cranberry_answers">
+    	<item>cranberry</item>
+	</string-array>
+	<string name="quiz_berries_cranberry_link">http://en.m.wikipedia.org/wiki/cranberry</string>
+	<string-array name="quiz_berries_cranberry_facts">
+	    <item>It\'s red.</item>
+	</string-array>
+	
+	<!-- Crowberry -->
+    <string name="quiz_berries_crowberry_name">crowberry</string>
+    <string name="quiz_berries_crowberry_hint"></string>
+    <string name="quiz_berries_crowberry_description">Empetrum nigrum, crowberry or black crowberry, is a species of Empetrum with a circumboreal distribution. It is usually dioecious, but there is a bisexual tetraploid subspecies, Empetrum nigrum ssp. hermaphroditum, that occurs in more northerly locations and at higher altitude.</string>
+	<string-array name="quiz_berries_crowberry_answers">
+    	<item>crowberry</item>
+	</string-array>
+	<string name="quiz_berries_crowberry_link">http://en.m.wikipedia.org/wiki/crowberry</string>
+	<string-array name="quiz_berries_crowberry_facts">
+	    <item>Black</item>
+	</string-array>
+	
+	<!-- Buckthorn -->
+    <string name="quiz_berries_buckthorn_name">Sea buckthorn</string>
+    <string name="quiz_berries_buckthorn_hint"></string>
+    <string name="quiz_berries_buckthorn_description">Hippophae rhamnoides (common sea-buckthorn) is a species of flowering plant in the family Elaeagnaceae, native to fixed dunes and sea cliffs in Europe and Asia. It is a spiny deciduous shrub. The fruits of sea buckthorn are used in a wide variety of products. Due to difficult harvest conditions and long ramp-up time of 6 to 8 years buckthorn is a relatively expensive raw material.</string>
+	<string-array name="quiz_berries_buckthorn_answers">
+    	<item>buckthorn</item>
+    	<item>sea buckthorn</item>
+	</string-array>
+	<string name="quiz_berries_buckthorn_link">http://en.m.wikipedia.org/wiki/Hippophae_rhamnoides</string>
+	<string-array name="quiz_berries_buckthorn_facts">
+	    <item>Orange</item>
+	    <item>Super food</item>
+	</string-array>
+	
+	<!-- Bilberry -->
+    <string name="quiz_berries_bilberry_name">bilberry</string>
+    <string name="quiz_berries_bilberry_hint">Tip: Not a blueberry</string>
+    <string name="quiz_berries_bilberry_description">Bilberry is any of several primarily Eurasian species of low-growing shrubs in the genus Vaccinium (family Ericaceae), bearing edible, nearly black berries. The species most often referred to is Vaccinium myrtillus L., but there are several other closely related species. Bilberries are distinct from blueberries but closely related to them.</string>
+	<string-array name="quiz_berries_bilberry_answers">
+    	<item>bilberry</item>
+	</string-array>
+	<string name="quiz_berries_bilberry_link">http://en.m.wikipedia.org/wiki/bilberry</string>
+	<string-array name="quiz_berries_bilberry_facts">
+	</string-array>
+</resources>

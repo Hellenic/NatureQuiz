@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Big birds -->
+    <string name="quiz_bigbirds_name">Big birds</string>
+    <string name="quiz_bigbirds_description">Test how well you know the most common bigger birds!</string>
+    <string name="quiz_bigbirds_link">http://en.m.wikipedia.org/wiki/Bird</string>
+    
+    <!-- Big birds / Levels -->
+    
+    <!-- Duck -->
+    <string name="quiz_bigbirds_duck_name">Duck</string>
+    <string name="quiz_bigbirds_duck_hint"></string>
+    <string name="quiz_bigbirds_duck_description">Duck is the common name for a large number of species in the Anatidae family of birds which also includes swans and geese. The ducks are divided among several subfamilies in the Anatidae family; they do not represent a monophyletic group (the group of all descendants of a single common ancestral species) but a form taxon, since swans and geese are not considered ducks. Ducks are mostly aquatic birds, mostly smaller than the swans and geese, and may be found in both fresh water and sea water.</string>
+	<string-array name="quiz_bigbirds_duck_answers">
+    	<item>duck</item>
+	</string-array>
+	<string name="quiz_bigbirds_duck_link">http://en.m.wikipedia.org/wiki/duck</string>
+	<string-array name="quiz_bigbirds_duck_facts">
+	</string-array>
+	
+	<!-- Goose -->
+    <string name="quiz_bigbirds_goose_name">Goose</string>
+    <string name="quiz_bigbirds_goose_hint"></string>
+    <string name="quiz_bigbirds_goose_description">Geese are waterfowl belonging to the tribe Anserini of the family Anatidae. This tribe comprises the genera Anser (the grey geese), Branta (the black geese) and Chen (the white geese). A number of other birds, mostly related to the shelducks, have "goose" as part of their names. More distantly related members of the Anatidae family are swans, most of which are larger than true geese, and ducks, which are smaller.</string>
+	<string-array name="quiz_bigbirds_goose_answers">
+    	<item>goose</item>
+	</string-array>
+	<string name="quiz_bigbirds_goose_link">http://en.m.wikipedia.org/wiki/goose</string>
+	<string-array name="quiz_bigbirds_goose_facts">
+	</string-array>
+	
+	<!-- Swan -->
+    <string name="quiz_bigbirds_swan_name">Swan</string>
+    <string name="quiz_bigbirds_swan_hint"></string>
+    <string name="quiz_bigbirds_swan_description">Swans are birds of the family Anatidae within the genus Cygnus. The swans\' close relatives include the geese and ducks. Swans are grouped with the closely related geese in the subfamily Anserinae where they form the tribe Cygnini. Sometimes, they are considered a distinct subfamily, Cygninae. There are six or seven species of swan in the genus Cygnus; in addition there is another species known as the coscoroba swan, although this species is no longer considered one of the true swans.</string>
+	<string-array name="quiz_bigbirds_swan_answers">
+    	<item>swan</item>
+	</string-array>
+	<string name="quiz_bigbirds_swan_link">http://en.m.wikipedia.org/wiki/swan</string>
+	<string-array name="quiz_bigbirds_swan_facts">
+	</string-array>
+	
+	<!-- Goldeneye -->
+    <string name="quiz_bigbirds_goldeneye_name">Goldeneye</string>
+    <string name="quiz_bigbirds_goldeneye_hint"></string>
+    <string name="quiz_bigbirds_goldeneye_description">Goldeneye or whistler (Bucephala clangula) is a species of small tree-hole nesting northern hemisphere seaducks belonging to the genus Bucephala. The plumage is black and white. Goldeneyes eat fish, crustaceans, and other marine life. The "whistler" name comes from the noise their beating wings make in flight.</string>
+	<string-array name="quiz_bigbirds_goldeneye_answers">
+    	<item>goldeneye</item>
+	</string-array>
+	<string name="quiz_bigbirds_goldeneye_link">http://en.m.wikipedia.org/wiki/Goldeneye_(duck)</string>
+	<string-array name="quiz_bigbirds_goldeneye_facts">
+	</string-array>
+	
+	<!-- Crane -->
+    <string name="quiz_bigbirds_crane_name">Crane</string>
+    <string name="quiz_bigbirds_crane_hint"></string>
+    <string name="quiz_bigbirds_crane_description">Cranes are a clade (Gruidae) of large, long-legged and long-necked birds in the group Gruiformes. There are fifteen species of crane in four genera. Unlike the similar-looking but unrelated herons, cranes fly with necks outstretched, not pulled back. Cranes live on all continents except Antarctica and South America.</string>
+	<string-array name="quiz_bigbirds_crane_answers">
+    	<item>crane</item>
+	</string-array>
+	<string name="quiz_bigbirds_crane_link">http://en.m.wikipedia.org/wiki/Crane_(bird)</string>
+	<string-array name="quiz_bigbirds_crane_facts">
+	</string-array>
+	
+	<!-- Heron -->
+    <string name="quiz_bigbirds_heron_name">Heron</string>
+    <string name="quiz_bigbirds_heron_hint"></string>
+    <string name="quiz_bigbirds_heron_description">The herons are long-legged freshwater and coastal birds in the family Ardeidae, with 64 recognised species (some are called "egrets" or "bitterns" instead of "heron"). Although herons resemble birds in some other families, such as the storks, ibises, spoonbills and cranes, they differ from these in flying with their necks retracted, not outstretched. They are also one of the bird groups that have powder down. Some members of this group nest colonially in trees, while others, notably the bitterns, use reed beds.</string>
+	<string-array name="quiz_bigbirds_heron_answers">
+    	<item>heron</item>
+	</string-array>
+	<string name="quiz_bigbirds_heron_link">http://en.m.wikipedia.org/wiki/heron</string>
+	<string-array name="quiz_bigbirds_heron_facts">
+	</string-array>
+	
+	<!-- Hawk -->
+    <string name="quiz_bigbirds_hawk_name">Hawk</string>
+    <string name="quiz_bigbirds_hawk_hint"></string>
+    <string name="quiz_bigbirds_hawk_description">Hawk is a common name for some small to medium-sized diurnal birds of prey, widely distributed and varying greatly in size.</string>
+	<string-array name="quiz_bigbirds_hawk_answers">
+    	<item>hawk</item>
+	</string-array>
+	<string name="quiz_bigbirds_hawk_link">http://en.m.wikipedia.org/wiki/hawk</string>
+	<string-array name="quiz_bigbirds_hawk_facts">
+	</string-array>
+	
+	<!-- Eagle -->
+    <string name="quiz_bigbirds_eagle_name">Eagle</string>
+    <string name="quiz_bigbirds_eagle_hint"></string>
+    <string name="quiz_bigbirds_eagle_description">Eagle is a common name for many large birds of prey of the family Accipitridae; it belongs to several groups of genera that are not necessarily closely related to each other. Most of the sixty species of eagles are from Eurasia and Africa. Outside this area, just fourteen species can be found – two in North America, nine in Central and South America, and three in Australia.</string>
+	<string-array name="quiz_bigbirds_eagle_answers">
+    	<item>eagle</item>
+	</string-array>
+	<string name="quiz_bigbirds_eagle_link">http://en.m.wikipedia.org/wiki/eagle</string>
+	<string-array name="quiz_bigbirds_eagle_facts">
+	</string-array>
+	
+	<!-- Owl -->
+    <string name="quiz_bigbirds_owl_name">Owl</string>
+    <string name="quiz_bigbirds_owl_hint"></string>
+    <string name="quiz_bigbirds_owl_description">Owls are birds from the order Strigiformes, which includes about 200 species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing and feathers adapted for silent flight. Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.</string>
+	<string-array name="quiz_bigbirds_owl_answers">
+    	<item>owl</item>
+	</string-array>
+	<string name="quiz_bigbirds_owl_link">http://en.m.wikipedia.org/wiki/owl</string>
+	<string-array name="quiz_bigbirds_owl_facts">
+	</string-array>
+	
+	<!-- Grouse -->
+    <string name="quiz_bigbirds_grouse_name">Grouse</string>
+    <string name="quiz_bigbirds_grouse_hint"></string>
+    <string name="quiz_bigbirds_grouse_description">Grouse /\ˈɡraʊs/ are a group of birds from the order Galliformes, in the family Phasianidae. Grouse are frequently assigned to the subfamily Tetraoninae (sometimes Tetraonidae), a classification supported by mitochondrial DNA sequence studies, and applied by the American Ornithologists\' Union, ITIS, and others. Grouse inhabit temperate and subarctic regions of the northern hemisphere, from pine forests to moorland and mountainside, from 83° North (rock ptarmigan in northern Greenland) to 28° North (Attwater\'s prairie chicken in Texas).</string>
+	<string-array name="quiz_bigbirds_grouse_answers">
+    	<item>grouse</item>
+    	<item>wood grouse</item>
+    	<item>male grouse</item>
+	</string-array>
+	<string name="quiz_bigbirds_grouse_link">http://en.m.wikipedia.org/wiki/grouse</string>
+	<string-array name="quiz_bigbirds_grouse_facts">
+	</string-array>
+	
+	<!-- Hazel grouse -->
+    <string name="quiz_bigbirds_fgrouse_name">Hazel Grouse</string>
+    <string name="quiz_bigbirds_fgrouse_hint"></string>
+    <string name="quiz_bigbirds_fgrouse_description">Grouse /\ˈɡraʊs/ are a group of birds from the order Galliformes, in the family Phasianidae. Grouse are frequently assigned to the subfamily Tetraoninae (sometimes Tetraonidae), a classification supported by mitochondrial DNA sequence studies, and applied by the American Ornithologists\' Union, ITIS, and others. Grouse inhabit temperate and subarctic regions of the northern hemisphere, from pine forests to moorland and mountainside, from 83° North (rock ptarmigan in northern Greenland) to 28° North (Attwater\'s prairie chicken in Texas).</string>
+	<string-array name="quiz_bigbirds_fgrouse_answers">
+    	<item>grouse</item>
+    	<item>hazel grouse</item>
+    	<item>female grouse</item>
+	</string-array>
+	<string name="quiz_bigbirds_fgrouse_link">http://en.m.wikipedia.org/wiki/grouse</string>
+	<string-array name="quiz_bigbirds_fgrouse_facts">
+	</string-array>
+	
+	<!-- Pheasant -->
+    <string name="quiz_bigbirds_pheasant_name">Pheasant</string>
+    <string name="quiz_bigbirds_pheasant_hint"></string>
+    <string name="quiz_bigbirds_pheasant_description">Pheasant (/ˈfɛzənt/) refers to several genera within the subfamily Phasianinae, of the family Phasianidae in the order Galliformes. The best-known is the common pheasant, which is widespread throughout the world in introduced feral populations and in farm operations. Various other pheasant species are popular in aviaries, such as the golden pheasant (Chrysolophus pictus).</string>
+	<string-array name="quiz_bigbirds_pheasant_answers">
+    	<item>pheasant</item>
+	</string-array>
+	<string name="quiz_bigbirds_pheasant_link">http://en.m.wikipedia.org/wiki/pheasant</string>
+	<string-array name="quiz_bigbirds_pheasant_facts">
+	</string-array>
+	
+</resources>

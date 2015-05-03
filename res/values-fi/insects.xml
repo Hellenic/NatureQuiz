@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Insects -->
+    <string name="quiz_insects_name">Insects</string>
+    <string name="quiz_insects_description">Test how well you know the most common insects!</string>
+    <string name="quiz_insects_link">http://en.m.wikipedia.org/wiki/Insects</string>
+    
+    <!-- Insects / Levels -->
+    
+    <!-- Mosquito -->
+    <string name="quiz_insects_mosquito_name">Mosquito</string>
+    <string name="quiz_insects_mosquito_hint"></string>
+    <string name="quiz_insects_mosquito_description">Mosquitoes are a family of small, midge-like flies: the Culicidae. Although a few species are harmless or even useful to humanity, the females of most species are ectoparasites whose tube-like mouthparts (called a proboscis) pierce the hosts\' skin to suck the blood. The word &quot;mosquito&quot; (formed by mosca and diminutive ito) is from the Spanish or Portuguese for &quot;little fly&quot;. Thousands of species feed on the blood of various kinds of hosts, mainly vertebrates, including mammals, birds, reptiles, amphibians, and even some kinds of fish. Some mosquitoes also attack invertebrates, mainly arthropods. Though the loss of blood is seldom of any importance to the victim, the saliva of the mosquito often causes an irritating rash that is a serious nuisance. Much more serious though, are the roles of many species of mosquitoes as vectors of diseases. In passing from host to host, some transmit extremely harmful infections such as malaria, yellow fever, west nile virus and filariasis.</string>
+	<string-array name="quiz_insects_mosquito_answers">
+    	<item>mosquito</item>
+	</string-array>
+	<string name="quiz_insects_mosquito_link">http://en.m.wikipedia.org/wiki/mosquito</string>
+	<string-array name="quiz_insects_mosquito_facts">
+	</string-array>
+	
+	<!-- Horsefly -->
+    <string name="quiz_insects_horsefly_name">Horsefly</string>
+    <string name="quiz_insects_horsefly_hint"></string>
+    <string name="quiz_insects_horsefly_description">Horse-fly is the most widely used English common name for members of the family Tabanidae. Apart from the common name "horse-flies", broad categories of biting, bloodsucking Tabanidae are variously known as breeze flies, cleggs, klegs, or clags, deer flies, gadflies, or zimbs. In some areas of Canada, they also are known as bull dog flies, and in Newfoundland and Labrador as stouts. In Australia some species are known as "March flies", a name that in other English-speaking countries refers to the non-bloodsucking Bibionidae.</string>
+	<string-array name="quiz_insects_horsefly_answers">
+    	<item>horsefly</item>
+    	<item>gadfly</item>
+    	<item>botfly</item>
+	</string-array>
+	<string name="quiz_insects_horsefly_link">http://en.m.wikipedia.org/wiki/horsefly</string>
+	<string-array name="quiz_insects_horsefly_facts">
+	</string-array>
+	
+	<!-- Bee -->
+    <string name="quiz_insects_bee_name">Bee</string>
+    <string name="quiz_insects_bee_hint"></string>
+    <string name="quiz_insects_bee_description">Bees are flying insects closely related to wasps and ants, and are known for their role in pollination and for producing honey and beeswax. Bees are a monophyletic lineage within the superfamily Apoidea, presently considered as a clade Anthophila. There are nearly 20,000 known species of bees in seven to nine recognized families, though many are undescribed and the actual number is probably higher. They are found on every continent except Antarctica, in every habitat on the planet that contains insect-pollinated flowering plants.</string>
+	<string-array name="quiz_insects_bee_answers">
+    	<item>bee</item>
+    	<item>bumblebee</item>
+	</string-array>
+	<string name="quiz_insects_bee_link">http://en.m.wikipedia.org/wiki/bee</string>
+	<string-array name="quiz_insects_bee_facts">
+	</string-array>
+	
+	<!-- Wasp -->
+    <string name="quiz_insects_wasp_name">Wasp</string>
+    <string name="quiz_insects_wasp_hint"></string>
+    <string name="quiz_insects_wasp_description">A wasp is any insect of the order Hymenoptera and suborder Apocrita that is neither a bee nor an ant. Almost every pest insect species has at least one wasp species that preys upon it or parasitizes it, making wasps critically important in natural control of their numbers, or natural biocontrol. Parasitic wasps are increasingly used in agricultural pest control as they prey mostly on pest insects and have little impact on crops.</string>
+	<string-array name="quiz_insects_wasp_answers">
+    	<item>wasp</item>
+    	<item>bee</item>
+	</string-array>
+	<string name="quiz_insects_wasp_link">http://en.m.wikipedia.org/wiki/wasp</string>
+	<string-array name="quiz_insects_wasp_facts">
+	</string-array>
+	
+	<!-- Butterfly -->
+    <string name="quiz_insects_butterfly_name">Butterfly</string>
+    <string name="quiz_insects_butterfly_hint"></string>
+    <string name="quiz_insects_butterfly_description">Butterflies are part of the class of insects in the order Lepidoptera. Adult butterflies have large, often brightly coloured wings, and conspicuous, fluttering flight. The group comprises the true butterflies (superfamily Papilionoidea), the skippers (superfamily Hesperioidea) and the moth-butterflies (superfamily Hedyloidea). Butterfly fossils date to the mid Eocene epoch, 40–50 million years ago.</string>
+	<string-array name="quiz_insects_butterfly_answers">
+    	<item>butterfly</item>
+	</string-array>
+	<string name="quiz_insects_butterfly_link">http://en.m.wikipedia.org/wiki/butterfly</string>
+	<string-array name="quiz_insects_butterfly_facts">
+	</string-array>
+	
+	<!-- Dragonfly -->
+    <string name="quiz_insects_dragonfly_name">Dragonfly</string>
+    <string name="quiz_insects_dragonfly_hint"></string>
+    <string name="quiz_insects_dragonfly_description">A dragonfly is an insect belonging to the order Odonata, suborder Anisoptera (from Greek ανισος anisos "uneven" + πτερος pteros, "wings", because the hindwing is broader than the forewing). Adult dragonflies are characterized by large multifaceted eyes, two pairs of strong transparent wings, sometimes with coloured patches, and an elongated body. Dragonflies can be mistaken for the related group, damselflies (Zygoptera), which are similar in structure though usually lighter in build; however, the wings of most dragonflies are held flat and away from the body, while damselflies hold the wings folded at rest, along or above the abdomen. Dragonflies are agile fliers while damselflies have a weaker, fluttery flight. Many dragonflies have brilliant iridescent or metallic colours produced by structural coloration, making them conspicuous in flight.</string>
+	<string-array name="quiz_insects_dragonfly_answers">
+    	<item>dragonfly</item>
+	</string-array>
+	<string name="quiz_insects_dragonfly_link">http://en.m.wikipedia.org/wiki/dragonfly</string>
+	<string-array name="quiz_insects_dragonfly_facts">
+	</string-array>
+	
+	<!-- Fly -->
+    <string name="quiz_insects_fly_name">Common Fly</string>
+    <string name="quiz_insects_fly_hint"></string>
+    <string name="quiz_insects_fly_description">True flies are insects of the order Diptera (from the Greek di = two, and ptera = wings). The most obvious distinction from other orders of insects is that a typical fly possesses a pair of flight wings on the mesothorax and a pair of halteres, derived from the hind wings, on the metathorax. (Some species of flies are exceptional in that they are secondarily flightless). The only other order of insects bearing two true, functional wings plus any form of halteres are the Strepsiptera, and in contrast to the flies, the Strepsiptera bear their halteres on the mesothorax and their flight wings on the metathorax.</string>
+	<string-array name="quiz_insects_fly_answers">
+    	<item>fly</item>
+	</string-array>
+	<string name="quiz_insects_fly_link">http://en.m.wikipedia.org/wiki/fly</string>
+	<string-array name="quiz_insects_fly_facts">
+	</string-array>
+	
+	<!-- Ladybug -->
+    <string name="quiz_insects_ladybug_name">Ladybug</string>
+    <string name="quiz_insects_ladybug_hint"></string>
+    <string name="quiz_insects_ladybug_description">The Coccinellidae (/ˌkɒksɪˈnɛlɪdaɪ/) are a family of small beetles, ranging from 0.8 to 18 mm (0.0315 to 0.708 inches). They are commonly yellow, orange, or scarlet with small black spots on their wing covers, with black legs, heads and antennae. Such colour patterns vary greatly, however; for example, a minority of species, such as Vibidia duodecimguttata, a twelve-spotted species, have whitish spots on a brown background. Coccinellids are found worldwide, with over 5,000 species described.</string>
+	<string-array name="quiz_insects_ladybug_answers">
+    	<item>ladybug</item>
+	</string-array>
+	<string name="quiz_insects_ladybug_link">http://en.m.wikipedia.org/wiki/ladybug</string>
+	<string-array name="quiz_insects_ladybug_facts">
+	</string-array>
+	
+	<!-- Ant -->
+    <string name="quiz_insects_ant_name">Ant</string>
+    <string name="quiz_insects_ant_hint"></string>
+    <string name="quiz_insects_ant_description">Ants are eusocial insects of the family Formicidae /fɔrˈmɪsɨdiː/ and, along with the related wasps and bees, belong to the order Hymenoptera. Ants evolved from wasp-like ancestors in the mid-Cretaceous period between 110 and 130 million years ago and diversified after the rise of flowering plants. More than 12,500 of an estimated total of 22,000 species have been classified. They are easily identified by their elbowed antennae and the distinctive node-like structure that forms their slender waists.</string>
+	<string-array name="quiz_insects_ant_answers">
+    	<item>ant</item>
+	</string-array>
+	<string name="quiz_insects_ant_link">http://en.m.wikipedia.org/wiki/ant</string>
+	<string-array name="quiz_insects_ant_facts">
+	</string-array>
+	
+	<!-- Gecko -->
+    <string name="quiz_insects_gecko_name">Gecko</string>
+    <string name="quiz_insects_gecko_hint"></string>
+    <string name="quiz_insects_gecko_description">Geckos are lizards belonging to the infraorder Gekkota, found in warm climates throughout the world. They range from 1.6 to 60 cm. Most geckos cannot blink, but they often lick their eyes to keep them clean and moist. They have a fixed lens within each iris that enlarges in darkness to let in more light.</string>
+	<string-array name="quiz_insects_gecko_answers">
+    	<item>gecko</item>
+	</string-array>
+	<string name="quiz_insects_gecko_link">http://en.m.wikipedia.org/wiki/gecko</string>
+	<string-array name="quiz_insects_gecko_facts">
+	</string-array>
+	
+	<!-- Beetle -->
+    <string name="quiz_insects_beetle_name">Beetle</string>
+    <string name="quiz_insects_beetle_hint"></string>
+    <string name="quiz_insects_beetle_description">Beetles are a group of insects which are biologically classified in the order Coleoptera /koʊliː\ˈɒptərə/. The word &quot;coleoptera&quot; is from the Greek κολεός, koleos, meaning &quot;sheath&quot;; and πτερόν, pteron, meaning &quot;wing&quot;, thus &quot;sheathed wing&quot;, because most beetles have two pairs of wings, the front pair, the &quot;elytra&quot;, being hardened and thickened into a shell-like protection for the rear pair and the beetle\'s abdomen. The superficial consistency of most beetles\' morphology, in particular their possession of elytra, has long suggested that the Coleoptera are monophyletic. Growing evidence indicates this is unjustified, there being arguments for example, in favor of allocating the current suborder Adephaga their own order, or very likely even more than one.</string>
+	<string-array name="quiz_insects_beetle_answers">
+    	<item>beetle</item>
+	</string-array>
+	<string name="quiz_insects_beetle_link">http://en.m.wikipedia.org/wiki/beetle</string>
+	<string-array name="quiz_insects_beetle_facts">
+	</string-array>
+	
+	<!-- Spider -->
+    <string name="quiz_insects_spider_name">Spider</string>
+    <string name="quiz_insects_spider_hint"></string>
+    <string name="quiz_insects_spider_description">Spiders (order Araneae) are air-breathing arthropods that have eight legs and chelicerae with fangs that inject venom. They are the largest order of arachnids and rank seventh in total species diversity among all other orders of organisms. Spiders are found worldwide on every continent except for Antarctica, and have become established in nearly every habitat with the exceptions of air and sea colonization. As of 2008, at least 43,678 spider species, and 109 families have been recorded by taxonomists; however, there has been dissension within the scientific community as to how all these families should be classified, as evidenced by the over 20 different classifications that have been proposed since 1900.</string>
+	<string-array name="quiz_insects_spider_answers">
+    	<item>spider</item>
+	</string-array>
+	<string name="quiz_insects_spider_link">http://en.m.wikipedia.org/wiki/spider</string>
+	<string-array name="quiz_insects_spider_facts">
+	</string-array>
+	
+</resources>
