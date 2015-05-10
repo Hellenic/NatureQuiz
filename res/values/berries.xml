@@ -64,7 +64,6 @@
 	</string-array>
 	<string name="quiz_berries_blackcurrant_link">http://en.m.wikipedia.org/wiki/blackcurrant</string>
 	<string-array name="quiz_berries_blackcurrant_facts">
-	    <item>It\'s red.</item>
 	</string-array>
 	
 	<!-- Blueberry -->

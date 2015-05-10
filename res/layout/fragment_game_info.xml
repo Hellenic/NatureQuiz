@@ -1,7 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -9,27 +9,24 @@
 
     <ImageView
         android:id="@+id/game_info_image"
-        android:layout_width="wrap_content"
-        android:minWidth="@dimen/activity_min_image_size"
-        android:maxWidth="@dimen/activity_max_image_size"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:minHeight="@dimen/activity_min_image_size"
         android:maxHeight="@dimen/activity_max_image_size"
-        android:adjustViewBounds="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginLeft="@dimen/activity_category_small_vertical_margin"
+        android:layout_marginStart="@dimen/activity_category_small_vertical_margin"
+        android:adjustViewBounds="true"
         android:contentDescription="Quiz image"
         android:src="@drawable/app_icon" />
-        
+    
     <TextView
         android:id="@+id/game_info_header"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignWithParentIfMissing="true"
-        android:layout_toLeftOf="@id/game_info_image"
+        android:layout_below="@id/game_info_image"
+        android:gravity="center"
         android:text="Header"
         android:textAppearance="?android:attr/textAppearanceMedium" />
     
@@ -37,7 +34,6 @@
         android:id="@+id/game_info_label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/game_info_header"
         android:layout_below="@+id/game_info_header"
         android:text="" />
         
@@ -45,25 +41,23 @@
         android:id="@+id/game_info_description"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@id/game_info_image"
+        android:layout_below="@id/game_info_label"
         android:text="Description" />
     
     <TextView
         android:id="@+id/game_info_link"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/game_info_confirm_button"
-        android:layout_marginBottom="@dimen/activity_category_small_vertical_margin"
+        android:layout_below="@id/game_info_description"
         android:layout_centerHorizontal="true"
         android:autoLink="web"
         android:text="Link" />
     
     <Button
-        android:id="@id/game_info_confirm_button"
+        android:id="@+id/game_info_confirm_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
+        android:layout_below="@id/game_info_link"
         android:layout_centerHorizontal="true"
         android:onClick="confirmInfo"
         android:text="@string/quiz_next_button" />
