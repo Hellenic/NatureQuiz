@@ -9,6 +9,14 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 import android.util.Log;
 
+/**
+ * Dialog fragment shown on CategoryActivity.
+ * Dialog will be shown when category is pressed for a long time. 
+ * It allows to reset the category progress.
+ * 
+ * @author hellenic
+ *
+ */
 public class ResetCategoryDialogFragment extends DialogFragment
 {
 	private ProgressManager progressManager;

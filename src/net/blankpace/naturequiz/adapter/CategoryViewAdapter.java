@@ -15,6 +15,13 @@ import android.widget.ArrayAdapter;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+/**
+ * Category view is used by CategoryActivity and it lists the categories.
+ * 
+ * @author hellenic
+ *
+ * @param <T>
+ */
 public class CategoryViewAdapter<T> extends ArrayAdapter<CategoryView>
 {
 	private int resource;

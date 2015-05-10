@@ -5,9 +5,10 @@ import net.blankpace.naturequiz.model.GameProgress;
 import net.blankpace.naturequiz.model.Level;
 
 /**
+ * Service that handles the levels.
+ * Can be used to fetch current level, to change level or set next level.
  * 
  * @author hellenic
- *
  */
 public interface GameService
 {

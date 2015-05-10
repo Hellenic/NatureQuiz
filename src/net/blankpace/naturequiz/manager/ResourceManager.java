@@ -14,6 +14,12 @@ import android.graphics.BitmapFactory;
 import android.graphics.drawable.Drawable;
 import android.util.Log;
 
+/**
+ * Manager for easy access to images and other resources.
+ * 
+ * @author hellenic
+ *
+ */
 public class ResourceManager
 {
 	private static final String TAG = ResourceManager.class.getName();

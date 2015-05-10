@@ -9,7 +9,8 @@ import org.json.JSONObject;
 import org.json.JSONTokener;
 
 /**
- * TODO Refactor.
+ * 
+ * TODO Refactor. Model should not have JSON logic.
  * 
  * @author hellenic
  */

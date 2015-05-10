@@ -27,6 +27,14 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.ViewSwitcher;
 
+/**
+ * PlayActivity shows you pictures, allows you to answer to them and display more information about 
+ * completed level. There is also a indicator that tells you overall progress of the current category.
+ * 
+ * @TODO Code structure refactoring.
+ * 
+ * @author hellenic
+ */
 public class PlayActivity extends ActionBarActivity
 {
 	@SuppressWarnings("unused")
@@ -42,6 +50,7 @@ public class PlayActivity extends ActionBarActivity
 	private PlayActivityPopulator populator;
 	private AnswerStatus currentAnswerStatus;
 	
+	private boolean progressLoaded = true;
 	private boolean endOfCategory = false;
 	
 	@Override
@@ -233,9 +242,20 @@ public class PlayActivity extends ActionBarActivity
 			finish();
 		}
 		
-		// If game still has more levels, show the next one
 		Level currentLevel = gameService.getCurrentLevel();
-		Level nextLevel = gameService.getNextLevel();
+		Level nextLevel = null;
+		
+		if (progressLoaded)
+		{
+			progressLoaded = false;
+			nextLevel = currentLevel;
+		}
+		// If game still has more levels, show the next one
+		else
+		{
+			nextLevel = gameService.getNextLevel();
+		}
+
 		if (nextLevel != null)
 		{
 			displayLevel(nextLevel, currentLevel);

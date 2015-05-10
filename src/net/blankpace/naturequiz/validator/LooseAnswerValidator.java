@@ -3,6 +3,11 @@ package net.blankpace.naturequiz.validator;
 import net.blankpace.naturequiz.model.AnswerStatus;
 import net.blankpace.naturequiz.model.Level;
 
+/**
+ * Level answer validator that performs case-insensitive check for the answer.
+ * @author hellenic
+ *
+ */
 public class LooseAnswerValidator implements AnswerValidator {
 
 	@Override

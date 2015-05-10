@@ -9,6 +9,13 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
+/**
+ * This adapter is used by PlayActivity and it contains all the levels.
+ * Adapter makes it easy to change and page the levels.
+ * 
+ * @author hellenic
+ *
+ */
 public class LevelCollectionPagerAdapter extends FragmentStatePagerAdapter
 {
 	private List<Level> levels;

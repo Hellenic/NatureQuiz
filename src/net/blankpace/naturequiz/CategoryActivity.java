@@ -19,6 +19,14 @@ import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
+/**
+ * View that lists all the available categories.
+ * Category view will show you the progress of each category and allows you select any of them.
+ * Selecting a category will start a PlayActivity.
+ * 
+ * @author hellenic
+ *
+ */
 public class CategoryActivity extends ActionBarActivity implements OnItemClickListener, OnItemLongClickListener
 {
 	private CategoryService categoryService;

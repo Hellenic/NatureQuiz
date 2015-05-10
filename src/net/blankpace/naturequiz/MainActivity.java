@@ -7,6 +7,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+/**
+ * First simple activity of the game.
+ * Has a play-button and a help-button.
+ * 
+ * @author hellenic
+ */
 public class MainActivity extends ActionBarActivity {
 
 	@Override

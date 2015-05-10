@@ -11,9 +11,12 @@ import android.widget.ProgressBar;
 
 /**
  * Category progress bar. Basically a container for multiple progress bars.
+ * BarView is always fullscreen wide and the single bars will be scaled based 
+ * on how many levels there are in the category.
  * 
- * Displays part of bar for every level and if level is completed, the part is green.
- * Also there is indicator for current level.
+ * Category contain multiple levels and each level is shown as one bar.
+ * Unaswered levels are shown as yellow. Current level is shown as blue and completed 
+ * level is shown with green color.
  * 
  * @author hellenic
  *

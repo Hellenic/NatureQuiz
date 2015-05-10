@@ -6,6 +6,11 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/**
+ * Activity that shows the user a brief instructions how to play the game.
+ * 
+ * @author hellenic
+ */
 public class HelpActivity extends ActionBarActivity {
 
 	@Override

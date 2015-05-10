@@ -11,11 +11,6 @@ import net.blankpace.naturequiz.model.Category;
 import net.blankpace.naturequiz.model.GameProgress;
 import net.blankpace.naturequiz.model.Level;
 
-/**
- * 
- * @author hellenic
- *
- */
 public class DefaultGameService implements GameService
 {
 	@SuppressWarnings("unused")

@@ -21,6 +21,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
+ * Helper populator that populates the PlayActivity fields.
+ * Fields are changed for example when level is changed.
+ * 
  * TODO Cache.
  * 
  * @author hellenic
