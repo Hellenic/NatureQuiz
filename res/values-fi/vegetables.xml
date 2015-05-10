@@ -1,179 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Vegetables -->
-    <string name="quiz_vegetables_name">Vegetables</string>
-    <string name="quiz_vegetables_description">Test how well you know the most common and healthy vegetables!</string>
-    <string name="quiz_vegetables_link">http://en.m.wikipedia.org/wiki/Vegetable</string>
+    <string name="quiz_vegetables_name">Kasvikset</string>
+    <string name="quiz_vegetables_description">Testaa kuinka hyvin tunnet yleisimmät kasvikset!</string>
+    <string name="quiz_vegetables_link">http://fi.m.wikipedia.org/wiki/Kasvikset</string>
     
     <!-- Vegetables / Levels -->
 	
 	<!-- Potato -->
-    <string name="quiz_vegetables_potato_name">Potato</string>
+    <string name="quiz_vegetables_potato_name">Peruna</string>
     <string name="quiz_vegetables_potato_hint"></string>
-    <string name="quiz_vegetables_potato_description">The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum L. The word &quot;potato&quot; may refer either to the plant itself or the edible tuber. In the Andes, where the species is indigenous, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region approximately four centuries ago, and have since become an integral part of much of the world\'s food supply. It is the world\'s fourth-largest food crop, following maize, wheat, and rice.</string>
+    <string name="quiz_vegetables_potato_description">Peruna (Solanum tuberosum) on koisokasvien (Solanaceae) heimoon kuuluva kasvi, jonka mukulaa käytetään ravintona. Peruna on yksi eniten käytetyistä ravintokasveista Euroopassa ja Etelä- sekä Pohjois-Amerikassa. Peruna kuuluu niiden yhdeksän viljelykasvin joukkoon, joiden avulla tuotetaan 75 prosenttia ihmisravinnosta.
+        
+        Perunakasvi on kooltaan pieni mutta suurilehtinen. Perunan mukulat kasvavat maan alla. Useimmiten perunan kuori on ruskea tai keltainen, mutta se voi olla myös violetti, punainen tai vaaleanpunainen. Sisältä peruna on usein vaalea, mutta on mahdollista, että se on sisältäkin kuoren värinen.</string>
 	<string-array name="quiz_vegetables_potato_answers">
-    	<item>potato</item>
+    	<item>peruna</item>
 	</string-array>
-	<string name="quiz_vegetables_potato_link">http://en.m.wikipedia.org/wiki/potato</string>
+	<string name="quiz_vegetables_potato_link">http://fi.m.wikipedia.org/wiki/Peruna</string>
 	<string-array name="quiz_vegetables_potato_facts">
 	</string-array>
 	
 	<!-- carrot -->
-    <string name="quiz_vegetables_carrot_name">Carrot</string>
+    <string name="quiz_vegetables_carrot_name">Porkkana</string>
     <string name="quiz_vegetables_carrot_hint"></string>
-    <string name="quiz_vegetables_carrot_description">The carrot (Daucus carota subsp. sativus) is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist. It has a crisp texture when fresh. The most commonly eaten part of a carrot is a taproot, although the greens are sometimes eaten as well. It is a domesticated form of the wild carrot Daucus carota, native to Europe and southwestern Asia. The domestic carrot has been selectively bred for its greatly enlarged and more palatable, less woody-textured edible taproot. </string>
+    <string name="quiz_vegetables_carrot_description">Porkkana (Daucus carota) on juureksena viljelty sarjakukkaiskasvi. Sen paksuuntunut pääjuuri on väriltään tavallisesti oranssi, ja siinä on puunkuorta muistuttava ohut kuori. Juuri sisältää runsaasti A-vitamiinin esiastetta beta-karoteenia, joka antaa sille oranssin värin. Porkkana on perunan jälkeen Suomen suosituin juures; sitä syödään jopa yhdeksän kiloa henkeä kohden vuodessa.
+        
+        Porkkana on kaksivuotinen kasvi, jonka varsi kasvaa 30–80 senttimetriä korkeaksi. Alalajeista ruokaporkkanan pääjuuri on mehevä ja väriltään useimmin oranssi. Villinä kasvavien porkkanoiden juuri on ohut ja valkoinen. Kukintona on pienikukkainen sarjakukinto. Porkkanan hedelmä on 2–4 millimetriä pitkä piikkinen tai koukkukarvainen lohkohedelmä.</string>
 	<string-array name="quiz_vegetables_carrot_answers">
-    	<item>carrot</item>
+    	<item>porkkana</item>
 	</string-array>
-	<string name="quiz_vegetables_carrot_link">http://en.m.wikipedia.org/wiki/carrot</string>
+	<string name="quiz_vegetables_carrot_link">http://fi.m.wikipedia.org/wiki/Porkkana</string>
 	<string-array name="quiz_vegetables_carrot_facts">
-	    <item>Orange</item>
+	    <item>Oranssi</item>
 	</string-array>
 	
 	<!-- Pea -->
-    <string name="quiz_vegetables_pea_name">Pea</string>
+    <string name="quiz_vegetables_pea_name">Herne</string>
     <string name="quiz_vegetables_pea_hint"></string>
-    <string name="quiz_vegetables_pea_description">The pea is most commonly the small spherical seed or the seed-pod of the pod fruit Pisum sativum. Each pod contains several peas. Pea pods are botanically fruit, since they contain seeds and developed from the ovary of a (pea) flower. The name is also used to describe other edible seeds from the Fabaceae such as the pigeon pea (Cajanus cajan), the cowpea (Vigna unguiculata), and the seeds from several species of Lathyrus.</string>
+    <string name="quiz_vegetables_pea_description">Herne (Pisum sativum) on herne­kasvien heimoon kuuluva iki­vanha viljelyskasvi. Sitä viljellään sekä ihmis­ravinnoksi että rehuksi. Siitä käytetään ravinnoksi yleensä siemenet, mutta joidenkin lajikkeiden palotkin ovat syötäviä. </string>
 	<string-array name="quiz_vegetables_pea_answers">
-    	<item>pea</item>
+    	<item>herne</item>
 	</string-array>
-	<string name="quiz_vegetables_pea_link">http://en.m.wikipedia.org/wiki/pea</string>
+	<string name="quiz_vegetables_pea_link">http://fi.m.wikipedia.org/wiki/Herne</string>
 	<string-array name="quiz_vegetables_pea_facts">
-	    <item>Green</item>
+	    <item>Vihreä</item>
 	</string-array>
 	
 	<!-- Cabbage -->
-    <string name="quiz_vegetables_cabbage_name">Cabbage</string>
+    <string name="quiz_vegetables_cabbage_name">Kaali</string>
     <string name="quiz_vegetables_cabbage_hint"></string>
-    <string name="quiz_vegetables_cabbage_description">Cabbage (Brassica oleracea or variants) is a leafy green or purple biennial plant, grown as an annual vegetable crop for its dense-leaved heads. Closely related to other cole crops, such as broccoli, cauliflower, and brussels sprouts, it descends from B. oleracea var. oleracea, a wild field cabbage. Cabbage heads generally range from 0.5 to 4 kilograms (1 to 9 lb), and can be green, purple and white. It is a multi-layered vegetable.</string>
+    <string name="quiz_vegetables_cabbage_description">Kaali (Brassica oleracea) on ristikukkaisten heimoon kuuluva kasvilaji, jota viljellään vihanneksena. Sen luonnonvarainen kantamuoto kasvaa Pohjois-Afrikan ja Etelä- ja Länsi-Euroopan rannikoilla. Kaalia on viljelty useita tuhansia vuosia, ja siitä on jalostettu koko joukko toisistaan suuresti eroavia viljelymuotoja. Kaali on kaksivuotinen, mutta syötäväksi viljeltäessä sitä viljellään yksivuotisena. Siemenviljelys on kaksivuotinen. Kaali menestyy kosteahkolla savensekaisella maalla. Aarille istutetaan 400–450 tainta, ja sato on 350–500 kg.</string>
 	<string-array name="quiz_vegetables_cabbage_answers">
-    	<item>cabbage</item>
+    	<item>kaali</item>
 	</string-array>
-	<string name="quiz_vegetables_cabbage_link">http://en.m.wikipedia.org/wiki/cabbage</string>
+	<string name="quiz_vegetables_cabbage_link">http://fi.m.wikipedia.org/wiki/Kaali</string>
 	<string-array name="quiz_vegetables_cabbage_facts">
+	    <item>Vihreä</item>
 	</string-array>
 	
 	<!-- cucumber -->
-    <string name="quiz_vegetables_cucumber_name">Cucumber</string>
+    <string name="quiz_vegetables_cucumber_name">Kurkku</string>
     <string name="quiz_vegetables_cucumber_hint"></string>
-    <string name="quiz_vegetables_cucumber_description">Cucumber (Cucumis sativus) is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cylindrical fruits that are used as culinary vegetables. There are three main varieties of cucumber: slicing, pickling, and burpless. Within these varieties, several different cultivars have emerged. The cucumber is originally from Southern Asia, but now grows on most continents. Many different varieties are traded on the global market.</string>
+    <string name="quiz_vegetables_cucumber_description">Kurkku (Cucumis sativus) on kurkkujen (Cucumis) sukuun kuuluva yleisesti viljelty yksivuotinen ruohovartinen vihanneskasvi. Sen juuret viihtyvät lähellä maanpintaa ja leviävät laajalle. Kasvutapa on köynnösmäinen ja lehtihangoista kasvaa kärhiä, joiden avulla kasvi pystyy kiipeämään. Siitä käytetään hyväksi sen hedelmä, joka kasvitieteellisesti on pohjusmarja.</string>
 	<string-array name="quiz_vegetables_cucumber_answers">
-    	<item>cucumber</item>
+    	<item>kurkku</item>
 	</string-array>
-	<string name="quiz_vegetables_cucumber_link">http://en.m.wikipedia.org/wiki/cucumber</string>
+	<string name="quiz_vegetables_cucumber_link">http://fi.m.wikipedia.org/wiki/Kurkku</string>
 	<string-array name="quiz_vegetables_cucumber_facts">
-	    <item>Green</item>
+	    <item>Vihreä</item>
 	</string-array>
 	
 	<!-- onion -->
-    <string name="quiz_vegetables_onion_name">Onion</string>
+    <string name="quiz_vegetables_onion_name">Sipuli</string>
     <string name="quiz_vegetables_onion_hint"></string>
-    <string name="quiz_vegetables_onion_description">The onion (Allium cepa L.) (Latin \'cepa\' = onion), also known as the bulb onion or common onion, is used as a vegetable and is the most widely cultivated species of the genus Allium. This genus also contains several other species variously referred to as onions and cultivated for food, such as the Japanese bunching onion (A. fistulosum), the Egyptian onion (A. ×proliferum), and the Canada onion (A. canadense).</string>
+    <string name="quiz_vegetables_onion_description">Keltasipuli (Allium cepa), eli kepasipuli tai tavallinen sipuli on tunnetuin ja yleisimmin käytetty Allium-suvun syötävä kasvi. Koko Allium-sukua kutsutaan sipuleiksi, ja tämäntyyppistä turvonnutta lehtityveä, johon kasvi (esimerkiksi tulppaanit) varastoi ravintoa seuraavalle vuodelle, sanotaan myös sipuliksi. Sipulissa on raakana voimakas haju ja terävä maku, joka katoaa jos sipuli kypsennetään.</string>
 	<string-array name="quiz_vegetables_onion_answers">
-    	<item>onion</item>
+    	<item>sipuli</item>
+    	<item>keltasipuli</item>
 	</string-array>
-	<string name="quiz_vegetables_onion_link">http://en.m.wikipedia.org/wiki/onion</string>
+	<string name="quiz_vegetables_onion_link">http://fi.m.wikipedia.org/wiki/Keltasipuli</string>
 	<string-array name="quiz_vegetables_onion_facts">
 	</string-array>
 	
 	<!-- tomato -->
-    <string name="quiz_vegetables_tomato_name">Tomato</string>
+    <string name="quiz_vegetables_tomato_name">Tomaatti</string>
     <string name="quiz_vegetables_tomato_hint"></string>
-    <string name="quiz_vegetables_tomato_description">The tomato is the edible, often red fruit/berry of the nightshade Solanum lycopersicum, commonly known as a tomato plant. The species originated in the South American Andes and its use as a food originated in Mexico, and spread throughout the world following the Spanish colonization of the Americas. Its many varieties are now widely grown, sometimes in greenhouses in cooler climates.</string>
+    <string name="quiz_vegetables_tomato_description">Tomaatti (Solanum lycopersicum) on koisokasvien (Solanaceae) heimoon kuuluva kasvi, joka on lähtöisin Perusta ja Chilestä. Nimitystä tomaatti käytetään sekä koko kasvista että sen syötävästä, voimakasvärisestä (useimmiten punaisesta) hedelmästä, joka kasvitieteellisesti on marja. Kasvin nimi on peräisin meksikolaisesta nahuatlin kielestä.</string>
 	<string-array name="quiz_vegetables_tomato_answers">
-    	<item>tomato</item>
+    	<item>tomaatti</item>
 	</string-array>
-	<string name="quiz_vegetables_tomato_link">http://en.m.wikipedia.org/wiki/tomato</string>
+	<string name="quiz_vegetables_tomato_link">http://fi.m.wikipedia.org/wiki/Tomaatti</string>
 	<string-array name="quiz_vegetables_tomato_facts">
-	    <item>It\'s red.</item>
+	    <item>Punainen</item>
 	</string-array>
 	
 	<!-- rhubarb -->
-    <string name="quiz_vegetables_rhubarb_name">Rhubarb</string>
+    <string name="quiz_vegetables_rhubarb_name">Raparperi</string>
     <string name="quiz_vegetables_rhubarb_hint"></string>
-    <string name="quiz_vegetables_rhubarb_description">Rhubarb (Rheum rhabarbarum) is a species of plant in the family Polygonaceae. It is a herbaceous perennial growing from short, thick rhizomes. It produces large leaves that are somewhat triangular, with long fleshy petioles. and small flowers grouped in large compound leafy greenish-white to rose-red inflorescences. Grows during the summer. Especially popular on pies or as a jam.</string>
+    <string name="quiz_vegetables_rhubarb_description">Raparperi eli tarharaparperi (Rheum rhabarbarum) on tatarkasveihin kuuluva erittäin hapan vihannes, jonka meheviä lehtiruoteja käytetään ravinnoksi. Raparperi voidaan käyttää esimerkiksi piirakoissa, makeissa keitoissa ja hilloissa.
+
+Raparperi luultavasti tunnettiin keskiajalla, mutta sitä ei koskaan käytetty elintarvikkeena, vaan se luokiteltiin pikemminkin myrkylliseksi tai syötäväksi kelpaamattomaksi kasviksi. Vuonna 1612 raparperin lääkinnällisistä ominaisuuksista julkaistiin teos ”De Rhapontico”. Vielä 1700-luvulla kasvia pidettiin puhtaasti lääketieteellisenä yrttinä eikä sitä käytetty elintarvikkeeksi.</string>
 	<string-array name="quiz_vegetables_rhubarb_answers">
-    	<item>rhubarb</item>
+    	<item>raparperi</item>
 	</string-array>
-	<string name="quiz_vegetables_rhubarb_link">http://en.m.wikipedia.org/wiki/rhubarb</string>
+	<string name="quiz_vegetables_rhubarb_link">http://fi.m.wikipedia.org/wiki/Raparperi</string>
 	<string-array name="quiz_vegetables_rhubarb_facts">
 	</string-array>
 	
 	<!-- redish -->
-    <string name="quiz_vegetables_redish_name">redish</string>
+    <string name="quiz_vegetables_redish_name">Retiisi</string>
     <string name="quiz_vegetables_redish_hint"></string>
-    <string name="quiz_vegetables_redish_description">The radish (Raphanus sativus) is an edible root vegetable of the Brassicaceae family that was domesticated in Europe in pre-Roman times. Radishes are grown and consumed throughout the world, being mostly eaten raw as a crunchy salad vegetable. They have numerous varieties, varying in size, flavor, color and the length of time they take to mature.</string>
+    <string name="quiz_vegetables_redish_description">Retiisi (Raphanus sativus var. sativus) ja retikka (Raphanus sativus var. niger) ovat ristikukkaiskasvien heimoon kuuluvia juureksia. Ne ovat peltoretikan läheisiä sukulaisia ja mahdollisesti siitä kehittyneitä. Retikka on muodoista huomattavasti vanhempi.</string>
 	<string-array name="quiz_vegetables_redish_answers">
-    	<item>redish</item>
+    	<item>retiisi</item>
 	</string-array>
-	<string name="quiz_vegetables_redish_link">http://en.m.wikipedia.org/wiki/radish</string>
+	<string name="quiz_vegetables_redish_link">http://fi.m.wikipedia.org/wiki/Retiisi</string>
 	<string-array name="quiz_vegetables_redish_facts">
 	</string-array>
 	
 	<!-- bean -->
-    <string name="quiz_vegetables_bean_name">Bean</string>
+    <string name="quiz_vegetables_bean_name">Papu</string>
     <string name="quiz_vegetables_bean_hint"></string>
-    <string name="quiz_vegetables_bean_description">Bean is a common name for large plant seeds of several genera of the family Fabaceae (alternately Leguminosae) which are used for human or animal food.</string>
+    <string name="quiz_vegetables_bean_description">Pavut (Phaseolus) on hernekasvisuku, johon kuuluu noin 80 köynnöstävää ruohovartista lajia, jotka kasvavat luonnonvaraisena Keski- ja Etelä-Amerikassa. Lehdet ovat kolmisormiset, kärhettömät ja kukinto isokukkainen terttu.
+
+Eurooppaan amerikkalaisia papuja tuotiin jo 1500-luvulla. Suomeen niitä tuotiin hiukan myöhemmin, 1600-luvulla, puna- tai valkoteriöinen tarhapapu (Phaseolus vulgaris), jolla on sileä vihreä, keltainen tai violetti, 8–16 cm pitkä palko. Sen viljelysmuotoja ovat muun muassa pensasmaisesti kasvava pensaspapu ja salkomainen salkopapu, joista kummastakin on olemassa useita lajikkeita. Pyöreäpalkoisista tarhapavuista käytetään nimeä taitepapu ja litteäpalkoisista leikkopapu. Pavut ovat yleensä pensaspapujen siemeniä, niitä on valkoisia, punaisia ja ruskeita. Punakukkainen, 3–4 metriä korkea ruusupapu on Suomessa yleinen koristekasvi, jonka pavut ovat myös syötäviä. Ulkomailla tunnetaan myös borlotto-, liman- ja adsukipapu.</string>
 	<string-array name="quiz_vegetables_bean_answers">
-    	<item>bean</item>
+    	<item>papu</item>
 	</string-array>
-	<string name="quiz_vegetables_bean_link">http://en.m.wikipedia.org/wiki/bean</string>
+	<string name="quiz_vegetables_bean_link">http://fi.m.wikipedia.org/wiki/Papu</string>
 	<string-array name="quiz_vegetables_bean_facts">
 	</string-array>
 	
 	<!-- pepper -->
-    <string name="quiz_vegetables_pepper_name">Pepper</string>
+    <string name="quiz_vegetables_pepper_name">Paprika</string>
     <string name="quiz_vegetables_pepper_hint"></string>
-    <string name="quiz_vegetables_pepper_description">Bell pepper, also known as sweet pepper or a pepper (in the United Kingdom, Canada and Ireland) and capsicum /ˈkæpsɨkəm/ (in India, Pakistan, Bangladesh, Australia, Singapore and New Zealand), is a cultivar group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colors, including red, yellow, orange, green, chocolate/brown, vanilla/white, and purple. Bell peppers are sometimes grouped with less pungent pepper varieties as "sweet peppers." Peppers are native to Mexico, Central America and northern South America. The ribs and seeds inside bell peppers may be consumed, but some find the taste to be bitter.</string>
+    <string name="quiz_vegetables_pepper_description">Paprika (Capsicum annuum), myös ruokapaprika tai vihannespaprika on yleisimmin viljelty Capsicum-suvun kasvilajeista. Tieteellisestä nimestään (annuum, ”yksivuotinen”) huolimatta laji on monivuotinen, joskin viljelyssä usein yksivuotisena kasvatettava. Vihannespaprikan tulisuus on chilien tulisuuden mittauksessa käytettävän Scovillen asteikon nollapiste.</string>
 	<string-array name="quiz_vegetables_pepper_answers">
-    	<item>pepper</item>
+    	<item>paprika</item>
 	</string-array>
-	<string name="quiz_vegetables_pepper_link">http://en.m.wikipedia.org/wiki/Bell_pepper</string>
+	<string name="quiz_vegetables_pepper_link">http://fi.m.wikipedia.org/wiki/Paprika</string>
 	<string-array name="quiz_vegetables_pepper_facts">
-	    <item>It\'s red.</item>
 	</string-array>
 	
 	<!-- pumpkin -->
-    <string name="quiz_vegetables_pumpkin_name">Pumpkin</string>
+    <string name="quiz_vegetables_pumpkin_name">Kurpitsa</string>
     <string name="quiz_vegetables_pumpkin_hint"></string>
-    <string name="quiz_vegetables_pumpkin_description">A pumpkin is a cultivar of the squash plant, most commonly of Cucurbita pepo, that is round, with smooth, slightly ribbed skin and deep yellow to orange coloration. The thick shell contains the seeds and pulp. Some exceptionally large cultivars of squash with similar appearance have also been derived from Cucurbita maxima. Specific cultivars of winter squash derived from other species, including C. argyrosperma, and C. moschata, are also sometimes called "pumpkin". In New Zealand and Australian English, the term "pumpkin" generally refers to the broader category called winter squash elsewhere.</string>
+    <string name="quiz_vegetables_pumpkin_description">Kurpitsa (Cucurbita pepo) on kurpitsoihin (Cucurbita) kuuluva köynnöskasvi, joka on kotoisin Keski-Amerikasta. Kasvin hedelmää käytetään ruoka-aineena ympäri maailman. Siemenistä voidaan puristaa ruokaöljyä tai ne syödään sellaisenaan. Nykyään kurpitsaa viljellään maailmanlaajuisesti. Kurpitsan päätuottajamaat ovat Venäjä, Turkki, Balkanin maat, Kiina ja Meksiko.</string>
 	<string-array name="quiz_vegetables_pumpkin_answers">
-    	<item>pumpkin</item>
+    	<item>kurpitsa</item>
 	</string-array>
-	<string name="quiz_vegetables_pumpkin_link">http://en.m.wikipedia.org/wiki/pumpkin</string>
+	<string name="quiz_vegetables_pumpkin_link">http://fi.m.wikipedia.org/wiki/Kurpitsa</string>
 	<string-array name="quiz_vegetables_pumpkin_facts">
 	</string-array>
 	
 	<!-- garlic -->
-    <string name="quiz_vegetables_garlic_name">Garlic</string>
+    <string name="quiz_vegetables_garlic_name">Valkosipuli</string>
     <string name="quiz_vegetables_garlic_hint"></string>
-    <string name="quiz_vegetables_garlic_description">Allium sativum, commonly known as garlic, is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and rakkyo. With a history of human use of over 7,000 years, garlic is native to central Asia, and has long been a staple in the Mediterranean region, as well as a frequent seasoning in Asia, Africa, and Europe. It was known to Ancient Egyptians, and has been used for both culinary and medicinal purposes.</string>
+    <string name="quiz_vegetables_garlic_description">Valkosipuli (Allium sativum) eli kynsilaukka on monivuotinen narsissikasvien (Amaryllidaceae) heimoon kuuluva viljelyskasvi, jonka sipulia käytetään mausteena tuoreeltaan tai kuivattuna. Valkosipulin alkuperästä ei ole varmaa tietoa, mutta säilyneiden dokumenttien perusteella ainakin jo muinaiset egyptiläiset pitivät sitä tärkeänä ravintokasvina. Pohjolassakin valkosipulia on viljelty jo viikinkiaikana, mutta 1800-luvulla sen viljely ja käyttö jostakin syystä ehtyi. Nykyään valkosipulia kuitenkin käytetään yhä enemmän suomalaisessakin keittiössä.</string>
 	<string-array name="quiz_vegetables_garlic_answers">
-    	<item>garlic</item>
+    	<item>valkosipuli</item>
 	</string-array>
-	<string name="quiz_vegetables_garlic_link">http://en.m.wikipedia.org/wiki/garlic</string>
+	<string name="quiz_vegetables_garlic_link">http://fi.m.wikipedia.org/wiki/Valkosipuli</string>
 	<string-array name="quiz_vegetables_garlic_facts">
 	</string-array>
 	
 	<!-- beetroot -->
-    <string name="quiz_vegetables_beetroot_name">Beetroot</string>
+    <string name="quiz_vegetables_beetroot_name">Punajuuri</string>
     <string name="quiz_vegetables_beetroot_hint"></string>
-    <string name="quiz_vegetables_beetroot_description">The beetroot is the taproot portion of the beet plant, also known in North America as the table beet, garden beet, red or golden beet, or informally simply as the beet. It is several of the cultivated varieties of beet (Beta vulgaris) grown for their edible taproots and their greens.</string>
+    <string name="quiz_vegetables_beetroot_description">Punajuurikas eli punajuuri (Beta vulgaris subsp. Vulgaris var. conditiva) on juurikkaan (Beta vulgaris) muunnos. Punajuurikas muodostaa mehevän mukulan, joka voi olla pyöreä, litteänpyöreä, munanmuotoinen tai pitkänomainen lajikkeesta riippuen. Hyvä punajuurikas on tasainen, voimakkaan tummanpunainen ja pinnaltaan sileä. Suomessa viljellään myös valko-, kelta- ja raitajuurikasta, joka on sisältä punavalkoraidallinen. Punajuuren punaisen värin aiheuttavat betalaiinit betaniini, betanidiini ja isobetaniini, mutta mukana on myös keltajuurikkaan värin aiheuttavia betaksantiineja.</string>
 	<string-array name="quiz_vegetables_beetroot_answers">
-    	<item>beetroot</item>
+    	<item>punajuuri</item>
 	</string-array>
-	<string name="quiz_vegetables_beetroot_link">http://en.m.wikipedia.org/wiki/beetroot</string>
+	<string name="quiz_vegetables_beetroot_link">http://fi.m.wikipedia.org/wiki/Punajuuri</string>
 	<string-array name="quiz_vegetables_beetroot_facts">
 	</string-array>
 	
 	<!-- marrow -->
-    <string name="quiz_vegetables_marrow_name">Marrow</string>
+    <string name="quiz_vegetables_marrow_name">Kesäkurpitsa</string>
     <string name="quiz_vegetables_marrow_hint"></string>
-    <string name="quiz_vegetables_marrow_description">Cucurbita (Latin for gourd) is a genus of herbaceous vine in the gourd family Cucurbitaceae, also known as cucurbits, native to the Andes and Mesoamerica. Five species are grown worldwide for their edible fruit, variously known as squash, pumpkin, or gourd depending on species, variety, and local parlance, and seeds. First cultivated in the Americas before being brought to Europe after the discovery of the New World, plants in the genus Cucurbita are important sources of human food, beverages, and oil. Other kinds of gourd, also called bottle-gourds, are native to Africa and belong to the genus Lagenaria, which is in the same family and subfamily as Cucurbita but in a different tribe. These gourds are used as utensils or vessels.</string>
+    <string name="quiz_vegetables_marrow_description">Kesäkurpitsa on ryhmä kurpitsan (Cucurbita pepo) lajikkeita. Kesäkurpitsa on vihannes ja ulkonäöltään hyvin samankaltainen kuin kurkku: vihreä tai joskus keltainen, pitkulainen, joskus pyöreähkö. Kesäkurpitsa tuli Suomeen 1600&#8211;luvulla Välimeren alueelta. Suomessa kesäkurpitsaa syödään noin puoli kiloa henkeä kohti vuodessa. Hedelmän lisäksi myös kesäkurpitsan kukat ovat syötäviä. Taimet pitää esikasvattaa, mikä onnistuu kotioloissa. Siemenet kylvetään halkaisijaltaan 6&#8211;10 cm ruukkuihin. Esikasvatuksessa käytetään peruslannoitettua ja kalkittua kasvuturvetta. Taimet istutetaan ulos ilmojen lämmettyä siten, ettei lämpötilan pitäisi laskea alle 10°c asteen. Istutettaessa riittää, että taimissa on yksi kasvulehti.</string>
 	<string-array name="quiz_vegetables_marrow_answers">
-    	<item>marrow</item>
+    	<item>kesäkurpitsa</item>
 	</string-array>
-	<string name="quiz_vegetables_marrow_link">http://en.m.wikipedia.org/wiki/Cucurbita</string>
+	<string name="quiz_vegetables_marrow_link">http://fi.m.wikipedia.org/wiki/Kesäkurpitsa</string>
 	<string-array name="quiz_vegetables_marrow_facts">
 	</string-array>
 

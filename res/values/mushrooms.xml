@@ -20,13 +20,14 @@
 	</string-array>
 	
 	<!-- Morel -->
-    <string name="quiz_mushrooms_morel_name">Morel</string>
+    <string name="quiz_mushrooms_morel_name">Gyromitra esculenta</string>
     <string name="quiz_mushrooms_morel_hint"></string>
-    <string name="quiz_mushrooms_morel_description">Morchella, the true morels, is a genus of edible mushrooms closely related to anatomically simpler cup fungi. These distinctive mushrooms appear honeycomb-like in that the upper portion is composed of a network of ridges with pits between them. The ascocarps are prized by gourmet cooks, particularly for French cuisine. Commercial value aside, morels are hunted by thousands of people every year simply for their taste and the joy of the hunt.</string>
+    <string name="quiz_mushrooms_morel_description">Gyromitra esculenta /ˌdʒaɪrɵˈmaɪtrə ˌɛskjʉˈlɛntə/, is an ascomycete fungus from the genus Gyromitra, widely distributed across Europe and North America. It normally sprouts in sandy soils under coniferous trees in spring and early summer. The fruiting body, or mushroom, is an irregular brain-shaped cap dark brown in colour which can reach 10 cm (4 in) high and 15 cm (6 in) wide, perched on a stout white stipe up to 6 cm (2.4 in) high. Although potentially fatal if eaten raw, Gyromitra esculenta is a popular delicacy in Scandinavia, Eastern Europe, and the upper Great Lakes region of North America. Although popular in some districts of the eastern Pyrenees, it is prohibited from sale to the public in Spain. It may be sold fresh in Finland, but it must be accompanied by warnings and instructions on correct preparation. Although it is still commonly parboiled before preparation, recent evidence suggests that even this procedure may not make the fungus entirely safe,[1] thus raising concerns of risk even when prepared properly.</string>
 	<string-array name="quiz_mushrooms_morel_answers">
-    	<item>morel</item>
+    	<item>gyromitra</item>
+    	<item>gyromitra esculenta</item>
 	</string-array>
-	<string name="quiz_mushrooms_morel_link">http://en.m.wikipedia.org/wiki/morel</string>
+	<string name="quiz_mushrooms_morel_link">http://en.m.wikipedia.org/wiki/Gyromitra_esculenta</string>
 	<string-array name="quiz_mushrooms_morel_facts">
 	    <item>Eatable</item>
 	</string-array>

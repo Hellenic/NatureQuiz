@@ -1,157 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Fish -->
-    <string name="quiz_fish_name">Fish</string>
-    <string name="quiz_fish_description">Test how well you know the most common animals!</string>
-    <string name="quiz_fish_link">http://en.m.wikipedia.org/wiki/Fish</string>
+    <string name="quiz_fish_name">Kala</string>
+    <string name="quiz_fish_description">Miten hyvin tunnet kaloja?</string>
+    <string name="quiz_fish_link">http://fi.m.wikipedia.org/wiki/Kala</string>
     
     <!-- Fish / Levels -->
     
     <!-- Perch -->
-    <string name="quiz_fish_perch_name">Perch</string>
+    <string name="quiz_fish_perch_name">Ahven</string>
     <string name="quiz_fish_perch_hint"></string>
-    <string name="quiz_fish_perch_description">Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae. The perch, of which there are three species in different geographical areas, lend their name to a large order of vertebrates: the Perciformes, from the Greek perke meaning spotted, and the Latin forma meaning shape. Many species of freshwater gamefish more or less resemble perch, but belong to different genera. In fact, the exclusively saltwater dwelling red drum is often referred to as a red perch, though by definition perch are freshwater fish. Though many fish are referred to as perch as a common name, to be considered a true perch, the fish must be of the family Percidae.</string>
+    <string name="quiz_fish_perch_description">Ahven (Perca fluviatilis) on Suomen yleisin kalalaji ja Suomen kansalliskala. Se on parvikala, joka liikkuu ja etsii ravintoa päivisin parvissa, mutta yöksi se menee yksin pohjalle kasvuston suojaan lepäämään.</string>
 	<string-array name="quiz_fish_perch_answers">
-    	<item>perch</item>
+    	<item>ahven</item>
 	</string-array>
-	<string name="quiz_fish_perch_link">http://en.m.wikipedia.org/wiki/perch</string>
+	<string name="quiz_fish_perch_link">http://fi.m.wikipedia.org/wiki/ahven</string>
 	<string-array name="quiz_fish_perch_facts">
 	</string-array>
 	
 	<!-- Pike -->
-    <string name="quiz_fish_pike_name">Pike / Northern Pike</string>
+    <string name="quiz_fish_pike_name">Hauki</string>
     <string name="quiz_fish_pike_hint"></string>
-    <string name="quiz_fish_pike_description">The northern pike (Esox lucius), known simply as a pike in Britain, Ireland, most of Canada, and most parts of the USA, (also called jackfish or simply "northern" in the Upper Midwest of the USA and in Manitoba, Canada), is a species of carnivorous fish of the genus Esox (the pikes). They are typical of brackish and fresh waters of the Northern Hemisphere (i.e. holarctic in distribution). Pike grow to a relatively large size: the average length is about 70–120 cm (28–47 in). Even so, lengths of up to 150 cm (59 in) and weights of 25 kg (55 lb) are very rare. The heaviest specimen known so far was caught in 1983 at an abandoned stone quarry in Germany, where the species is called Hecht. This specimen was 147 cm (58 in) long and weighed 31 kg (68 lb). T</string>
+    <string name="quiz_fish_pike_description">Hauki (Esox lucius) on sisä- ja rannikkovesissä elävä petokala, jonka levinneisyys kattaa suurimman osan pohjoista Euraasiaa ja Pohjois-Amerikkaa. Suomessa se on ahvenen jälkeen vapaa-ajankalastuksen toiseksi tärkein saaliskala kokonaissaaliin painolla mitattuna.[2] Hauki on Ahvenanmaan maakuntakala.</string>
 	<string-array name="quiz_fish_pike_answers">
-    	<item>pike</item>
-    	<item>northern pike</item>
+    	<item>hauki</item>
 	</string-array>
-	<string name="quiz_fish_pike_link">http://en.m.wikipedia.org/wiki/Northern_pike</string>
+	<string name="quiz_fish_pike_link">http://fi.m.wikipedia.org/wiki/Hauki</string>
 	<string-array name="quiz_fish_pike_facts">
 	</string-array>
 	
 	<!-- Pike perch -->
-    <string name="quiz_fish_pikeperch_name">Pike perch</string>
+    <string name="quiz_fish_pikeperch_name">Kuha</string>
     <string name="quiz_fish_pikeperch_hint"></string>
-    <string name="quiz_fish_pikeperch_description">Sander (formerly known as Stizostedion) is a genus of fish in the Percidae (perch) family. They are also known as "pike-perch" because of their resemblance to fish in the unrelated Esocidae (pike) family. Local names for the fish have been the basis for many geographical names, like River Suda in Russia or Saunags village on the Baltic coast.</string>
+    <string name="quiz_fish_pikeperch_description">Kuha (Sander lucioperca, syn. Stizostedion lucioperca) on ahvenkalojen lahkoon kuuluva euraasialainen makeiden ja murtovesien petokala. Se on ahventen heimoin kookkain laji.</string>
 	<string-array name="quiz_fish_pikeperch_answers">
-    	<item>pikeperch</item>
+    	<item>kuha</item>
 	</string-array>
-	<string name="quiz_fish_pikeperch_link">http://en.m.wikipedia.org/wiki/pikeperch</string>
+	<string name="quiz_fish_pikeperch_link">http://fi.m.wikipedia.org/wiki/kuha</string>
 	<string-array name="quiz_fish_pikeperch_facts">
 	</string-array>
 	
 	<!-- Salmon -->
-    <string name="quiz_fish_salmon_name">Salmon</string>
+    <string name="quiz_fish_salmon_name">Lohi</string>
     <string name="quiz_fish_salmon_hint"></string>
-    <string name="quiz_fish_salmon_description">Salmon /ˈsæmən/ is the common name for several species of fish in the family Salmonidae. Other fish in the same family include trout, char, grayling and whitefish. Salmon are native to tributaries of the North Atlantic (genus Salmo) and Pacific Ocean (genus Oncorhynchus). Many species of salmon have been introduced into non-native environments such as the Great Lakes of North America and Patagonia in South America. Salmon are intensively produced in aquaculture in many parts of the world.</string>
+    <string name="quiz_fish_salmon_description">Lohi (Salmo salar) on lohikalojen heimoon kuuluva vaelluskala, jonka alkuperäinen levinneisyysalue on viileissä Pohjois-Atlantin vesissä ja niihin virtaavissa joissa. Lohi on tärkeä ruokakala, ja maailmanlaajuisesti yksi kalanviljelyssä eniten tuotettuja kalalajeja. Se on lisäksi tavoiteltu saaliskala. Meriin vaeltavista lohikannoista käytetään usein nimitystä merilohi erotukseksi järvilohesta, jolla viitataan koko elämänsä sisävesissä viettäviin lohikantoihin.</string>
 	<string-array name="quiz_fish_salmon_answers">
-    	<item>salmon</item>
+    	<item>lohi</item>
 	</string-array>
-	<string name="quiz_fish_salmon_link">http://en.m.wikipedia.org/wiki/salmon</string>
+	<string name="quiz_fish_salmon_link">http://fi.m.wikipedia.org/wiki/lohi</string>
 	<string-array name="quiz_fish_salmon_facts">
 	</string-array>
 	
 	<!-- Trout -->
-    <string name="quiz_fish_trout_name">Trout</string>
+    <string name="quiz_fish_trout_name">Taimen</string>
     <string name="quiz_fish_trout_hint"></string>
-    <string name="quiz_fish_trout_description">Trout is the name for a number of species of freshwater fish belonging to the genera Oncorhynchus, Salmo and Salvelinus, all of the subfamily Salmoninae of the family Salmonidae. The word trout is also used as part of the name of some non-salmonid fish such as Cynoscion nebulosus, the spotted seatrout or speckled trout.</string>
+    <string name="quiz_fish_trout_description">Taimen (Salmo trutta) on ulkonäöltään hyvin paljon lohta muistuttava, mutta lohta pienempi lohikala. Yleisesti taimen ja lohi erotetaan toisistaan sillä, että taimenella on pilkkuja koko kyljellä ja lohen pilkutus sijoittuu kylkiviivan yläpuolelle. Toinen yleinen ero on, että taimenen pyrstön pää on yleensä suora, ja lohella pyrstössä on lovi. Kumpikaan näistä menetelmistä ei ole täysin varma, ja on aiheuttanut ongelmia jopa tutkijoille. Suomunäytteellä asiasta saadaan kuitenkin täysi varmuus. Taimen on yleensä pituudeltaan 40–70 cm. Taimen on myös lohta pienempi.</string>
 	<string-array name="quiz_fish_trout_answers">
-    	<item>trout</item>
-    	<item>rainbow trout</item>
+    	<item>taimen</item>
+    	<item>kirjolohi</item>
 	</string-array>
-	<string name="quiz_fish_trout_link">http://en.m.wikipedia.org/wiki/trout</string>
+	<string name="quiz_fish_trout_link">http://fi.m.wikipedia.org/wiki/taimen</string>
 	<string-array name="quiz_fish_trout_facts">
 	</string-array>
 	
 	<!-- Burbot -->
-    <string name="quiz_fish_burbot_name">Burbot</string>
+    <string name="quiz_fish_burbot_name">Made</string>
     <string name="quiz_fish_burbot_hint"></string>
-    <string name="quiz_fish_burbot_description">The burbot (Lota lota) or bubbot is the only gadiform (cod-like) freshwater fish. Also known as mariah, freshwater ling, the lawyer, coney-fish, and (misleadingly) eelpout, the burbot is closely related to the marine common ling and the cusk. It is the only member of the genus Lota.</string>
+    <string name="quiz_fish_burbot_description">Made eli matikka (Lota lota) on ainoa makeassa vedessä esiintyvä turskakalalaji. Se on sukunsa Lota ainoa laji. Made on pitkulainen, hyvin pienisuomuinen ja limaisen liukas kala. Sillä on litteän leveä pää ja puolet sen ruumiista on pyrstöosaa. Made on väritykseltään keltaisen- tai tummanruskean kirjava, kyljissä säännöttömiä kuvioita, mahapuoli on vaalea. Mateen leuassa on turskakaloille tyypillinen viiksisäie. Selkäeviä on kaksi. Taempi selkäevä ja peräevä ulottuvat lähes pyrstöön asti. Silmät ovat melko suuret. Suurin 2000-luvulla Suomessa tilastoitu made painoi 8,04 kiloa.</string>
 	<string-array name="quiz_fish_burbot_answers">
-    	<item>Burbot</item>
+    	<item>Made</item>
 	</string-array>
-	<string name="quiz_fish_burbot_link">http://en.m.wikipedia.org/wiki/burbot</string>
+	<string name="quiz_fish_burbot_link">http://fi.m.wikipedia.org/wiki/made</string>
 	<string-array name="quiz_fish_burbot_facts">
 	</string-array>
 	
 	<!-- Bream -->
-    <string name="quiz_fish_bream_name">Bream</string>
+    <string name="quiz_fish_bream_name">Lahna</string>
     <string name="quiz_fish_bream_hint"></string>
-    <string name="quiz_fish_bream_description">"Bream (Listeni/ˈbrɪm/) is a general term for a number of species of freshwater and marine fish belonging to a variety of genera including: Abramis (e.g. A. brama, the common bream), Acanthopagrus, Argyrops, Blicca, Brama, Chilotilapia, Etelis, Lepomis, Gymnocranius, Lethrinus, Nemipterus, Pharyngochromis, Rhabdosargus or Scolopsis.
-
-Although species from all of these genera are called "bream", the term does not imply a degree of relatedness between these species. Fish termed "bream" tend to be narrow, deep bodied species. The name is a derivation of the Middle English word breme, of Old French origin."</string>
+    <string name="quiz_fish_bream_description">Lahna (Abramis brama) on särkikalojen heimoon kuuluva kalalaji. Se on sukunsa Abramis ainoa laji.Lahna on muodoltaan litteä ja korkea. Se on väriltään aluksi hopeinen, vanhemmiten kuparinvärinen ja tummanpuhuva. Evät ovat tummanharmaat. Tavallisesti lahna on enintään kilon painoinen, mutta voi kasvaa jopa kuusikiloiseksi. Lahna voi kasvaa 25–50 cm pituiseksi, mutta suurempiakin on. Lahnan sukuisia ja sitä muistuttavia pienempiä kaloja ovat sulkava ja pasuri. Lahna voi myös risteytyä muiden särkikalojen kanssa. Yleisin risteytymä on särjen ja lahnan välinen särkilahna.</string>
 	<string-array name="quiz_fish_bream_answers">
-    	<item>Bream</item>
+    	<item>Lahna</item>
 	</string-array>
-	<string name="quiz_fish_bream_link">http://en.m.wikipedia.org/wiki/bream</string>
+	<string name="quiz_fish_bream_link">http://fi.m.wikipedia.org/wiki/lahna</string>
 	<string-array name="quiz_fish_bream_facts">
 	</string-array>
 	
 	<!-- Roach -->
-    <string name="quiz_fish_roach_name">Roach</string>
+    <string name="quiz_fish_roach_name">Särki</string>
     <string name="quiz_fish_roach_hint"></string>
-    <string name="quiz_fish_roach_description">The roach (Rutilus rutilus), also known as the common roach, is a fresh and brackish water fish of the Cyprinidae family, native to most of Europe and western Asia. The name "roach" is not unique, but fishes called roach can be any species of the genera Rutilus and Hesperoleucus, depending on locality. The plural of the term is also roach.</string>
+    <string name="quiz_fish_roach_description">Särki (Rutilus rutilus) on makean ja murtoveden kala. Sillä on punaiset silmät ja punaiset vatsanpuoleiset evät. Särjen peräevä on lyhyt ja sen suomut ovat suuria. Särki kasvaa tavallisesti 15–25 cm:n pituiseksi, joskus jopa 45 cm pitkäksi. Särkeä muistuttavia suomalaisia kalalajeja ovat seipi, sorva, säyne, toutain ja turpa. Särki on ahvenen ja hauen jälkeen Suomen kolmanneksi yleisin kalalaji.Särki esiintyy Aasian länsiosissa ja miltei koko Euroopassa, ei kuitenkaan Espanjassa, Italiassa tai Kreikassa. Suomessa se esiintyy yleisenä pohjoisinta Lappia lukuun ottamatta. </string>
 	<string-array name="quiz_fish_roach_answers">
-    	<item>Roach</item>
+    	<item>Särki</item>
 	</string-array>
-	<string name="quiz_fish_roach_link">http://en.m.wikipedia.org/wiki/Common_roach</string>
+	<string name="quiz_fish_roach_link">http://fi.m.wikipedia.org/wiki/Särki</string>
 	<string-array name="quiz_fish_roach_facts">
 	</string-array>
 	
 	<!-- Whitefish -->
-    <string name="quiz_fish_whitefish_name">Whitefish</string>
+    <string name="quiz_fish_whitefish_name">Siika</string>
     <string name="quiz_fish_whitefish_hint"></string>
-    <string name="quiz_fish_whitefish_description">Coregonus lavaretus is a species of freshwater whitefish, in the family Salmonidae. It is the type species of its genus Coregonus. There is much variation among the European whitefish forms, but in general they have a tapered body, a slightly protruding upper jaw and a fleshy dorsal fin that is typical of the salmon family. The snout is short and tapered, a fact that distinguishes this species from the two other North European Coregonus species, vendace (Coregonus albula) and the introduced peled (Coregonus peled). The former has a protuberant lower jaw while in the latter, the jaws are equal in length. The back is bluish green or brownish, the flanks silvery and the belly white. The fins are dark grey. This fish seldom grows more than 55 cm (22 in) long or exceeds 2 kg (4.4 lb) in weight.</string>
+    <string name="quiz_fish_whitefish_description">Siika (Coregonus lavaretus) on Euraasian pohjoisosien sisä- ja murtovesissä elävä lohikalojen lahkon parvikala.Siika on erittäin monimuotoinen kala, josta voi samassakin järvessä elää morfologisesti, ravinnonkäytöltään, kasvunopeudeltaan ja kutukäyttäytymiseltään hyvin erilaisia muotoja tai populaatioita.Suomessa on erotettu viisi tai kuusi pääasiallista siikamuotoa: pohjasiika, karisiika, vaellussiika, järvisiika, planktonsiika ja tuppisiika. On pitkään ollut kiistanalaista, ovatko nämä erillisiä lajeja. Suomessa nykyään vallitsevan käsityksen mukaan ne kuitenkin katsotaan kaikki yhteen ja samaan lajiin Coregonus lavaretus kuuluviksi, eikä niitä pidetä edes alalajeina. Toinen siikojen suvun (Coregonus) Suomessa luonnonvaraisena elävä laji on muikku. Lisäksi joihinkin Suomen vesiin on istutettu siperialaista peledsiikaa.</string>
 	<string-array name="quiz_fish_whitefish_answers">
-    	<item>whitefish</item>
+    	<item>siika</item>
 	</string-array>
-	<string name="quiz_fish_whitefish_link">http://en.m.wikipedia.org/wiki/Coregonus_lavaretus</string>
+	<string name="quiz_fish_whitefish_link">http://fi.m.wikipedia.org/wiki/Siika</string>
 	<string-array name="quiz_fish_whitefish_facts">
 	</string-array>
 	
 	<!-- Herring -->
-    <string name="quiz_fish_herring_name">Herring</string>
+    <string name="quiz_fish_herring_name">Silli</string>
     <string name="quiz_fish_herring_hint"></string>
-    <string name="quiz_fish_herring_description">Herring are forage fish, mostly belonging to the family Clupeidae. They often move in large schools around fishing banks and near the coast. The most abundant and commercially important species belong to the genus Clupea, found particularly in shallow, temperate waters of the North Pacific and the North Atlantic oceans, including the Baltic Sea, as well as off the west coast of South America. Three species of Clupea are recognised, and provide about 90% of all herrings captured in fisheries. Most abundant of all is the Atlantic herring, providing over half of all herring capture. Fishes called herring are also found in India, in the Arabian Sea, Indian Ocean and Bay of Bengal.</string>
+    <string name="quiz_fish_herring_description">Silli (Clupea harengus) on Pohjois-Atlantissa elävä parvikala. Itämeren itä- ja pohjoisosissa elävää silliä kutsutaan silakaksi, ja sitä on pidetty erillisenä alalajina (Clupea harengus membras) erotukseksi silliksi yleensä kutsutusta varsinaisesta atlantinsillistä (Clupea harengus harengus), joka on silakkaa suurempi ja rasvaisempi. Silli elää Atlantissa suurina parvina. Parvessa voi olla jopa neljä miljardia yksilöä. Silli voi kasvaa 45 cm pitkäksi ja painaa suurimmillaan kilon.</string>
 	<string-array name="quiz_fish_herring_answers">
-    	<item>herring</item>
+    	<item>silli</item>
 	</string-array>
-	<string name="quiz_fish_herring_link">http://en.m.wikipedia.org/wiki/herring</string>
+	<string name="quiz_fish_herring_link">http://fi.m.wikipedia.org/wiki/silli</string>
 	<string-array name="quiz_fish_herring_facts">
 	</string-array>
 	
 	<!-- Crab -->
-    <string name="quiz_fish_crab_name">Crab</string>
+    <string name="quiz_fish_crab_name">Rapu</string>
     <string name="quiz_fish_crab_hint"></string>
-    <string name="quiz_fish_crab_description">Crabs are decapod crustaceans of the infraorder Brachyura, which typically have a very short projecting &quot;tail&quot; (abdomen) (Greek: βραχύς / brachys = short, οὐρά / οura = tail), usually entirely hidden under the thorax. They live in all the world\'s oceans, in fresh water, and on land, are generally covered with a thick exoskeleton and have a single pair of claws. Many other animals with similar names – such as hermit crabs, king crabs, porcelain crabs, horseshoe crabs and crab lice – are not true crabs.</string>
+    <string name="quiz_fish_crab_description">Ravut (yläheimot Astacoidea ja Parastacoidea) ovat kymmenjalkaisten lahkoon (Decapoda) kuuluvia äyriäisiä. Rapuihin luetaan sisävesissä elävät Astacidea-osalahkon heimot. Laajassa merkityksessä ravuilla voidaan joskus myös tarkoittaa koko kymmenjalkaisten lahkoa.</string>
 	<string-array name="quiz_fish_crab_answers">
-    	<item>crab</item>
+    	<item>rapu</item>
 	</string-array>
-	<string name="quiz_fish_crab_link">http://en.m.wikipedia.org/wiki/crab</string>
+	<string name="quiz_fish_crab_link">http://fi.m.wikipedia.org/wiki/ravut</string>
 	<string-array name="quiz_fish_crab_facts">
 	</string-array>
 	
 	<!-- Crayfish -->
-    <string name="quiz_fish_crayfish_name">Crayfish</string>
+    <string name="quiz_fish_crayfish_name">Rapu</string>
     <string name="quiz_fish_crayfish_hint"></string>
-    <string name="quiz_fish_crayfish_description">Crayfish, also known as crawfish, crawdads, freshwater lobsters, or mudbugs, are freshwater crustaceans resembling small lobsters, to which they are related; taxonomically, they are members of the superfamilies Astacoidea and Parastacoidea. They breathe through feather-like gills and are found in bodies of water. Some species are found in brooks and streams where there is fresh water running, while others thrive in swamps, ditches, and rice paddies. Most crayfish cannot tolerate polluted water, although some species such as Procambarus clarkii are hardier. Crayfish feed on living and dead animals and plants.</string>
+    <string name="quiz_fish_crayfish_description">Ravut (yläheimot Astacoidea ja Parastacoidea) ovat kymmenjalkaisten lahkoon (Decapoda) kuuluvia äyriäisiä. Rapuihin luetaan sisävesissä elävät Astacidea-osalahkon heimot. Laajassa merkityksessä ravuilla voidaan joskus myös tarkoittaa koko kymmenjalkaisten lahkoa.</string>
 	<string-array name="quiz_fish_crayfish_answers">
-    	<item>crayfish</item>
-    	<item>crawdad</item>
+    	<item>rapu</item>
 	</string-array>
-	<string name="quiz_fish_crayfish_link">http://en.m.wikipedia.org/wiki/crayfish</string>
+	<string name="quiz_fish_crayfish_link">http://fi.m.wikipedia.org/wiki/ravut</string>
 	<string-array name="quiz_fish_crayfish_facts">
 	</string-array>
 	
 	<!-- Lobster -->
-    <string name="quiz_fish_lobster_name">Lobster</string>
+    <string name="quiz_fish_lobster_name">Hummeri</string>
     <string name="quiz_fish_lobster_hint"></string>
-    <string name="quiz_fish_lobster_description">Clawed lobsters comprise a family (Nephropidae, sometimes also Homaridae) of large marine crustaceans. They have long bodies with muscular tails, and live in crevices or burrows on the sea floor. Three of their five pairs of legs have claws, including the first pair, which are usually much larger than the others. Highly prized as seafood, lobsters are economically important, and are often one of the most profitable commodities in coastal areas they populate. Commercially important species include two species of Homarus from the northern Atlantic Ocean, and scampi – the northern-hemisphere genus Nephrops and the southern-hemisphere genus Metanephrops. Although several other groups of crustaceans have the word "lobster" in their names, the unqualified term "lobster" generally refers to the clawed lobsters of the family Nephropidae. Clawed lobsters are not closely related to spiny lobsters or slipper lobsters, which have no claws (chelae), or to squat lobsters. The closest living relatives of clawed lobsters are the reef lobsters and the three families of freshwater crayfish.</string>
+    <string name="quiz_fish_lobster_description">Hummeri (Homarus gammarus) eli euroopanhummeri on suurikokoinen äyriäinen.Hummeri voi kasvaa metrinkin mittaiseksi, mutta 50 cm on lähempänä keskivertoa. Hummerin kitiinipanssari on päältä sinertävä, alta keltainen. Hummeri on pitkäikäinen, jopa yli 100-vuotiaita hummereita on tavattu.
+</string>
 	<string-array name="quiz_fish_lobster_answers">
-    	<item>lobster</item>
+    	<item>hummeri</item>
 	</string-array>
-	<string name="quiz_fish_lobster_link">http://en.m.wikipedia.org/wiki/lobster</string>
+	<string name="quiz_fish_lobster_link">http://fi.m.wikipedia.org/wiki/hummeri</string>
 	<string-array name="quiz_fish_lobster_facts">
 	</string-array>
 	

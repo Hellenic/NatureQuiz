@@ -1,166 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Berries -->
-    <string name="quiz_berries_name">Berries</string>
-    <string name="quiz_berries_description">Test how well you know the most common berries!</string>
-    <string name="quiz_berries_link">http://en.m.wikipedia.org/wiki/Berries</string>
+    <string name="quiz_berries_name">Marjat</string>
+    <string name="quiz_berries_description">Miten hyvin tunnet marjoja?</string>
+    <string name="quiz_berries_link">http://fi.m.wikipedia.org/wiki/Marja</string>
     
     <!-- Berries / Levels -->
     
     <!-- Strawberry -->
-    <string name="quiz_berries_strawberry_name">Strawberry</string>
+    <string name="quiz_berries_strawberry_name">Mansikka</string>
     <string name="quiz_berries_strawberry_hint"></string>
-    <string name="quiz_berries_strawberry_description">Red and delicious summer fruit.</string>
+    <string name="quiz_berries_strawberry_description">Punainen ja maukas kesämarja.</string>
 	<string-array name="quiz_berries_strawberry_answers">
-    	<item>strawberry</item>
+    	<item>mansikka</item>
 	</string-array>
-	<string name="quiz_berries_strawberry_link">http://en.m.wikipedia.org/wiki/Strawberry</string>
+	<string name="quiz_berries_strawberry_link">http://fi.m.wikipedia.org/wiki/Mansikat</string>
 	<string-array name="quiz_berries_strawberry_facts">
-	    <item>It\'s red.</item>
+	    <item>Se on punainen.</item>
 	</string-array>
     
 	<!-- Cherry -->
-    <string name="quiz_berries_cherry_name">Cherry</string>
+    <string name="quiz_berries_cherry_name">Kirsikka</string>
     <string name="quiz_berries_cherry_hint"></string>
-    <string name="quiz_berries_cherry_description">The cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). The cherry fruits of commerce are usually obtained from a limited number of species such as cultivars of the sweet cherry, Prunus avium. The name \'cherry\' also refers to the cherry tree, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in &quot;ornamental cherry&quot;, &quot;cherry blossom&quot;, etc. Wild Cherry may refer to any of the cherry species growing outside of cultivation, although Prunus avium is often referred to specifically by the name &quot;wild cherry&quot; in the British Isles.</string>
+    <string name="quiz_berries_cherry_description">Kirsikkapuun hedelmiä ovat kirsikat. Sana kirsikka viittaa sekä kirsikkapuuhun että sen hedelmään. Kirsikka on kivihedelmä eli luumarja, joten hedelmät sisältävät kiven, jonka halkaisija on tyypillisesti 0,5–1 cm ja joka puolestaan sisältää puun siemenen. Hedelmien väri vaihtelee vaaleanpunaisesta tummanpunaiseen, myös mustia tai keltaisia tunnetaan.</string>
     <string-array name="quiz_berries_cherry_answers">
-    	<item>cherry</item>
-    	<item>cherries</item>
+    	<item>kirsikka</item>
+    	<item>kirsikat</item>
 	</string-array>
-	<string name="quiz_berries_cherry_link">http://en.m.wikipedia.org/wiki/Cherry</string>
+	<string name="quiz_berries_cherry_link">http://fi.m.wikipedia.org/wiki/Cerasus</string>
 	<string-array name="quiz_berries_cherry_facts">
-	    <item>Red / Purple</item>
+	    <item>Punainen/Tummapunainen</item>
 	</string-array>
 	
 	<!-- Gooseberry -->
-    <string name="quiz_berries_gooseberry_name">gooseberry</string>
+    <string name="quiz_berries_gooseberry_name">Karviainen</string>
     <string name="quiz_berries_gooseberry_hint"></string>
-    <string name="quiz_berries_gooseberry_description">The gooseberry (/ˈɡuːsbɛri/ or /ˈɡuːzbɛri/ (American) or /ˈɡʊzbəri/ (British)), with scientific names Ribes uva-crispa (and syn. Ribes grossularia), is a species of Ribes (which also includes the currants). It is native to Europe, northwestern Africa, west, south and southeast Asia. Gooseberry bushes produce an edible fruit and are grown on both a commercial and domestic basis.</string>
+    <string name="quiz_berries_gooseberry_description">Karviainen (Ribes uva-crispa) on herukoiden sukuun kuuluva marjapensas, jonka alkuperäinen esiintymisalue on Euroopassa ja Aasian länsiosissa. Pohjoismaissa karviaista tavataan viljelyjäänteenä ja viljelykarkulaisena. Karviainen on vakinainen uustulokas Suomen, Ruotsin ja Norjan keskiosiin asti ja satunnainen pohjoisempanakin.</string>
 	<string-array name="quiz_berries_gooseberry_answers">
-    	<item>gooseberry</item>
+    	<item>karviainen</item>
 	</string-array>
-	<string name="quiz_berries_gooseberry_link">http://en.m.wikipedia.org/wiki/gooseberry</string>
+	<string name="quiz_berries_gooseberry_link">http://fi.m.wikipedia.org/wiki/karviainen</string>
 	<string-array name="quiz_berries_gooseberry_facts">
 	</string-array>
 	
 	<!-- Red currant -->
-    <string name="quiz_berries_redcurrant_name">redcurrant</string>
+    <string name="quiz_berries_redcurrant_name">Punaherukka</string>
     <string name="quiz_berries_redcurrant_hint"></string>
-    <string name="quiz_berries_redcurrant_description">The redcurrant (or red currant), Ribes rubrum, is a member of the genus Ribes in the gooseberry family Grossulariaceae, native to parts of western Europe (Belgium, Great Britain ergo England, Scotland, Northern Ireland and Wales, France, Norway, Sweden, Germany, Netherlands, northern Italy, northern Spain, Portugal and Poland). It is a deciduous shrub normally growing to 1–1.5 m (3.3–4.9 ft) tall, occasionally 2 m (7 ft), with five-lobed leaves arranged spirally on the stems. The flowers are inconspicuous yellow-green, in pendulous 4–8 cm (2–3 in) racemes, maturing into bright red translucent edible berries about 8–12 mm (0.3–0.5 in) diameter, with 3–10 berries on each raceme. An established bush can produce 3–4 kg (7–9 lb) of berries from mid to late summer.</string>
+    <string name="quiz_berries_redcurrant_description">Punaherukka eli lännenpunaherukka (Ribes rubrum), jota kutsutaan usein myös punaviinimarjaksi, on herukkapensaslaji. Punaherukasta tunnetaan useita alalajeja. Suomessa pensasta esiintyy viljeltynä. Suomen suosituin viljelylajike on Punainen hollantilainen. Punaviinimarja kestää kylmää paremmin kuin mustaherukka, joten sitä voidaan kasvattaa jopa Lapissa. Punaherukkaa kasvaa koko maassa luonnonvaraisena. Luonnonvarainen punaherukka on otettu viljelyyn jo varhain. Luonnonvaraisen muodon marjat ovat happamammat ja pienemmät kuin nykyisin viljellyllä lajikkeilla.</string>
 	<string-array name="quiz_berries_redcurrant_answers">
-    	<item>redcurrant</item>
+    	<item>punaherukka</item>
 	</string-array>
-	<string name="quiz_berries_redcurrant_link">http://en.m.wikipedia.org/wiki/redcurrant</string>
+	<string name="quiz_berries_redcurrant_link">http://fi.m.wikipedia.org/wiki/punaherukka</string>
 	<string-array name="quiz_berries_redcurrant_facts">
-	    <item>It\'s red.</item>
+	    <item>Se on punainen.</item>
 	</string-array>
 	
 	<!-- Black currant -->
-    <string name="quiz_berries_blackcurrant_name">blackcurrant</string>
-    <string name="quiz_berries_blackcurrant_hint"></string>
-    <string name="quiz_berries_blackcurrant_description">Slightly sour summer fruit. Most popular on cakes or as a juice. Juice is especially good during winter when warmed.</string>
-	<string-array name="quiz_berries_blackcurrant_answers">
-    	<item>blackcurrant</item>
+    <string name="quiz_berries_mustaherukka_name">Mustaherukka</string>
+    <string name="quiz_berries_mustaherukka_hint"></string>
+    <string name="quiz_berries_mustaherukka_description">Mustaherukka (Ribes nigrum) eli musta viinimarja on herukoiden sukuun kuuluva yksikotinen pensas, joka kasvaa suurimmassa osassa Eurooppaa sekä villinä että viljeltynä. Mustaherukka on 1–1,5 metriä korkea pensas. Lehtilapa on 6–10 cm leveä ja 3–5-liuskainen. Lehti on päältä kalju ja alta karvainen. Lehtien liuskat ovat suippoja. Mustaherukan kukinto on nuokkuva monikukkainen terttu.</string>
+	<string-array name="quiz_berries_mustaherukka_answers">
+    	<item>mustaherukka</item>
 	</string-array>
-	<string name="quiz_berries_blackcurrant_link">http://en.m.wikipedia.org/wiki/blackcurrant</string>
-	<string-array name="quiz_berries_blackcurrant_facts">
-	    <item>It\'s red.</item>
+	<string name="quiz_berries_mustaherukka_link">http://fi.m.wikipedia.org/wiki/mustaherukka</string>
+	<string-array name="quiz_berries_mustaherukka_facts">
+	    <item>Se on musta.</item>
 	</string-array>
 	
 	<!-- Blueberry -->
-    <string name="quiz_berries_blueberry_name">blueberry</string>
-    <string name="quiz_berries_blueberry_hint"></string>
-    <string name="quiz_berries_blueberry_description">Usually ripe starting from July. Rather sweet berry used for many purposes.</string>
-	<string-array name="quiz_berries_blueberry_answers">
-    	<item>blueberry</item>
+    <string name="quiz_berries_pensasmustikka_name">Mustikka</string>
+    <string name="quiz_berries_pensasmustikka_hint"></string>
+    <string name="quiz_berries_pensasmustikka_description">Mustikka (Vaccinium myrtillus) on puolukoiden (Vaccinium) sukuun kuuluva kanervakasvi (Ericaceae), joka tuottaa syötäviä marjoja. Mustikka kasvaa tuoreissa kangasmetsissä ja muissa kosteissa metsissä Euroopan, Aasian ja Pohjois-Amerikan pohjoisosissa. Mustikka kukkii toukokuusta heinäkuuhun, ja marjat kypsyvät heinäkuusta alkaen. Suomessa mustikka on toiseksi tärkein kaupallinen luonnonmarja.</string>
+	<string-array name="quiz_berries_pensasmustikka_answers">
+    	<item>mustikka</item>
 	</string-array>
-	<string name="quiz_berries_blueberry_link">http://en.m.wikipedia.org/wiki/blueberry</string>
-	<string-array name="quiz_berries_blueberry_facts">
-	    <item>It\'s red.</item>
+	<string name="quiz_berries_pensasmustikka_link">http://fi.m.wikipedia.org/wiki/mustikka</string>
+	<string-array name="quiz_berries_pensasmustikka_facts">
+	    <item>Se on sininen.</item>
 	</string-array>
 	
 	<!-- Lingonberry -->
-    <string name="quiz_berries_lingonberry_name">lingonberry</string>
+    <string name="quiz_berries_lingonberry_name">Puolukka</string>
     <string name="quiz_berries_lingonberry_hint"></string>
-    <string name="quiz_berries_lingonberry_description">Not so sweet summer fruit. Most popular on pies or as a juice.</string>
+    <string name="quiz_berries_lingonberry_description">Puolukka (Vaccinium vitis-idaea) on puolukoiden sukuun (Vaccinium) ja kanervakasvien heimoon kuuluva, 10–40 senttimetriä korkea ainavihanta varpu, joka kasvaa laajalla alueella pohjoisella pallonpuoliskolla. Puolukalla on vihreät ja suipot lehdet, jotka ovat 10–25 millimetriä pitkät. Puolukka kukkii touko-kesäkuussa ja punainen syötävä pohjusmarja on kypsä syyskuussa. Puolukka viihtyy parhaiten kuivien kangasmetsien puolukkatyypin metsissä.</string>
 	<string-array name="quiz_berries_lingonberry_answers">
-    	<item>lingonberry</item>
+    	<item>puolukka</item>
 	</string-array>
-	<string name="quiz_berries_lingonberry_link">http://en.m.wikipedia.org/wiki/lingonberry</string>
+	<string name="quiz_berries_lingonberry_link">http://fi.m.wikipedia.org/wiki/puolukka</string>
 	<string-array name="quiz_berries_lingonberry_facts">
-	    <item>It\'s red.</item>
+	    <item>Se on punainen.</item>
 	</string-array>
 	
 	<!-- Raspberry -->
-    <string name="quiz_berries_raspberry_name">raspberry</string>
+    <string name="quiz_berries_raspberry_name">Vadelma</string>
     <string name="quiz_berries_raspberry_hint"></string>
-    <string name="quiz_berries_raspberry_description">Usually ripe starting from July. Rather sweet berry used for many purposes.</string>
+    <string name="quiz_berries_raspberry_description">Vadelma (Rubus idaeus) eli vaarain, vaapukka tai vattu on hyönteispölytteinen, monivuotinen vatukoihin kuuluva puolipensas. Sillä on kaksivuotiset, piikikkäät, toisena vuonna kukkivat versot. On olemassa myös viljelty syysvadelmalajike, joka tuottaa satoa ensimmäisen vuoden versoihin.</string>
 	<string-array name="quiz_berries_raspberry_answers">
-    	<item>raspberry</item>
+    	<item>vadelma</item>
 	</string-array>
-	<string name="quiz_berries_raspberry_link">http://en.m.wikipedia.org/wiki/raspberry</string>
+	<string name="quiz_berries_raspberry_link">http://fi.m.wikipedia.org/wiki/vadelma</string>
 	<string-array name="quiz_berries_raspberry_facts">
-	    <item>It\'s red.</item>
+	    <item>Se on punainen.</item>
 	</string-array>
 	
 	<!-- Cloudberry -->
-    <string name="quiz_berries_cloudberry_name">cloudberry</string>
-    <string name="quiz_berries_cloudberry_hint">Grows in swampy areas.</string>
-    <string name="quiz_berries_cloudberry_description">Rubus chamaemorus (derived from Greek chamai &quot;on the ground&quot;, moros &quot;mulberry&quot;), though not the same as the berry now called \'mulberry\', is a rhizomatous herb native to alpine and arctic tundra and boreal forest, producing amber-colored edible fruit similar to the raspberry or blackberry. English common names include cloudberry, bakeapple (in Newfoundland and Labrador), knotberry and knoutberry (in England), aqpik or low-bush salmonberry (in Alaska - not to be confused with true salmonberry, Rubus spectabilis), and averin or evron (in Scotland).</string>
+    <string name="quiz_berries_cloudberry_name">Lakka</string>
+    <string name="quiz_berries_cloudberry_hint"></string>
+    <string name="quiz_berries_cloudberry_description">Lakka eli hilla eli suomuurain (Rubus chamaemorus)on vatukoiden sukuun kuuluva ruohovartinen kasvi. Nimeä käytetään myös kasvin tuottamasta heleän oranssista mehukkaasta marjasta. Kasvin nimitys vaihtelee alueittain niin, että lakasta puhutaan perinteisesti Länsi-Suomessa ja hillasta Pohjois- ja Itä-Suomessa. </string>
 	<string-array name="quiz_berries_cloudberry_answers">
-    	<item>cloudberry</item>
+    	<item>lakka</item>
 	</string-array>
-	<string name="quiz_berries_cloudberry_link">http://en.m.wikipedia.org/wiki/cloudberry</string>
+	<string name="quiz_berries_cloudberry_link">http://fi.m.wikipedia.org/wiki/Lakka_(kasvi)</string>
 	<string-array name="quiz_berries_cloudberry_facts">
-	    <item>Orange</item>
+	    <item>Oranssi</item>
 	</string-array>
 	
 	<!-- Cranberry -->
-    <string name="quiz_berries_cranberry_name">Cranberry</string>
+    <string name="quiz_berries_cranberry_name">Karpalo</string>
     <string name="quiz_berries_cranberry_hint"></string>
-    <string name="quiz_berries_cranberry_description">Cranberries are a group of evergreen dwarf shrubs or trailing vines in the subgenus Oxycoccus of the genus Vaccinium. In Britain, cranberry may refer to the native species Vaccinium oxycoccos, while in North America, cranberry may refer to Vaccinium macrocarpon. Vaccinium oxycoccos is cultivated in central and northern Europe, while Vaccinium macrocarpon is cultivated throughout the northern United States, Canada and Chile. In some methods of classification, Oxycoccus is regarded as a genus in its own right. They can be found in acidic bogs throughout the cooler regions of the northern hemisphere.</string>
+    <string name="quiz_berries_cranberry_description">Isokarpalo (Vaccinium oxycoccos) on puolukoihin (Vaccinium) kuuluva punakukkainen ja -marjainen, aina vihanta varpu. Se kasvaa sekä Euraasian että Pohjois-Amerikan pohjoisosissa. Suomessa se on lähes koko maassa varsin yleinen alkuperäiskasvi, vain Pohjois-Lapissa harvinainen. Se kasvaa runsaimmillaan ja varsinkin parhaiten marjovana erilaisilla, monesti melko märilläkin nevoilla. Vaikka se kasvaa myös rämeillä ja korvissa, marjasadot jäävät siellä paljon pienemmiksi. </string>
 	<string-array name="quiz_berries_cranberry_answers">
-    	<item>cranberry</item>
+    	<item>karpalo</item>
 	</string-array>
-	<string name="quiz_berries_cranberry_link">http://en.m.wikipedia.org/wiki/cranberry</string>
+	<string name="quiz_berries_cranberry_link">http://fi.m.wikipedia.org/wiki/karpalo</string>
 	<string-array name="quiz_berries_cranberry_facts">
-	    <item>It\'s red.</item>
+	    <item>Se on punainen.</item>
 	</string-array>
 	
 	<!-- Crowberry -->
-    <string name="quiz_berries_crowberry_name">crowberry</string>
+    <string name="quiz_berries_crowberry_name">Variksenmarja</string>
     <string name="quiz_berries_crowberry_hint"></string>
-    <string name="quiz_berries_crowberry_description">Empetrum nigrum, crowberry or black crowberry, is a species of Empetrum with a circumboreal distribution. It is usually dioecious, but there is a bisexual tetraploid subspecies, Empetrum nigrum ssp. hermaphroditum, that occurs in more northerly locations and at higher altitude.</string>
+    <string name="quiz_berries_crowberry_description">Variksenmarja (Empetrum nigrum) eli kaarnikka on matala ainavihanta varpukasvi, joka kuuluu kanervakasvien (Ericaceae) heimoon. Sitä käytetään ravinnoksi etenkin Pohjois-Suomessa. Variksenmarjasta on olemassa kaksi eri alalajia, joista pohjanvariksenmarja (Empetrum nigrum subsp. hermaphroditum) on yleisempi Suomen pohjoisosissa ja (etelän)variksenmarja (Empetrum nigrum subsp. nigrum) puolestaan etelämpänä.</string>
 	<string-array name="quiz_berries_crowberry_answers">
-    	<item>crowberry</item>
+    	<item>variksenmarja</item>
 	</string-array>
-	<string name="quiz_berries_crowberry_link">http://en.m.wikipedia.org/wiki/crowberry</string>
+	<string name="quiz_berries_crowberry_link">http://fi.m.wikipedia.org/wiki/variksenmarja</string>
 	<string-array name="quiz_berries_crowberry_facts">
-	    <item>Black</item>
+	    <item>Musta</item>
 	</string-array>
 	
 	<!-- Buckthorn -->
-    <string name="quiz_berries_buckthorn_name">Sea buckthorn</string>
+    <string name="quiz_berries_buckthorn_name">Tyrni</string>
     <string name="quiz_berries_buckthorn_hint"></string>
-    <string name="quiz_berries_buckthorn_description">Hippophae rhamnoides (common sea-buckthorn) is a species of flowering plant in the family Elaeagnaceae, native to fixed dunes and sea cliffs in Europe and Asia. It is a spiny deciduous shrub. The fruits of sea buckthorn are used in a wide variety of products. Due to difficult harvest conditions and long ramp-up time of 6 to 8 years buckthorn is a relatively expensive raw material.</string>
+    <string name="quiz_berries_buckthorn_description">Tyrni (Hippophaë rhamnoides) on hopeapensaskasveihin (Elaeagnaceae) kuuluva piikikäs, C-vitamiinipitoisia marjoja tuottava pensas tai puumainen pensas. Tyrni kasvaa laajalla alueella Euraasiassa.Tyrni on Satakunnan maakuntakukka.Suomen suurin tyrnin viljelyalue on Suupohja.</string>
 	<string-array name="quiz_berries_buckthorn_answers">
-    	<item>buckthorn</item>
-    	<item>sea buckthorn</item>
+    	<item>tyrni</item>
+    	<item>tyrni</item>
 	</string-array>
-	<string name="quiz_berries_buckthorn_link">http://en.m.wikipedia.org/wiki/Hippophae_rhamnoides</string>
+	<string name="quiz_berries_buckthorn_link">http://fi.m.wikipedia.org/wiki/Tyrni</string>
 	<string-array name="quiz_berries_buckthorn_facts">
-	    <item>Orange</item>
+	    <item>Oranssi</item>
 	    <item>Super food</item>
 	</string-array>
 	
 	<!-- Bilberry -->
-    <string name="quiz_berries_bilberry_name">bilberry</string>
-    <string name="quiz_berries_bilberry_hint">Tip: Not a blueberry</string>
-    <string name="quiz_berries_bilberry_description">Bilberry is any of several primarily Eurasian species of low-growing shrubs in the genus Vaccinium (family Ericaceae), bearing edible, nearly black berries. The species most often referred to is Vaccinium myrtillus L., but there are several other closely related species. Bilberries are distinct from blueberries but closely related to them.</string>
+    <string name="quiz_berries_bilberry_name">Pensasmustikka</string>
+    <string name="quiz_berries_bilberry_hint">Vinkki: Ei ole mustikka</string>
+    <string name="quiz_berries_bilberry_description">Pensasmustikka (Vaccinium corymbosum) on Pohjois-Amerikasta peräisin oleva mustikan lähisukulainen. Vaccinium-suvun kasvit kuuluvat kanervakasveihin. Pensasmustikka kasvaa jopa kaksi metriä korkeaksi. Pensasmustikka viihtyy happamassa maaperässä ja puolivarjossa tai auringossa. Se on pidettävä tuulelta suojassa, mutta kestää pakkasta melko hyvin -25 asteeseen asti.</string>
 	<string-array name="quiz_berries_bilberry_answers">
-    	<item>bilberry</item>
+    	<item>pensasmustikka</item>
 	</string-array>
-	<string name="quiz_berries_bilberry_link">http://en.m.wikipedia.org/wiki/bilberry</string>
+	<string name="quiz_berries_bilberry_link">http://fi.m.wikipedia.org/wiki/pensasmustikka</string>
 	<string-array name="quiz_berries_bilberry_facts">
+        <item>Sininen</item>
 	</string-array>
 </resources>

@@ -2,158 +2,158 @@
 <resources>
     <!-- Animals -->
     <string name="quiz_animals_name">Eläimet</string>
-    <string name="quiz_animals_description">Test how well you know the most common animals!</string>
-    <string name="quiz_animals_link">http://en.m.wikipedia.org/wiki/Animals</string>
+    <string name="quiz_animals_description">Miten hyvin tunnet eläimiä?</string>
+    <string name="quiz_animals_link">http://fi.wikipedia.org/wiki/Eläinkunta</string>
     
     <!-- Animals / Levels -->
     
     <!-- Bear -->
-    <string name="quiz_animals_bear_name">Bear</string>
+    <string name="quiz_animals_bear_name">Karhu</string>
     <string name="quiz_animals_bear_hint"></string>
-    <string name="quiz_animals_bear_description">Bears are mammals of the family Ursidae. Bears are classified as caniforms, or doglike carnivorans, with the pinnipeds being their closest living relatives. Although only eight species of bears are extant, they are widespread, appearing in a wide variety of habitats throughout the Northern Hemisphere and partially in the Southern Hemisphere. Bears are found on the continents of North America, South America, Europe, and Asia.</string>
+    <string name="quiz_animals_bear_description">Karhu on Euroopan suurin maalla elävä petoeläin. Eurooppalaisen ruskeakarhun pituus on 130–250 cm ja hännän pituus on 5–15 cm. Naaraat painavat 60–170 (200) kg, urokset 100–230 (300) kg.</string>
 	<string-array name="quiz_animals_bear_answers">
-    	<item>bear</item>
+    	<item>karhu</item>
 	</string-array>
-	<string name="quiz_animals_bear_link">http://en.m.wikipedia.org/wiki/bear</string>
+	<string name="quiz_animals_bear_link">http://fi.m.wikipedia.org/wiki/karhu</string>
 	<string-array name="quiz_animals_bear_facts">
-	    <item>Brown</item>
-	    <item>Furry</item>
+	    <item>Ruskea</item>
+	    <item>Karvainen</item>
 	</string-array>
 	
 	<!-- Moose -->
-	<string name="quiz_animals_moose_name">Moose</string>
+	<string name="quiz_animals_moose_name">Hirvi</string>
     <string name="quiz_animals_moose_hint"></string>
-    <string name="quiz_animals_moose_description">The moose (North America) or elk (Eurasia), Alces alces, is the largest extant species in the deer family. Moose are distinguished by the palmate antlers of the males; other members of the family have antlers with a dendritic ("twig-like") configuration. Moose typically inhabit boreal and mixed deciduous forests of the Northern Hemisphere in temperate to subarctic climates. Moose used to have a much wider range but hunting and other human activities greatly reduced it over the years. Moose have been reintroduced to some of their former habitats. Currently, most moose are found in Canada, Alaska, Scandinavia and Russia.</string>
+    <string name="quiz_animals_moose_description">Hirvi (Alces alces) on hirvieläinten heimoon kuuluva suurikokoinen nisäkäslaji, joka elää pohjoisella havumetsävyöhykkeellä Euroopassa ja läntisessä Aasiassa. Pohjois-Amerikassa ja Aasiassa Jenisein itäpuolella elävä Alces americanus on nykykäsityksen mukaan eri laji.Hirvi on pohjoisiin oloihin sopeutunut eläinlaji, jonka ontot karvat suojaavat sitä pakkaselta. Pitkien vahvojen raajojensa avulla se pystyy kulkemaan hyvin lumessa, soilla ja ryteiköissä. Hirven turkin väri on tummanruskeanharmahtava.</string>
 	<string-array name="quiz_animals_moose_answers">
-    	<item>moose</item>
+    	<item>hirvi</item>
 	</string-array>
-	<string name="quiz_animals_moose_link">http://en.m.wikipedia.org/wiki/moose</string>
+	<string name="quiz_animals_moose_link">http://fi.m.wikipedia.org/wiki/hirvi</string>
 	<string-array name="quiz_animals_moose_facts">
-	    <item>Brown</item>
-	    <item>Furry</item>
+	    <item>Ruskea</item>
+	    <item>Karvainen</item>
 	</string-array>
 	
 	<!-- Deer -->
-	<string name="quiz_animals_deer_name">Deer</string>
+	<string name="quiz_animals_deer_name">Peura</string>
     <string name="quiz_animals_deer_hint"></string>
-    <string name="quiz_animals_deer_description">Deer (singular and plural) are the ruminant mammals forming the family Cervidae. Species in the family include white-tailed deer, mule deer such as black-tailed deer, elk, moose, red deer, reindeer (caribou), fallow deer, roe deer, pudú and chital. Male deer of all species (except the Chinese water deer) and female reindeer grow and shed new antlers each year. In this they differ from permanently horned animals such as antelope, which are in the same order as deer and may bear a superficial resemblance to them.</string>
+    <string name="quiz_animals_deer_description">Peura (Rangifer tarandus) on arktisella tundralla ja pohjoisella havumetsävyöhykkeellä useina alalajeina esiintyvä hirvieläin. Se on Rangifer-suvun ainoa laji. Pohjois-Amerikassa villeinä eläviä alalajeja nimitetään karibuiksi. Kesytetystä peurasta käytetään nimitystä poro.Lajin levinneisyysalue ulottuu Pohjois-Eurooppaan, Siperiaan, Pohjois-Amerikan pohjoisosiin ja Jäämeren arktisille saarille, mukaan lukien Grönlantiin.</string>
 	<string-array name="quiz_animals_deer_answers">
-    	<item>deer</item>
+    	<item>peura</item>
 	</string-array>
-	<string name="quiz_animals_deer_link">http://en.m.wikipedia.org/wiki/deer</string>
+	<string name="quiz_animals_deer_link">http://fi.m.wikipedia.org/wiki/peura</string>
 	<string-array name="quiz_animals_deer_facts">
-	    <item>Brown</item>
-	    <item>Furry</item>
+	    <item>Ruskea</item>
+	    <item>Karvainen</item>
 	</string-array>
 	
 	<!-- Fox -->
-	<string name="quiz_animals_fox_name">Fox</string>
+	<string name="quiz_animals_fox_name">Kettu</string>
     <string name="quiz_animals_fox_hint"></string>
-    <string name="quiz_animals_fox_description">Foxes are small-to-medium-sized, omnivorous mammals belonging to several genera of the Canidae family. Foxes are slightly smaller than a medium-size domestic dog, with a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush).</string>
+    <string name="quiz_animals_fox_description">Kettu eli punakettu (Vulpes vulpes) on koiraeläin. Se on nykyisin maailman levinnein maalla liikkuva petoeläin: sen levinneisyysalue käsittää lähes koko Pohjois-Amerikan ja Euraasian. Lisäksi Pohjois-Afrikassa elää jonkin verran kettuja.Kettu on aikaisemmin ollut arvokas turkiseläin ja varsinkin sen harvinaiset värimuunnokset ovat olleet haluttua kauppatavaraa vuosisatojen ajan. Näitä muunnoksia ovat muun muassa mustakettu, ristikettu, hopeakettu ja harvinainen, kokonaan valkoinen ja punasilmäinen albiinokettu.</string>
 	<string-array name="quiz_animals_fox_answers">
-    	<item>fox</item>
+    	<item>kettu</item>
 	</string-array>
-	<string name="quiz_animals_fox_link">http://en.m.wikipedia.org/wiki/fox</string>
+	<string name="quiz_animals_fox_link">http://fi.m.wikipedia.org/wiki/kettu</string>
 	<string-array name="quiz_animals_fox_facts">
-	    <item>Reddish/orange</item>
-	    <item>Furry</item>
+	    <item>Punakka/Oranssi</item>
+	    <item>Karvainen</item>
 	</string-array>
 	
 	<!-- Frog -->
-	<string name="quiz_animals_frog_name">Frog</string>
+	<string name="quiz_animals_frog_name">Sammakko</string>
     <string name="quiz_animals_frog_hint"></string>
-    <string name="quiz_animals_frog_description">Frogs are a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order Anura (Ancient Greek an-, without + oura, tail). The oldest fossil "proto-frog" appeared in the early Triassic of Madagascar, but molecular clock dating suggests their origins may extend further back to the Permian, 265 million years ago. Frogs are widely distributed, ranging from the tropics to subarctic regions, but the greatest concentration of species diversity is found in tropical rainforests.</string>
+    <string name="quiz_animals_frog_description">Sammakko eli ruskosammakko, tavallinen sammakko (Rana temporaria) on aitosammakoihin kuuluva yleinen sammakkolaji.Sammakko on yleisin Suomen sammakkoeläimistä. Sitä tavataan koko maassa pohjoisin Lappi mukaan luettuna. Sammakko on yleinen myös Euroopassa, lukuun ottamatta Pyreneiden niemimaata, Italiaa ja Balkanin niemimaan eteläosia.Sammakko ja sammakon kutu ovat Suomessa rauhoitettuja.</string>
 	<string-array name="quiz_animals_frog_answers">
-    	<item>frog</item>
+    	<item>sammakko</item>
 	</string-array>
-	<string name="quiz_animals_frog_link">http://en.m.wikipedia.org/wiki/frog</string>
+	<string name="quiz_animals_frog_link">http://fi.m.wikipedia.org/wiki/sammakko</string>
 	<string-array name="quiz_animals_frog_facts">
-	    <item>Various colors</item>
+	    <item>Moniväriset</item>
 	</string-array>
 	
 	<!-- Snake -->
-	<string name="quiz_animals_snake_name">Snake</string>
+	<string name="quiz_animals_snake_name">Käärme</string>
     <string name="quiz_animals_snake_hint"></string>
-    <string name="quiz_animals_snake_description">Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes that can be distinguished from legless lizards by their lack of eyelids and external ears. Like all squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads with their highly mobile jaws.</string>
+    <string name="quiz_animals_snake_description">Käärmeet (Serpentes) ovat jalattomia matelijoita. Ne ovat lähisukua liskoille, jotka kuuluvat samaan suomumatelijoiden (Squamata) lahkoon. On olemassa muutamia jalattomia liskoja, jotka näyttävät käärmeiltä, mutta eivät kuulu käärmeiden alalahkoon. Käärmeiden kylkiluiden ja nikamien määrä on huomattavasti suurempi kuin muilla matelijoilla.</string>
 	<string-array name="quiz_animals_snake_answers">
-    	<item>snake</item>
+    	<item>käärme</item>
 	</string-array>
-	<string name="quiz_animals_snake_link">http://en.m.wikipedia.org/wiki/snake</string>
+	<string name="quiz_animals_snake_link">http://fi.m.wikipedia.org/wiki/käärmeet</string>
 	<string-array name="quiz_animals_snake_facts">
-	    <item>Various colors</item>
+	    <item>Moniväriset</item>
 	</string-array>
 	
 	<!-- Wolf -->
-	<string name="quiz_animals_wolf_name">Wolf</string>
+	<string name="quiz_animals_wolf_name">Susi</string>
     <string name="quiz_animals_wolf_hint"></string>
-    <string name="quiz_animals_wolf_description">The gray wolf or grey wolf (Canis lupus) also known as the timber wolf, or western wolf, is a canid native to the wilderness and remote areas of North America, Eurasia, and northern, eastern and western Africa. It is the largest extant member of its family, with males averaging 43–45 kg (95–99 lb), and females 36–38.5 kg (79–85 lb). Like the red wolf, it is distinguished from other Canis species by its larger size and less pointed features, particularly on the ears and muzzle. Its winter fur is long and bushy, and predominantly a mottled gray in color, although nearly pure white, red, or brown to black also occur.</string>
+    <string name="quiz_animals_wolf_description">Susi eli harmaasusi(Canis lupus) on koiraeläimiin kuuluva nisäkäs, joka on biologisesti määriteltynä samaa lajia kuin kesy koira. Susi on peto- ja laumaeläin. Susi on suurikokoisin nykyisin elävä koiraeläinlaji.Urokset ovat tyypillisesti kookkaampia kuin naaraat. Suomessa naarassuden keskipaino on 32 kg ja uroksen 40 kg (yleensä 30–70 kg). Suurimmat Suomessa kaadetut sudet ovat painaneet hieman yli 65 kg.</string>
 	<string-array name="quiz_animals_wolf_answers">
-    	<item>wolf</item>
+    	<item>susi</item>
 	</string-array>
-	<string name="quiz_animals_wolf_link">http://en.m.wikipedia.org/wiki/wolf</string>
+	<string name="quiz_animals_wolf_link">http://fi.m.wikipedia.org/wiki/susi</string>
 	<string-array name="quiz_animals_wolf_facts">
-	    <item>Greyish</item>
-	    <item>Furry</item>
+	    <item>Harmahtava</item>
+	    <item>Karvainen</item>
 	</string-array>
 	
 	<!-- Squirrel -->
-	<string name="quiz_animals_squirrel_name">Squirrel</string>
+	<string name="quiz_animals_squirrel_name">Orava</string>
     <string name="quiz_animals_squirrel_hint"></string>
-    <string name="quiz_animals_squirrel_description">Squirrels are members of the family Sciuridae, consisting of small or medium-size rodents. The family includes tree squirrels, ground squirrels, chipmunks, marmots (including woodchucks), flying squirrels, and prairie dogs. Squirrels are indigenous to the Americas, Eurasia, and Africa, and have been introduced to Australia. The earliest known squirrels date from the Eocene and are most closely related to the mountain beaver and to the dormouse among living rodent families.</string>
+    <string name="quiz_animals_squirrel_description">Orava (Sciurus vulgaris) on jyrsijöiden lahkoon kuuluva, Suomessakin varsin yleisesti esiintyvä nisäkäslaji.Oravaa tavataan pohjoisella havumetsävyöhykkeellä lähes koko Euroopassa sekä Aasian pohjoisosissa, lukuun ottamatta kaikkein pohjoisimpia alueita, mistä havupuut puuttuvat. Yhdistyneessä kuningaskunnassa on amerikkalainen harmaaorava lähes syrjäyttänyt eurooppalaisen oravan.</string>
 	<string-array name="quiz_animals_squirrel_answers">
-    	<item>squirrel</item>
+    	<item>orava</item>
 	</string-array>
-	<string name="quiz_animals_squirrel_link">http://en.m.wikipedia.org/wiki/squirrel</string>
+	<string name="quiz_animals_squirrel_link">http://fi.m.wikipedia.org/wiki/orava</string>
 	<string-array name="quiz_animals_squirrel_facts">
-	    <item>Reddish/brown</item>
-	    <item>Furry</item>
+	    <item>Punakka/Ruskea</item>
+	    <item>Karvainen</item>
 	</string-array>
 	
 	<!-- Hedgehog -->
-	<string name="quiz_animals_hedgehog_name">Hedgehog</string>
+	<string name="quiz_animals_hedgehog_name">Siili</string>
     <string name="quiz_animals_hedgehog_hint"></string>
-    <string name="quiz_animals_hedgehog_description">A hedgehog is any of the spiny mammals of the subfamily Erinaceinae, which is in the order Erinaceomorpha. There are seventeen species of hedgehog in five genera, found through parts of Europe, Asia, Africa and New Zealand (by introduction). There are no hedgehogs native to Australia, and no living species native to the Americas.</string>
+    <string name="quiz_animals_hedgehog_description">Siili eli eurooppalainen siili (Erinaceus europaeus) on pieni ja piikikäs yöeläjä ja hyönteissyöjä, jota esiintyy suuressa osassa läntistä Eurooppaa. Siilien heimo on hyvin vanha, ja siilit ovat säilyneet melko muuttumattomina vuosimiljoonia. Siiliä kutsutaankin joskus eläväksi fossiiliksi.Siili on noin 20–30 senttimetriä pitkä, ja sen häntä on 1,5–4 senttimetriä pitkä. Siilin paino on 0,4–1,2 kilogrammaa ja joskus jopa 1,9 kilogrammaa.Paino vaihtelee kuitenkin huomattavasti vuodenajan mukaan. Talvihorroksesta herännyt siili voi painaa alle 300 grammaa, mutta ne lihovat nopeasti alkukesästä.</string>
 	<string-array name="quiz_animals_hedgehog_answers">
-    	<item>hedgehog</item>
+    	<item>siili</item>
 	</string-array>
-	<string name="quiz_animals_hedgehog_link">http://en.m.wikipedia.org/wiki/hedgehog</string>
+	<string name="quiz_animals_hedgehog_link">http://fi.m.wikipedia.org/wiki/siili</string>
 	<string-array name="quiz_animals_hedgehog_facts">
-	    <item>Spiky</item>
+	    <item>Piikikäs</item>
 	</string-array>
 	
 	<!-- Mouse -->
-	<string name="quiz_animals_mouse_name">Mouse</string>
+	<string name="quiz_animals_mouse_name">Hiiri</string>
     <string name="quiz_animals_mouse_hint"></string>
-    <string name="quiz_animals_mouse_description">A mouse (plural: mice) is a small mammal belonging to the order of rodents, characteristically having a pointed snout, small rounded ears, a body-length scaly tail and a high breeding rate. The best known mouse species is the common house mouse (Mus musculus). It is also a popular pet. In some places, certain kinds of field mice are also common. They are known to invade homes for food and occasionally shelter.</string>
+    <string name="quiz_animals_mouse_description">Metsähiirtä tavataan suuressa osassa Eurooppaa, ei kuitenkaan pohjoisessa eikä eräissä Länsi-Euroopan osissa. Idässä laji on levinnyt Uralin tienoille. Suomessa metsähiirtä tavataan maan etelä- ja keskiosissa. Elinympäristöä on kangasmetsät, lehtomaiset sekametsät ja pensaikkoiset niityt. Syksyisin ne voivat ilmestyä rakennuksiin ja kesämökkeihin tehden tuhoa lämmöneristeisiin. </string>
 	<string-array name="quiz_animals_mouse_answers">
-    	<item>mouse</item>
+    	<item>hiiri</item>
 	</string-array>
-	<string name="quiz_animals_mouse_link">http://en.m.wikipedia.org/wiki/mouse</string>
+	<string name="quiz_animals_mouse_link">http://fi.m.wikipedia.org/wiki/metsähiiri</string>
 	<string-array name="quiz_animals_mouse_facts">
 	</string-array>
 	
 	<!-- Rat -->
-	<string name="quiz_animals_rat_name">Rat</string>
+	<string name="quiz_animals_rat_name">Rotta</string>
     <string name="quiz_animals_rat_hint"></string>
-    <string name="quiz_animals_rat_description">Rats are various medium-sized, long-tailed rodents of the superfamily Muroidea. "True rats" are members of the genus Rattus, the most important of which to humans are the black rat, Rattus rattus, and the brown rat, Rattus norvegicus. Many members of other rodent genera and families are also referred to as rats, and share many characteristics with true rats.</string>
+    <string name="quiz_animals_rat_description">Isorotta eli rotta (Rattus norvegicus) on pieni tai keskikokoinen, kaikkiruokainen ja nopeasti lisääntyvä jyrsijä. Isorotta on satunnaisesti Suomessa esiintyvää mustarottaa suurikokoisempi. Useimmat lemmikkeinä pidettävät kesyrotat on kesytetty isorotasta.</string>
 	<string-array name="quiz_animals_rat_answers">
-    	<item>rat</item>
+    	<item>rotta</item>
 	</string-array>
-	<string name="quiz_animals_rat_link">http://en.m.wikipedia.org/wiki/rat</string>
+	<string name="quiz_animals_rat_link">http://fi.m.wikipedia.org/wiki/isorotta</string>
 	<string-array name="quiz_animals_rat_facts">
 	</string-array>
 	
 	<!-- Rabbit -->
-	<string name="quiz_animals_rabbit_name">Rabbit</string>
+	<string name="quiz_animals_rabbit_name">Jänis</string>
     <string name="quiz_animals_rabbit_hint"></string>
-    <string name="quiz_animals_rabbit_description">Rabbits are small mammals in the family Leporidae of the order Lagomorpha, found in several parts of the world. There are eight different genera in the family classified as rabbits, including the European rabbit (Oryctolagus cuniculus), cottontail rabbits (genus Sylvilagus; 13 species), and the Amami rabbit (Pentalagus furnessi, an endangered species on Amami Ōshima, Japan). There are many other species of rabbit, and these, along with pikas and hares, make up the order Lagomorpha. The male is called a buck and the female is a doe; a young rabbit is a kitten or kit.</string>
+    <string name="quiz_animals_rabbit_description">Jänikset,joskus myös jänikset ja kaniinit (Leporidae) on jäniseläinten heimo. Ne eroavat samaan jäniseläinten lahkoon kuuluvista piiskujäniksistä sillä, että niillä on lyhyt ja pörröinen häntä, pitkät korvat ja takajalat. Jäniksiä on maailmassa 11 sukua ja 61 lajia. Ne voidaan jaotella varsinaisiin jäniksiin ja kaniineihin. Kaniinien ja varsinaisten jänisten ero on lähinnä siinä, että useimmat kaniinit elävät maan alla käytävissä, kun taas vain harvoilla jänislajeilla on minkäänlaista pesää.Jänikset ovat kooltaan 25–70 senttimetriä ja painoltaan 0,4–7 kilogrammaa. Turkin väri vaihtelee yleensä harmaasta ruskeaan. Jänikset elävät monenlaisissa ympäristöissä aina tundralta sademetsiin.</string>
 	<string-array name="quiz_animals_rabbit_answers">
-    	<item>rabbit</item>
+    	<item>jänis</item>
 	</string-array>
-	<string name="quiz_animals_rabbit_link">http://en.m.wikipedia.org/wiki/rabbit</string>
+	<string name="quiz_animals_rabbit_link">http://fi.m.wikipedia.org/wiki/jänikset</string>
 	<string-array name="quiz_animals_rabbit_facts">
-	    <item>Furry</item>
-	    <item>Cute</item>
+	    <item>Karvainen</item>
+	    <item>Söpö</item>
 	</string-array>
 	
 </resources>

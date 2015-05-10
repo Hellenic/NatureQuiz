@@ -1,79 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Plants -->
-    <string name="quiz_plants_name">Plants</string>
-    <string name="quiz_plants_description">Test how well you know the most common plants!</string>
-    <string name="quiz_plants_link">http://en.m.wikipedia.org/wiki/Plants</string>
+    <string name="quiz_plants_name">Kasvit</string>
+    <string name="quiz_plants_description">Testaa tietosi yleisimmistä kasveista!</string>
+    <string name="quiz_plants_link">http://fi.m.wikipedia.org/wiki/Kasvit</string>
     
     <!-- Plants / Levels -->
     
     <!-- Thistle -->
-    <string name="quiz_plants_thistle_name">Thistle</string>
+    <string name="quiz_plants_thistle_name">Ohdake</string>
     <string name="quiz_plants_thistle_hint"></string>
-    <string name="quiz_plants_thistle_description">Thistle is the common name of a group of flowering plants characterized by leaves with sharp prickles on the margins, mostly in the family Asteraceae. Prickles often occur all over the plant – on surfaces such as those of the stem and flat parts of leaves. These are an adaptation that protects the plant against herbivorous animals, discouraging them from feeding on the plant. Typically, an involucre with a clasping shape of a cup or urn subtends each of a thistle\'s flowerheads.</string>
+    <string name="quiz_plants_thistle_description">Ohdakkeet (Cirsium) ovat mykerökukkaiskasveja, jotka ovat yleensä violettikukintoisia. Sukuun kuuluu noin 250 lajia. Karhiaiset (Carduus) muistuttavat paljon ohdakkeita. Ohdakkeilla on sulkahaiveninen pappus (muuntunut verhiö) ja karhiaisten pappus on hapsihaiveninen. Myös kruunuohdakkeilla (Onopordum) on samaa näköä ohdakkeiden kanssa.</string>
 	<string-array name="quiz_plants_thistle_answers">
-    	<item>thistle</item>
+    	<item>ohdake</item>
 	</string-array>
-	<string name="quiz_plants_thistle_link">http://en.m.wikipedia.org/wiki/thistle</string>
+	<string name="quiz_plants_thistle_link">http://fi.m.wikipedia.org/wiki/Ohdake</string>
 	<string-array name="quiz_plants_thistle_facts">
 	</string-array>
 	
 	<!-- Mugwort -->
-    <string name="quiz_plants_mugwort_name">Mugwort</string>
+    <string name="quiz_plants_mugwort_name">Pujo</string>
     <string name="quiz_plants_mugwort_hint"></string>
-    <string name="quiz_plants_mugwort_description">Mugwort is a common name for several species of aromatic plants in the genus Artemisia. In Europe, mugwort most often refers to the species Artemisia vulgaris, or common mugwort. While other species are sometimes referred to by more specific common names, they may be called simply "mugwort" in many contexts. For example, one species, Artemisia argyi, is often called "mugwort" in the context of traditional Asian medicine but may be also referred to by the more specific name "Chinese mugwort".</string>
+    <string name="quiz_plants_mugwort_description">Pujo (Artemisia vulgaris) on marunoiden (Artemisia) sukuun ja asterikasvien (Asteraceae) heimoon kuuluva monivuotinen, jopa kahden metrin korkuiseksi kasvava ruohovartinen kasvi. Pujo aiheuttaa tyypillisesti voimakkaita siitepölyallergioita. Pujo kukkii elo–lokakuussa punaruskein mykerökukinnoin, jotka ovat kiinni terttuina varsien latvoissa. Yhdessä pujossa saattaa olla jopa 55 000 kukkaa ja 6 000 mykeröä. Suomessa pujoa kasvaa Oulun korkeudella asti. Pohjoisessa se on hyvin harvinainen. Talvella pujon lakastuneiden varsien pähkylähedelmät ovat tärkeä lintujen ravinnonlähde.</string>
 	<string-array name="quiz_plants_mugwort_answers">
-    	<item>mugwort</item>
+    	<item>pujo</item>
 	</string-array>
-	<string name="quiz_plants_mugwort_link">http://en.m.wikipedia.org/wiki/mugwort</string>
+	<string name="quiz_plants_mugwort_link">http://fi.m.wikipedia.org/wiki/Pujo</string>
 	<string-array name="quiz_plants_mugwort_facts">
 	</string-array>
 	
 	<!-- Juniper -->
-    <string name="quiz_plants_juniper_name">Juniper</string>
+    <string name="quiz_plants_juniper_name">Kataja</string>
     <string name="quiz_plants_juniper_hint"></string>
-    <string name="quiz_plants_juniper_description">Junipers are coniferous plants in the genus Juniperus /dʒuːˈnɪpərəs/ of the cypress family Cupressaceae. Depending on taxonomic viewpoint, between 50 and 67 species of juniper are widely distributed throughout the Northern Hemisphere, from the Arctic, south to tropical Africa in the Old World, and to the mountains of Central America.</string>
+    <string name="quiz_plants_juniper_description">Katajat (Juniperus) on sypressikasveihin (Cupressaceae) kuuluva havupuusuku. Sukuun kuuluu 50–67 lajia. Ne ovat usein kaksikotisia, pienikokoisia havupuita tai -pensaita, joiden neulaset pysyvät monta vuotta kiinni oksissa. Neulasen yläpinta on sinertävä, alapinta tummanvihreä. Suku on levinnyt yli pohjoisen pallonpuoliskon arktisilta alueilta trooppiseen Afrikkaan ja Keski-Amerikkaan.</string>
 	<string-array name="quiz_plants_juniper_answers">
-    	<item>juniper</item>
+    	<item>kataja</item>
 	</string-array>
-	<string name="quiz_plants_juniper_link">http://en.m.wikipedia.org/wiki/juniper</string>
+	<string name="quiz_plants_juniper_link">http://fi.m.wikipedia.org/wiki/Katajat</string>
 	<string-array name="quiz_plants_juniper_facts">
 	</string-array>
 	
 	<!-- Willowherb -->
-    <string name="quiz_plants_willowherb_name">Willowherb</string>
+    <string name="quiz_plants_willowherb_name">Horsma</string>
     <string name="quiz_plants_willowherb_hint"></string>
-    <string name="quiz_plants_willowherb_description">Epilobium is a genus in the family Onagraceae, containing about 160-200 species of flowering plants with a worldwide distribution. They are generally abundant in the subarctic, temperate and subantarctic regions, whereas in the subtropics and tropics they are restricted to the cool montane biomes, such as the New Guinea Highlands where they are plentiful.</string>
+    <string name="quiz_plants_willowherb_description">Horsmat (Epilobium) on noin 160–200 lajia sisältävä kasvisuku. Useimmat lajit ovat yksi- tai monivuotisia ruohoja, mutta sukuun kuuluu myös muutamia varpuja. Horsmia esiintyy sekä eteläisen- että pohjoisen pallonpuoliskon lauhkeilla vyöhykkeillä.
+
+Kukissa on neljä terälehteä ja ne ovat useimmilla lajeilla vaaleanpunaiset, joskin myös valkoisia, punaisia, keltaisia ja oransseja kukkia esiintyy. Hedelmä on pitkä, sylinterimäinen kota, jonka sisällä on runsaasti pieniä siemeniä. Siemeniin liittyy silkkimäisiä haivenia, joiden avulla ne leviävät tuulen mukana. Lehtiasento on tavallisesti vastakkainen ja lehdet itsessään ovat pitkänpyöreitä tai suikeita.
+
+Monet horsmalajit ovat puutarhojen rikkakasveja. Tunnetuin horsmalaji, maitohorsma, katsotaan nykyisin kuuluvaksi sukuun Chamerion. Se on tyypillinen metsäpalojen tai avohakkuiden aiheuttamia aukkopaikkoja hyödyntävä pioneerilaji.</string>
 	<string-array name="quiz_plants_willowherb_answers">
-    	<item>willowherb</item>
+    	<item>horsma</item>
     	<item>epilobium</item>
 	</string-array>
-	<string name="quiz_plants_willowherb_link">http://en.m.wikipedia.org/wiki/willowherb</string>
+	<string name="quiz_plants_willowherb_link">http://fi.m.wikipedia.org/wiki/Horsmat</string>
 	<string-array name="quiz_plants_willowherb_facts">
 	</string-array>
 	
 	<!-- Milfoil -->
-    <string name="quiz_plants_milfoil_name">Achillae Millefolium</string>
+    <string name="quiz_plants_milfoil_name">Siankärsämö</string>
     <string name="quiz_plants_milfoil_hint"></string>
-    <string name="quiz_plants_milfoil_description">Achillea millefolium, known commonly as yarrow /\ˈjæroʊ/ or common yarrow, is a flowering plant in the family Asteraceae. It is native to temperate regions of the Northern Hemisphere in Asia, Europe, and North America. In New Mexico and southern Colorado, it is called plumajillo (Spanish for \'little feather\') from its leaf shape and texture. In antiquity, yarrow was known as herbal militaris, for its use in staunching the flow of blood from wounds. Other common names for this species include gordaldo, nosebleed plant, old man\'s pepper, devil\'s nettle, sanguinary, milfoil, soldier\'s woundwort, thousand-leaf, and thousand-seal.</string>
+    <string name="quiz_plants_milfoil_description">Siankärsämö (Achillea millefolium) on valkeakukkainen, ryydintuoksuinen niittyjen kukka. Sitä tavataan laajalla alueella Euroopassa, Aasiassa ja Pohjois-Amerikassa. Suomessa siankärsämö on muinaistulokas, jolla on monta kansanomaista nimitystä, kuten pyörtänöpöllö, pellonvanhin ja akantupakki.
+        
+        Siankärsämö kasvaa yleensä 20–70 cm korkeaksi. Sen varsi on vankka, pysty ja vaihtelevan pehmeänkarvainen. Kasvi tekee maarönsyjä. Lehdet ovat 5–20 cm pitkiä ja järjestyneet kierteisesti varren ympärille. Lehtilapa on 2–3 kertaa pariliuskainen, ja liuskapareja on tavallisesti yli 15 kappaletta. Liuskat ovat kapeita, keskenään samanlaisia ja eri suuntiin harittavia. Kukinto on tavallisesti tiheä, huiskilomainen mykeröstö. Mykeröiden laitojen kielikukkia on noin 5 kappaletta. Kukka on väriltään yleensä valkoinen, toisinaan myös vaalean- tai purppuranpunainen. Siankärsämö kukkii Suomessa heinä-syyskuussa.</string>
 	<string-array name="quiz_plants_milfoil_answers">
-    	<item>milfoil</item>
-    	<item>yarrow</item>
+    	<item>siankärsämö</item>
     	<item>achillea millefolium</item>
 	</string-array>
-	<string name="quiz_plants_milfoil_link">http://en.m.wikipedia.org/wiki/Achillea_millefolium</string>
+	<string name="quiz_plants_milfoil_link">http://fi.m.wikipedia.org/wiki/Siankärsämö</string>
 	<string-array name="quiz_plants_milfoil_facts">
 	</string-array>
 	
 	<!-- Burdock -->
-    <string name="quiz_plants_burdock_name">Burdock</string>
+    <string name="quiz_plants_burdock_name">Takiainen</string>
     <string name="quiz_plants_burdock_hint"></string>
-    <string name="quiz_plants_burdock_description">Arctium is a genus of biennial plants commonly known as burdock, family Asteraceae. Native to the Old World, several species have been widely introduced worldwide.</string>
+    <string name="quiz_plants_burdock_description">Takiaiset (Arctium) on kasvisuku asterikasvien (Asteraceae) heimossa. Siihen kuuluu 11–13 lajia. Suvun tieteellinen nimi Arctium tulee kreikan kielen karhua tarkoittavasta sanasta arktos. Pohjoismaissa ja Suomessa esiintyy neljä takiaislajia. Ne ovat kaksivuotisia suuria vankkajuurisia ruohoja. Niiden varsi on tukeva ja haarova, lehdet isolapaiset ja pehmeät. Takiaisten mykeröjen kehto on pallomainen ja täynnä liikkuviin otuksiin tarttumista auttavia koukkuja. Pohjoismaiden takiaiset risteytyvät helposti keskenään. Suomen neljästä lajista iso-, pikku- ja seittitakiainen ovat ihmisen asumilla paikoilla kasvavia muinaistulokkaita ja lehtotakiainen harvinainen alkuperäinen lehtokasvi aivan lounaassa.</string>
 	<string-array name="quiz_plants_burdock_answers">
 	    <item>arctium</item>
-    	<item>burdock</item>
+    	<item>takiainen</item>
 	</string-array>
-	<string name="quiz_plants_burdock_link">http://en.m.wikipedia.org/wiki/burdock</string>
+	<string name="quiz_plants_burdock_link">http://fi.m.wikipedia.org/wiki/Takiaiset</string>
 	<string-array name="quiz_plants_burdock_facts">
 	</string-array>
 	

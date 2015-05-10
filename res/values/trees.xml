@@ -20,7 +20,8 @@
 	<string name="quiz_trees_birch_answerText">That\'s correct!</string>
 	<string name="quiz_trees_birch_link">http://en.m.wikipedia.org/wiki/Birch</string>
 	<string-array name="quiz_trees_birch_facts">
-	    <item>It\'s green.</item>
+	    <item>Black/White bark</item>
+	    <item>Green leaves</item>
 	</string-array>
 
 	<!-- Pine -->
@@ -32,7 +33,8 @@
 	</string-array>
 	<string name="quiz_trees_pine_link">http://en.m.wikipedia.org/wiki/Pine</string>
 	<string-array name="quiz_trees_pine_facts">
-	    <item>It\'s green pine.</item>
+	    <item>Brown bark</item>
+	    <item>Green twigs</item>
 	</string-array>
     
 	<!-- Spruce -->
@@ -45,7 +47,8 @@
 	</string-array>
 	<string name="quiz_trees_spruce_link">http://en.m.wikipedia.org/wiki/Spruce</string>
 	<string-array name="quiz_trees_spruce_facts">
-	    <item>It\'s green spruce.</item>
+	    <item>Brown bark</item>
+	    <item>Green twigs</item>
 	</string-array>
 	
 	<!-- Oak -->
@@ -57,7 +60,6 @@
 	</string-array>
 	<string name="quiz_trees_oak_link">http://en.m.wikipedia.org/wiki/Oak</string>
 	<string-array name="quiz_trees_oak_facts">
-	    <item>It\'s green oak.</item>
 	</string-array>
 	
 	<!-- Alder -->
@@ -69,7 +71,6 @@
 	</string-array>
 	<string name="quiz_trees_alder_link">http://en.m.wikipedia.org/wiki/alder</string>
 	<string-array name="quiz_trees_alder_facts">
-	    <item>It\'s green alder.</item>
 	</string-array>
 	
 	<!-- Aspen -->
@@ -81,7 +82,6 @@
 	</string-array>
 	<string name="quiz_trees_aspen_link">http://en.m.wikipedia.org/wiki/aspen</string>
 	<string-array name="quiz_trees_aspen_facts">
-	    <item>It\'s green aspen.</item>
 	</string-array>
 	
 	<!-- Willow -->
@@ -93,7 +93,6 @@
 	</string-array>
 	<string name="quiz_trees_willow_link">http://en.m.wikipedia.org/wiki/willow</string>
 	<string-array name="quiz_trees_willow_facts">
-	    <item>It\'s green willow.</item>
 	</string-array>
 	
 	<!-- Rowan -->
@@ -105,6 +104,5 @@
 	</string-array>
 	<string name="quiz_trees_rowan_link">http://en.m.wikipedia.org/wiki/rowan</string>
 	<string-array name="quiz_trees_rowan_facts">
-	    <item>It\'s green rowan.</item>
 	</string-array>
 </resources>

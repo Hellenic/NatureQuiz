@@ -1,124 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Common birds -->
-    <string name="quiz_commonbirds_name">Birds</string>
-    <string name="quiz_commonbirds_description">Test how well you know the most common smaller birds!</string>
-    <string name="quiz_commonbirds_link">http://en.m.wikipedia.org/wiki/Bird</string>
+    <string name="quiz_commonbirds_name">Linnut</string>
+    <string name="quiz_commonbirds_description">Miten hyvin tunnet pienempiä lintuja?</string>
+    <string name="quiz_commonbirds_link">http://fi.m.wikipedia.org/wiki/Linnut</string>
     
     <!-- Common birds / Levels -->
     
 	<!-- Swallow -->
-    <string name="quiz_commonbirds_swallow_name">Swallow</string>
+    <string name="quiz_commonbirds_swallow_name">Pääsky</string>
     <string name="quiz_commonbirds_swallow_hint"></string>
-    <string name="quiz_commonbirds_swallow_description">The swallows and martins are a group of passerine birds in the family Hirundinidae which are characterised by their adaptation to aerial feeding. Swallow is used colloquially in Europe as a synonym for the barn swallow.</string>
+    <string name="quiz_commonbirds_swallow_description">Pääskyt (Hirundinidae) on laajalle levinnyt varpuslintuheimo, johon kuuluu noin 75 lajia. Pääskyt eivät nimestään ja ulkonäöstään huolimatta ole läheistä sukua tervapääskylle ja muille kiitäjille.Pääskyt ovat hyvin sirorakenteisia ja lyhytjalkaisia lintuja, joille on ominaista erittäin hyvä lentotaito. Niillä on kapeat, pitkät ja teräväkärkiset siivet. Ruumis on sukkulamainen ja pyrstö pitkä ja usein haarautunut. Nokka on lyhyt ja leveä ja siinä on suuri kita. Jalat ovat hyvin hennot, lyhyet ja pienikyntiset, eikä niillä pysty kunnolla kävelemään. Käsi- ja kyynärsulkia on kumpiakin yhdeksän, laitimmaiset sulat ovat muita selvästi pidempiä. Höyhenet ovat lyhyet ja vartalonmyötäiset. Ne ovat selkäpuolelta yleensä metallinkiiltoiset. Molemmat sukupuolet ovat samanvärisiä. Pääskyjen lentotaito on erittäin hyvä ja ne pystyvät tekemään pitkiäkin ruuanhaku- tai muuttomatkoja.</string>
 	<string-array name="quiz_commonbirds_swallow_answers">
-    	<item>swallow</item>
+    	<item>pääsky</item>
 	</string-array>
-	<string name="quiz_commonbirds_swallow_link">http://en.m.wikipedia.org/wiki/swallow</string>
+	<string name="quiz_commonbirds_swallow_link">http://fi.m.wikipedia.org/wiki/pääskyt</string>
 	<string-array name="quiz_commonbirds_swallow_facts">
 	</string-array>
 	
 	<!-- Sparrow -->
-    <string name="quiz_commonbirds_sparrow_name">Sparrow</string>
+    <string name="quiz_commonbirds_sparrow_name">Varpunen</string>
     <string name="quiz_commonbirds_sparrow_hint"></string>
-    <string name="quiz_commonbirds_sparrow_description">Sparrows are a family of small passerine birds, Passeridae. They are also known as true sparrows, or Old World sparrows, names also used for a particular genus of the family, Passer. They are distinct from both the American sparrows, in the family Emberizidae, and from a few other birds sharing their name, such as the Java sparrow of the family Estrildidae. Many species nest on buildings, and the house and Eurasian tree sparrows in particular inhabit cities in large numbers, so sparrows may be the most familiar of all wild birds. They are primarily seed-eaters, though they also consume small insects. Some species scavenge for food around cities and, like gulls or rock doves, will happily eat virtually anything in small quantities.</string>
+    <string name="quiz_commonbirds_sparrow_description">Varpunen (Passer domesticus) on yleinen lintulaji suuressa osassa Eurooppaa ja Aasiaa. Carolus Linnaeus antoi varpuselle aluksi nimen Fringilla domestica. Varpunen on 14–17 cm pitkä ja se painaa 30–33 g. Koiras on hieman kookkaampi. Varpusella on tukeva ruumis, suhteellisen suuri pää ja voimakas nokka. Sillä on tuuhea höyhenys, ja sen höyhenpuku on usein takkuisen ja hoitamattoman näköinen. Varpusen selkä on ruskeansävyinen ja voimakkaasti mustaviiruinen.</string>
 	<string-array name="quiz_commonbirds_sparrow_answers">
-    	<item>sparrow</item>
+    	<item>varpunen</item>
 	</string-array>
-	<string name="quiz_commonbirds_sparrow_link">http://en.m.wikipedia.org/wiki/sparrow</string>
+	<string name="quiz_commonbirds_sparrow_link">http://fi.m.wikipedia.org/wiki/varpunen</string>
 	<string-array name="quiz_commonbirds_sparrow_facts">
 	</string-array>
 	
 	<!-- Wagtail -->
-    <string name="quiz_commonbirds_wagtail_name">Wagtail</string>
+    <string name="quiz_commonbirds_wagtail_name">Västäräkki</string>
     <string name="quiz_commonbirds_wagtail_hint"></string>
-    <string name="quiz_commonbirds_wagtail_description">The wagtails form the passerine bird genus Motacilla. They are small birds with long tails which they wag frequently. Motacilla, the root of the family and genus name, means moving tail. The forest wagtail belongs to the monotypic genus Dendronanthus which is closely related to Motacilla and sometimes included herein.</string>
+    <string name="quiz_commonbirds_wagtail_description">Västäräkki (Motacilla alba) on västäräkkien heimoon kuuluva pitkäpyrstöinen varpuslintulaji. Ulkonäkö: Harmaa selkä ja valkea vatsapuoli, pään etuosa valkoinen ja päälaki musta, samoin kaula. Vanhan koiraan naamassa on enemmän valkoista ja päälaella enemmän mustaa kuin naaraalla ja nuorilla linnuilla. Pyrstö on pitkä ja se heiluu lajille tyypillisesti kävelyn aikana. Pituus: 18–20 cm, paino: noin 20 g, koiras on hiukan kookkaampi. Ääni: Västäräkin ääni on lyhyt kaksitavuinen ”tsi-tsit” ja se ääntelee liikkuessaan jatkuvasti. Laulu on hiljaista rupattelevaa lavertelua, jota koiras esittää tavallisesti kivellä tai talon katolla, hieman muuta ympäristöä korkeammalla. Pedon tai ihmisen tullessa poikaspesän lähelle emot varoittelevat sydäntä särkevästi tsilputtaen.</string>
 	<string-array name="quiz_commonbirds_wagtail_answers">
-    	<item>wagtail</item>
+    	<item>västäräkki</item>
 	</string-array>
-	<string name="quiz_commonbirds_wagtail_link">http://en.m.wikipedia.org/wiki/wagtail</string>
+	<string name="quiz_commonbirds_wagtail_link">http://fi.m.wikipedia.org/wiki/västäräkki</string>
 	<string-array name="quiz_commonbirds_wagtail_facts">
 	</string-array>
 	
 	<!-- Great tit -->
-    <string name="quiz_commonbirds_greattit_name">Great tit</string>
+    <string name="quiz_commonbirds_greattit_name">Talitiainen</string>
     <string name="quiz_commonbirds_greattit_hint"></string>
-    <string name="quiz_commonbirds_greattit_description">The great tit is a distinctive bird, with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats. Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods.</string>
+    <string name="quiz_commonbirds_greattit_description">Talitiainen (Parus major) on Euroopassa ja Aasiassa laajalle levinnyt tiainen. Sitä tavataan yleisenä ihmisten asuinpiirien lähellä, talvella siemeniä ja jyviä sisältävien lintulautojen tai ruokintapaikkojen ansiosta, kesällä linnunpönttöjen. Talitiaisen kansanomaisempi kutsumanimi on talitintti.</string>
 	<string-array name="quiz_commonbirds_greattit_answers">
-	    <item>tit</item>
-    	<item>great tit</item>
+    	<item>talitiainen</item>
 	</string-array>
-	<string name="quiz_commonbirds_greattit_link">http://en.m.wikipedia.org/wiki/Great_tit</string>
+	<string name="quiz_commonbirds_greattit_link">http://fi.m.wikipedia.org/wiki/Talitiainen</string>
 	<string-array name="quiz_commonbirds_greattit_facts">
 	</string-array>
 	
 	<!-- Thrush -->
-    <string name="quiz_commonbirds_thrush_name">thrush</string>
+    <string name="quiz_commonbirds_thrush_name">Rastas</string>
     <string name="quiz_commonbirds_thrush_hint"></string>
-    <string name="quiz_commonbirds_thrush_description">Thrushes are plump, soft-plumaged, small to medium-sized birds, inhabiting wooded areas, and often feed on the ground. The smallest thrush may be the forest rock thrush, at 21 g (0.74 oz) and 14.5 cm (5.7 in). However, the shortwings, which have ambiguous alliances with both thrushes and Old World flycatchers, can be even smaller. The lesser shortwing averages 12 cm (4.7 in). The largest thrush is the blue whistling thrush, at 178 g (6.3 oz) and 33 cm (13 in). The great thrush is similar in length, but less heavily built. Most species are grey or brown in colour, often with speckled underparts.</string>
+    <string name="quiz_commonbirds_thrush_description">Rastaat (Turdus) on rastaiden (Turdidae) heimoon kuuluva lintusuku. Sukuun kuuluu BirdLife Suomen mukaan kuusikymmentäviisi lajia.</string>
 	<string-array name="quiz_commonbirds_thrush_answers">
-    	<item>thrush</item>
+    	<item>rastas</item>
 	</string-array>
-	<string name="quiz_commonbirds_thrush_link">http://en.m.wikipedia.org/wiki/Thrush_(bird)</string>
+	<string name="quiz_commonbirds_thrush_link">http://fi.m.wikipedia.org/wiki/Rastaat_(suku)</string>
 	<string-array name="quiz_commonbirds_thrush_facts">
 	</string-array>
 	
 	<!-- Seagull -->
-    <string name="quiz_commonbirds_seagull_name">Seagull</string>
+    <string name="quiz_commonbirds_seagull_name">Lokki</string>
     <string name="quiz_commonbirds_seagull_hint"></string>
-    <string name="quiz_commonbirds_seagull_description">Gulls are typically medium to large seabirds, usually grey or white, often with black markings on the head or wings. They typically have harsh wailing or squawking calls, stout, longish bills, and webbed feet. Most gulls, particularly Larus species, are ground-nesting carnivores, which will take live food or scavenge opportunistically. Live food often includes crabs and small fish. Gulls have unhinging jaws which allow them to consume large prey.</string>
+    <string name="quiz_commonbirds_seagull_description">Lokit (Laridae) on rantalintujen lahkoon kuuluva heimo, johon kuuluu 15 sukua. Varsinaisten lokkien (alaheimo Larinae) täysikasvuisten yksilöiden höyhenpeitettä hallitsevat tyypillisesti musta ja valkoinen väri sekä harmaan eri sävyt. Nuoret ja talvipukuiset linnut ovat hyvin erivärisiä, usein ruskeankirjavia. Saksinokat (suku Rynchops) luettiin aiemmin erilliseen saksinokkien heimoon Rynchopidae, mutta nykyisin nekin kuuluvat lokkeihin. Myös tiiroja on toisinaan pidetty omana heimonaan.</string>
 	<string-array name="quiz_commonbirds_seagull_answers">
-    	<item>seagull</item>
-    	<item>gull</item>
+    	<item>merilokki</item>
+    	<item>lokki</item>
 	</string-array>
-	<string name="quiz_commonbirds_seagull_link">http://en.m.wikipedia.org/wiki/seagull</string>
+	<string name="quiz_commonbirds_seagull_link">http://fi.m.wikipedia.org/wiki/lokit</string>
 	<string-array name="quiz_commonbirds_seagull_facts">
-	    <item>Seen especially near the shoreline</item>
+	    <item>Näkyy erityisesti merenrannalla.</item>
 	</string-array>
 	
 	<!-- Raven -->
-    <string name="quiz_commonbirds_raven_name">Raven</string>
+    <string name="quiz_commonbirds_raven_name">Korppi</string>
     <string name="quiz_commonbirds_raven_hint"></string>
-    <string name="quiz_commonbirds_raven_description">A raven is one of several larger-bodied members of the genus Corvus. Most have black plumage and large beaks but their plumage can differ slightly in some species. Most species have dark brown irises but a few in Australia have white irises. The largest raven species are the Common raven and the Thick-billed raven. The smallest species are the Little raven, Fan-tailed raven and Chihuahuan raven. There are 4 larger species, 5 smaller species, 2 extinct species and 1 known extinct subspecies.</string>
+    <string name="quiz_commonbirds_raven_description">Korppi eli kaarne (Corvus corax) on suurikokoinen musta varisten heimoon kuuluva lintu. Täysikasvuisina ne ovat 55–70 cm:n kokoisia, levitettyinä siivet voivat olla kaksi kertaa tätä pidemmät. Korppi on Suomen suurin varisten heimoon kuuluva laji ja samalla kookkain Suomessa elävä varpuslintu, noin hiirihaukan kokoinen. Sen pituus pyrstöstä nokankärkeen voi olla jopa yli 70 cm. Korppi painaa 700 grammasta 1 600 grammaan,ja keskimäärin 1,2 kg. Sukupuolet ovat suunnilleen samankokoiset ja -näköiset, tosin koiras on keskimäärin hieman naarasta suurempi. Korpin höyhenpeite on täysin musta. Lennossa korpin erottaa muista variksista pitkästä kiilamaisesta pyrstöstä. Äänivalikoima on laaja. Tavallisesti kuulee lentoäänen ”korp-korp” tai hauskan kulauksen ”klong”. Pesällään korppi varoittaa kiihkeällä, karhealla rääkynällä. </string>
 	<string-array name="quiz_commonbirds_raven_answers">
-    	<item>raven</item>
+    	<item>korppi</item>
 	</string-array>
-	<string name="quiz_commonbirds_raven_link">http://en.m.wikipedia.org/wiki/raven</string>
+	<string name="quiz_commonbirds_raven_link">http://fi.m.wikipedia.org/wiki/korppi</string>
 	<string-array name="quiz_commonbirds_raven_facts">
 	</string-array>
 	
 	<!-- Magpie -->
-    <string name="quiz_commonbirds_magpie_name">Magpie</string>
+    <string name="quiz_commonbirds_magpie_name">Harakka</string>
     <string name="quiz_commonbirds_magpie_hint"></string>
-    <string name="quiz_commonbirds_magpie_description">Magpies are birds of the Corvidae (crow) family, including the black and white Eurasian magpie, which is one of the few animal species known to be able to recognize itself in a mirror test. In addition to other members of the genus Pica, corvids considered as magpies are in the genera Cissa, Cyanopica and Urocissa.</string>
+    <string name="quiz_commonbirds_magpie_description">Harakka (Pica pica) on harakoiden sukuun kuuluva varislaji.Harakka on 40–51 cm pitkä, josta pyrstön osuus on 20–30 cm. Väritykseltään harakka on mustavalkoinen lintu, jolla on vihreähohtoinen pyrstö. Koiraan pyrstö on yleensä naaraan pyrstöä pitempi. Pohjois-Afrikkalaisella mauretanica -alalajilla on silmän takana paljas sininen alue.</string>
 	<string-array name="quiz_commonbirds_magpie_answers">
-    	<item>magpie</item>
+    	<item>harakka</item>
 	</string-array>
-	<string name="quiz_commonbirds_magpie_link">http://en.m.wikipedia.org/wiki/magpie</string>
+	<string name="quiz_commonbirds_magpie_link">http://fi.m.wikipedia.org/wiki/harakka</string>
 	<string-array name="quiz_commonbirds_magpie_facts">
 	</string-array>
 	
 	<!-- Crow -->
-    <string name="quiz_commonbirds_crow_name">Crow</string>
+    <string name="quiz_commonbirds_crow_name">Varis</string>
     <string name="quiz_commonbirds_crow_hint"></string>
-    <string name="quiz_commonbirds_crow_description">Corvus is a widely distributed genus of birds in the family Corvidae. Ranging in size from the relatively small pigeon-size jackdaws (Eurasian and Daurian) to the common raven of the Holarctic region and thick-billed raven of the highlands of Ethiopia, the 40 or so members of this genus occur on all temperate continents except South America, and several islands. In Europe, the word "crow" is used to refer to the carrion crow or the hooded crow, while in North America it is used for the American crow or the northwestern crow.</string>
+    <string name="quiz_commonbirds_crow_description">Varis (alalajiksi tulkittuna Corvus corone cornix) on ihmisasutuksen lähellä viihtyvä helposti havaittava lintu. Siitä, onko nokivaris (alalajiksi tulkittuna Corvus corone corone) variksen musta muoto eli alalaji vai oma laji, on kahdenlaista näkemystä. Suomen lintujen lajiluettelossa ei kuitenkaan toistaiseksi ole nokivarista.</string>
 	<string-array name="quiz_commonbirds_crow_answers">
-    	<item>crow</item>
+    	<item>varis</item>
 	</string-array>
-	<string name="quiz_commonbirds_crow_link">http://en.m.wikipedia.org/wiki/crow</string>
+	<string name="quiz_commonbirds_crow_link">http://fi.m.wikipedia.org/wiki/varis</string>
 	<string-array name="quiz_commonbirds_crow_facts">
 	</string-array>
 	
 	<!-- Pigeon -->
-    <string name="quiz_commonbirds_pigeon_name">Pigeon</string>
+    <string name="quiz_commonbirds_pigeon_name">Kyyhky</string>
     <string name="quiz_commonbirds_pigeon_hint"></string>
-    <string name="quiz_commonbirds_pigeon_description">Pigeons and doves constitute the bird clade Columbidae, that includes about 310 species. Pigeons are stout-bodied birds with short necks, and short, slender bills with fleshy ceres. They feed on seeds, fruits, and plants. This family occurs worldwide, but the greatest variety is in the Indomalaya and Australasia ecozones.</string>
+    <string name="quiz_commonbirds_pigeon_description">Kyyhkyt eli Kyyhkyset (Columbidae) on kyyhkylintujen lahkon (Columbiformes) ainoa heimo. Kyyhkyjen heimo jaetaan kolmeen alaheimoon. Häkkilintuina pidettävät kyyhkylajit kuuluvat kaikki varsinaisiin kyyhkyihin (Columbinae). Kyyhkyjä on maapallolla kaikkiaan n. 300 lajia.</string>
 	<string-array name="quiz_commonbirds_pigeon_answers">
-    	<item>pigeon</item>
+    	<item>kyyhky</item>
 	</string-array>
-	<string name="quiz_commonbirds_pigeon_link">http://en.m.wikipedia.org/wiki/pigeon</string>
+	<string name="quiz_commonbirds_pigeon_link">http://fi.m.wikipedia.org/wiki/kyyhkyt</string>
 	<string-array name="quiz_commonbirds_pigeon_facts">
-	    <item>Seen especially at the cities</item>
+	    <item>Näkyy erityisesti kaupungeissa</item>
 	</string-array>
 	
 </resources>

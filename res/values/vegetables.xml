@@ -130,7 +130,6 @@
 	</string-array>
 	<string name="quiz_vegetables_pepper_link">http://en.m.wikipedia.org/wiki/Bell_pepper</string>
 	<string-array name="quiz_vegetables_pepper_facts">
-	    <item>It\'s red.</item>
 	</string-array>
 	
 	<!-- pumpkin -->

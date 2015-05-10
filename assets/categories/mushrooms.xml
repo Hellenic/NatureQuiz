@@ -23,7 +23,7 @@
 	        <hint>@string/quiz_mushrooms_morel_hint</hint>
 	        <description>@string/quiz_mushrooms_morel_description</description>
 	        <answers>@array/quiz_mushrooms_morel_answers</answers>
-	        <image>morel.jpg</image>
+	        <image>gyromitra.jpg</image>
 	        <link>@string/quiz_mushrooms_morel_link</link>
 	        <facts>@array/quiz_mushrooms_morel_facts</facts>
 	    </level>
