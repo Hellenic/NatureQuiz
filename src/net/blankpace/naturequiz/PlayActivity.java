@@ -147,29 +147,33 @@ public class PlayActivity extends ActionBarActivity
 		// And initially hide the action bar, since info screen is showing
 		getSupportActionBar().hide();
 	}
+	
+	private void gotoLevel(int nextLevelIndex)
+	{
+		Level currentLevel = gameService.getCurrentLevel();
+		
+		Level nextLevel = gameService.getLevelByIndex(nextLevelIndex);
+		gameService.setCurrentLevel(nextLevel.getId());
+		
+		displayLevel(nextLevel, currentLevel);
+	}
 
 	/**
 	 * Display given level
 	 * @param levelId
 	 */
-	private void gotoLevel(int levelIndex)
+	private void displayLevel(Level nextLevel, Level currentLevel)
 	{
 		getSupportActionBar().show();
-		
+		int levelIndex = nextLevel.getIndex();
 		int maxIndex = gameService.getCurrentCategory().getLevels().size();
+		
 		if (levelIndex < 0)
 			levelIndex = 0;
 		if (levelIndex > maxIndex)
 			levelIndex = maxIndex;
 		
-		int levelId = gameService.getLevelByIndex(levelIndex).getId();
-		
-		Level currentLevel = gameService.getCurrentLevel();
-		gameService.setCurrentLevel(levelId);
-		Level nextLevel = gameService.getCurrentLevel();
-		
 		viewPager.setCurrentItem(nextLevel.getIndex());
-		
 		populator.populateQuizView(nextLevel, currentLevel, gameService.getProgress());
 	}
 	
@@ -230,10 +234,11 @@ public class PlayActivity extends ActionBarActivity
 		}
 		
 		// If game still has more levels, show the next one
+		Level currentLevel = gameService.getCurrentLevel();
 		Level nextLevel = gameService.getNextLevel();
 		if (nextLevel != null)
 		{
-			gotoLevel(nextLevel.getIndex());
+			displayLevel(nextLevel, currentLevel);
 		}
 		// Game completed, no more levels!
 		else
