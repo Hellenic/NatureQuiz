@@ -53,7 +53,7 @@
 	        <hint>@string/quiz_fruits_cherry_hint</hint>
 	        <description>@string/quiz_fruits_cherry_description</description>
 	        <answers>@array/quiz_fruits_cherry_answers</answers>
-	        <image>cherry.jpg</image>
+	        <image>cherries.jpg</image>
 	        <link>@string/quiz_fruits_cherry_link</link>
 	        <facts>@array/quiz_fruits_cherry_facts</facts>
 	    </level>

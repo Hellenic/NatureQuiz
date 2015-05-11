@@ -75,7 +75,7 @@ The genus Boletus contains many members which are edible and tasty, not the leas
 	<!-- Russula -->
     <string name="quiz_mushrooms_russula_name">Russula</string>
     <string name="quiz_mushrooms_russula_hint"></string>
-    <string name="quiz_mushrooms_russula_description">round 750 worldwide species of ectomycorrhizal mushrooms compose the genus Russula. They are typically common, fairly large, and brightly colored – making them one of the most recognizable genera among mycologists and mushroom collectors. Their distinguishing characteristics include a white to dark yellow spore print, brittle free white gills, and an absence of partial veil or volva tissue on the stem. Members of the related Lactarius genus have similar characteristics but emit a milky latex when their gills are broken. The genus was described by Christian Hendrik Persoon in 1796.</string>
+    <string name="quiz_mushrooms_russula_description">Around 750 worldwide species of ectomycorrhizal mushrooms compose the genus Russula. They are typically common, fairly large, and brightly colored – making them one of the most recognizable genera among mycologists and mushroom collectors. Their distinguishing characteristics include a white to dark yellow spore print, brittle free white gills, and an absence of partial veil or volva tissue on the stem. Members of the related Lactarius genus have similar characteristics but emit a milky latex when their gills are broken. The genus was described by Christian Hendrik Persoon in 1796.</string>
 	<string-array name="quiz_mushrooms_russula_answers">
     	<item>russula</item>
 	</string-array>

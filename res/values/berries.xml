@@ -18,19 +18,6 @@
 	<string-array name="quiz_berries_strawberry_facts">
 	    <item>It\'s red.</item>
 	</string-array>
-    
-	<!-- Cherry -->
-    <string name="quiz_berries_cherry_name">Cherry</string>
-    <string name="quiz_berries_cherry_hint"></string>
-    <string name="quiz_berries_cherry_description">The cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). The cherry fruits of commerce are usually obtained from a limited number of species such as cultivars of the sweet cherry, Prunus avium. The name \'cherry\' also refers to the cherry tree, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in &quot;ornamental cherry&quot;, &quot;cherry blossom&quot;, etc. Wild Cherry may refer to any of the cherry species growing outside of cultivation, although Prunus avium is often referred to specifically by the name &quot;wild cherry&quot; in the British Isles.</string>
-    <string-array name="quiz_berries_cherry_answers">
-    	<item>cherry</item>
-    	<item>cherries</item>
-	</string-array>
-	<string name="quiz_berries_cherry_link">http://en.m.wikipedia.org/wiki/Cherry</string>
-	<string-array name="quiz_berries_cherry_facts">
-	    <item>Red / Purple</item>
-	</string-array>
 	
 	<!-- Gooseberry -->
     <string name="quiz_berries_gooseberry_name">gooseberry</string>

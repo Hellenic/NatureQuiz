@@ -18,19 +18,6 @@
 	<string-array name="quiz_berries_strawberry_facts">
 	    <item>Se on punainen.</item>
 	</string-array>
-    
-	<!-- Cherry -->
-    <string name="quiz_berries_cherry_name">Kirsikka</string>
-    <string name="quiz_berries_cherry_hint"></string>
-    <string name="quiz_berries_cherry_description">Kirsikkapuun hedelmiä ovat kirsikat. Sana kirsikka viittaa sekä kirsikkapuuhun että sen hedelmään. Kirsikka on kivihedelmä eli luumarja, joten hedelmät sisältävät kiven, jonka halkaisija on tyypillisesti 0,5–1 cm ja joka puolestaan sisältää puun siemenen. Hedelmien väri vaihtelee vaaleanpunaisesta tummanpunaiseen, myös mustia tai keltaisia tunnetaan.</string>
-    <string-array name="quiz_berries_cherry_answers">
-    	<item>kirsikka</item>
-    	<item>kirsikat</item>
-	</string-array>
-	<string name="quiz_berries_cherry_link">http://fi.m.wikipedia.org/wiki/Cerasus</string>
-	<string-array name="quiz_berries_cherry_facts">
-	    <item>Punainen/Tummapunainen</item>
-	</string-array>
 	
 	<!-- Gooseberry -->
     <string name="quiz_berries_gooseberry_name">Karviainen</string>
