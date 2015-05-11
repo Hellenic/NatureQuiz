@@ -2,109 +2,100 @@
 <resources>
     
     <!-- Trees category -->
-    <string name="quiz_trees_name">Trees</string>
-    <string name="quiz_trees_description">Trees - the lungs of the world. Test how well you know the most common ones!</string>
-    <string name="quiz_trees_link">http://en.m.wikipedia.org/wiki/Trees</string>
-    <string name="quiz_trees_completedText">Congratulations! You\'ve completed all the levels of the category. See if you can do the other categories!</string>
-    <string name="quiz_trees_progressText">Good attempt. However, there is still some unanswered questions. Try to get those too!</string>
+    <string name="quiz_trees_name">Деревья</string>
+    <string name="quiz_trees_description">Деревья - легкие нашей планеты. Проверь, как ты знаешь самые известные деревья!</string>
+    <string name="quiz_trees_link">http://ru.m.wikipedia.org/wiki/Дерево</string>
+    <string name="quiz_trees_completedText">Поздравляем! Ты прошел все уровни в этой категории. Как насчет других категорий?</string>
+    <string name="quiz_trees_progressText">Хороший результат! Но ты ответил еще на на все вопросы. Постарайся ответить и на них!</string>
     
     <!-- Trees / Levels -->
     
     <!-- Birch -->
-    <string name="quiz_trees_birch_name">Birch</string>
+    <string name="quiz_trees_birch_name">Берёза</string>
     <string name="quiz_trees_birch_hint"></string>
-    <string name="quiz_trees_birch_description">Very common leave-tree especially on Nordic countries. Bark is mostly white with some black spots. Gets green leaves on the spring and drops them for winter.</string>
+    <string name="quiz_trees_birch_description">Берёза (лат. Bétula) — род листопадных деревьев и кустарников семейства Берёзовые (Betulaceae). Берёза широко распространена в Северном полушарии; на территории России принадлежит к числу наиболее распространённых древесных пород. Общее число видов — около ста или немного больше. Многие части берёзы используются в хозяйстве: древесина, кора, берёста (поверхностный слой коры), берёзовый сок. Почки и листья применяют в медицине. Некоторые виды используют для создания полезащитных полос, а также в декоративном садоводстве.</string>
 	<string-array name="quiz_trees_birch_answers">
-    	<item>birch</item>
+    	<item>Берёза</item>
 	</string-array>
-	<string name="quiz_trees_birch_answerText">That\'s correct!</string>
-	<string name="quiz_trees_birch_link">http://en.m.wikipedia.org/wiki/Birch</string>
+	<string name="quiz_trees_birch_answerText">Правильно!</string>
+	<string name="quiz_trees_birch_link">http://ru.m.wikipedia.org/wiki/Берёза</string>
 	<string-array name="quiz_trees_birch_facts">
-	    <item>It\'s green.</item>
-	</string-array>
+	    	</string-array>
 
 	<!-- Pine -->
-    <string name="quiz_trees_pine_name">Pine</string>
+    <string name="quiz_trees_pine_name">Сосна́</string>
     <string name="quiz_trees_pine_hint"></string>
-    <string name="quiz_trees_pine_description">Common conifer which mostle has branches on the upper part, also stays green throughout the year.</string>
+    <string name="quiz_trees_pine_description">Сосна́ (лат. Pínus) — типовой род хвойных деревьев семейства Сосновые (Pinaceae). По современным данным существует около 120 видов сосны, которые в естественном произрастании рассеяны по всему Северному полушарию от экватора до заполярья. В умеренном и субарктическом климате они образуют леса на равнинах, а в субтропиках, тропиках и вблизи экватора произрастают в горах.</string>
 	<string-array name="quiz_trees_pine_answers">
-    	<item>pine</item>
+    	<item>Сосна́</item>
 	</string-array>
-	<string name="quiz_trees_pine_link">http://en.m.wikipedia.org/wiki/Pine</string>
+	<string name="quiz_trees_pine_link">http://ru.m.wikipedia.org/wiki/Сосна́</string>
 	<string-array name="quiz_trees_pine_facts">
-	    <item>It\'s green pine.</item>
-	</string-array>
+	    	</string-array>
     
 	<!-- Spruce -->
-    <string name="quiz_trees_spruce_name">Spruce</string>
-    <string name="quiz_trees_spruce_hint">Popular for Christmas!</string>
-    <string name="quiz_trees_spruce_description">Common conifer which is thick on branches, also stays green throughout the year.</string>
+    <string name="quiz_trees_spruce_name">Ель</string>
+    <string name="quiz_trees_spruce_hint">Новогоднее дерево!</string>
+    <string name="quiz_trees_spruce_description">Ель (лат. Pícea) — род деревьев семейства Сосновые (Pinaceae). Около 40 видов вечнозелёных высоких деревьев (до 30 м высотой) с красивой кроной. Ель может давать молодые побеги-клоны из корней погибшего дерева. На западе Швеции, в национальном парке Фулуфьеллет существует экземпляр ели европейской, названный «Старый Тикко», возраст которого, с учётом нескольких поколений таких клонов, составляет более 9550 лет. Это старейший известный древесный организм на Земле.</string>
 	<string-array name="quiz_trees_spruce_answers">
-    	<item>spruce</item>
-    	<item>fir</item>
-	</string-array>
-	<string name="quiz_trees_spruce_link">http://en.m.wikipedia.org/wiki/Spruce</string>
+    	<item>Ель</item>
+    	</string-array>
+	<string name="quiz_trees_spruce_link">http://ru.m.wikipedia.org/wiki/Ель</string>
 	<string-array name="quiz_trees_spruce_facts">
-	    <item>It\'s green spruce.</item>
-	</string-array>
+	    	</string-array>
 	
 	<!-- Oak -->
-    <string name="quiz_trees_oak_name">Oak</string>
+    <string name="quiz_trees_oak_name">Дуб</string>
     <string name="quiz_trees_oak_hint"></string>
-    <string name="quiz_trees_oak_description">An oak is a tree or shrub in the genus Quercus (/ˈkwɜrkəs/; Latin "oak tree") of the beech family, Fagaceae. There are approximately 600 extant species of oaks. The common name "oak" may also appear in the names of species in related genera, notably Lithocarpus. The genus is native to the Northern Hemisphere, and includes deciduous and evergreen species extending from cool temperate to tropical latitudes in Asia and the Americas.</string>
+    <string name="quiz_trees_oak_description">Дуб (лат. Quércus) — род деревьев и кустарников семейства Буковые (Fagaceae). Род объединяет около 600 видов. Естественным ареалом дуба являются регионы Северного полушария с умеренным климатом. Южной границей распространения являются тропические высокогорья; несколько видов встречаются и южнее экватора: например, Quercus lineata Blume — на Больших Зондских островах, Quercus humboldtii Bonpl. — в Боливии. Дуб хорошо узнаваем благодаря его плодам, жёлудям, являющимся, по сути, орехами.</string>
 	<string-array name="quiz_trees_oak_answers">
-    	<item>oak</item>
+    	<item>дуб</item>
 	</string-array>
-	<string name="quiz_trees_oak_link">http://en.m.wikipedia.org/wiki/Oak</string>
+	<string name="quiz_trees_oak_link">http://ru.m.wikipedia.org/wiki/Дуб</string>
 	<string-array name="quiz_trees_oak_facts">
-	    <item>It\'s green oak.</item>
-	</string-array>
+	   	</string-array>
 	
 	<!-- Alder -->
-    <string name="quiz_trees_alder_name">Alder</string>
+    <string name="quiz_trees_alder_name">Ольха́</string>
     <string name="quiz_trees_alder_hint"></string>
-    <string name="quiz_trees_alder_description">Alder is the common name of a genus of flowering plants (Alnus) belonging to the birch family Betulaceae. The genus comprises about 30 species of monoecious trees and shrubs, a few reaching a large size, distributed throughout the north temperate zone with a few species extending into Central America and the northern Andes.</string>
+    <string name="quiz_trees_alder_description">Ольха́ (лат. Álnus) — род деревьев и кустарников семейства Берёзовые, объединяющий по разным данным от 23 до более 40 видов. Ольха предпочитает богатые, влажные, хорошо дренированные почвы. Она растёт по берегам рек, ручьёв, на травянистых болотах, у подножия возвышенностей. Ольха может мириться также с почвами любыми по богатству и влажности и заселять сухие, бедные, песчаные и щебнистые, а также тяжёлые, глинистые почвы. Ольха улучшает почву за счёт способности к азотфиксации, а также за счёт того, что выделяет в почву вещества, оказывающие ингибирующее влияние на патогенные организмы и увеличивающие популяции микроорганизмов с ними конкурирующими.</string>
 	<string-array name="quiz_trees_alder_answers">
-    	<item>alder</item>
+    	<item>ольха</item>
 	</string-array>
-	<string name="quiz_trees_alder_link">http://en.m.wikipedia.org/wiki/alder</string>
+	<string name="quiz_trees_alder_link">http://ru.m.wikipedia.org/wiki/Ольха́</string>
 	<string-array name="quiz_trees_alder_facts">
-	    <item>It\'s green alder.</item>
-	</string-array>
+	    	</string-array>
 	
 	<!-- Aspen -->
-    <string name="quiz_trees_aspen_name">Aspen</string>
+    <string name="quiz_trees_aspen_name">Осина</string>
     <string name="quiz_trees_aspen_hint"></string>
-    <string name="quiz_trees_aspen_description">Aspen is a common name for certain tree species; some, but not all, are classified by botanists in the section Populus, of the poplar genus.</string>
+    <string name="quiz_trees_aspen_description">Оси́на, или Оси́на обыкнове́нная, или То́поль дрожа́щий (лат. Pópulus trémula) — вид лиственных деревьев из рода Тополь семейства Ивовые. Осина широко распространена в районах с умеренным и холодным климатом Европы и Азии. Встречается на границе леса и тундры, растёт в лесной и лесостепной зонах. Её можно встретить по берегам водоёмов, в лесах, по опушкам, изредка на сухих песках и вырубках, по оврагам, болотам и в горах; поднимается до верхней границы леса.</string>
 	<string-array name="quiz_trees_aspen_answers">
-    	<item>aspen</item>
+    	<item>Осина</item>
 	</string-array>
-	<string name="quiz_trees_aspen_link">http://en.m.wikipedia.org/wiki/aspen</string>
+	<string name="quiz_trees_aspen_link">http://ru.m.wikipedia.org/wiki/Осина</string>
 	<string-array name="quiz_trees_aspen_facts">
-	    <item>It\'s green aspen.</item>
-	</string-array>
+	   	</string-array>
 	
 	<!-- Willow -->
-    <string name="quiz_trees_willow_name">Willow</string>
+    <string name="quiz_trees_willow_name">Ива</string>
     <string name="quiz_trees_willow_hint"></string>
-    <string name="quiz_trees_willow_description">Willows, also called sallows, and osiers, form the genus Salix, around 400 species of deciduous trees and shrubs, found primarily on moist soils in cold and temperate regions of the Northern Hemisphere. Most species are known as willow, but some narrow-leaved shrub species are called osier, and some broader-leaved species are referred to as sallow (from Old English sealh, related to the Latin word salix, willow). Some willows (particularly arctic and alpine species) are low-growing or creeping shrubs; for example, the dwarf willow (Salix herbacea) rarely exceeds 6 cm (2.4 in) in height, though it spreads widely across the ground.</string>
+    <string name="quiz_trees_willow_description">И́ва, ветла́, раки́та, лоза́, лози́на, ве́рба (лат. Sálix) — деревянистое растение; род семейства Ивовые (Salicaceae). В некоторых областях России в повседневной речи используют слово «тальник». Так называют некоторые ивы, преимущественно кустарниковые, а также их заросли. Очень распространённые и весьма известные в средней части России растения («ивушка», «ракитовый кусточек»). Большинство видов ив любят влажность и селятся в сырых местах, в сухих же местах (на склонах, песках и т. п.) и на болотах растут сравнительно немногие виды. Встречается ива и в лесах, как подмесь к другим деревьям.</string>
 	<string-array name="quiz_trees_willow_answers">
-    	<item>willow</item>
+    	<item>Ива</item>
 	</string-array>
-	<string name="quiz_trees_willow_link">http://en.m.wikipedia.org/wiki/willow</string>
+	<string name="quiz_trees_willow_link">http://ru.m.wikipedia.org/wiki/Ива</string>
 	<string-array name="quiz_trees_willow_facts">
-	    <item>It\'s green willow.</item>
-	</string-array>
+		</string-array>
 	
 	<!-- Rowan -->
-    <string name="quiz_trees_rowan_name">Rowan</string>
+    <string name="quiz_trees_rowan_name">Рябина</string>
     <string name="quiz_trees_rowan_hint"></string>
-    <string name="quiz_trees_rowan_description">The rowans or mountain-ashes are shrubs or trees in genus Sorbus of family Rosaceae. They are native throughout the cool temperate regions of the Northern Hemisphere, with the highest species diversity in the mountains of western China and the Himalaya, where numerous apomictic microspecies occur. The name rowan was originally applied to the species Sorbus aucuparia, and is also used for other species in Sorbus subgenus Sorbus. Rowans are unrelated to the true ash trees, which belong to the genus Fraxinus, family Oleaceae, though their leaves bear superficial similarity.</string>
+    <string name="quiz_trees_rowan_description">Ряби́на (лат. Sórbus) — род относительно невысоких древесных растений трибы Яблоневые (Rosales) семейства Розовые (Rosaceae). Всего насчитывается свыше 100 видов рябины, из них около трети произрастает на территории России и сопредельных стран. Рябина широко распространена по всей Европе, по всей Азии и в Северной Америке.</string>
 	<string-array name="quiz_trees_rowan_answers">
-    	<item>rowan</item>
+    	<item>Рябина</item>
 	</string-array>
-	<string name="quiz_trees_rowan_link">http://en.m.wikipedia.org/wiki/rowan</string>
+	<string name="quiz_trees_rowan_link">http://ru.m.wikipedia.org/wiki/Рябина</string>
 	<string-array name="quiz_trees_rowan_facts">
-	    <item>It\'s green rowan.</item>
-	</string-array>
+	    	</string-array>
 </resources>

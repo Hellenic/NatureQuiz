@@ -1,124 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Common birds -->
-    <string name="quiz_commonbirds_name">Birds</string>
-    <string name="quiz_commonbirds_description">Test how well you know the most common smaller birds!</string>
-    <string name="quiz_commonbirds_link">http://en.m.wikipedia.org/wiki/Bird</string>
+    <string name="quiz_commonbirds_name">Птицы</string>
+    <string name="quiz_commonbirds_description">Проверь, знаешь ли ты птиц?</string>
+    <string name="quiz_commonbirds_link">http://ru.m.wikipedia.org/wiki/Птицы</string>
     
     <!-- Common birds / Levels -->
     
 	<!-- Swallow -->
-    <string name="quiz_commonbirds_swallow_name">Swallow</string>
+    <string name="quiz_commonbirds_swallow_name">Ласточка</string>
     <string name="quiz_commonbirds_swallow_hint"></string>
-    <string name="quiz_commonbirds_swallow_description">The swallows and martins are a group of passerine birds in the family Hirundinidae which are characterised by their adaptation to aerial feeding. Swallow is used colloquially in Europe as a synonym for the barn swallow.</string>
+    <string name="quiz_commonbirds_swallow_description">Ла́сточковые (лат. Hirundinidae) — богатое видами семейство воробьинообразных. Для ласточковых характерна способность добывать пищу в воздухе, они в состоянии ловить насекомых на лету. У ласточковых стройное, обтекаемое телостроение и длинные узкие крылья. Клюв короткий и открывается довольно широко. Лапки весьма маленькие, у большинства видов длинные хвосты. Семейство насчитывает 75 видов (наибольшейшее количество видов обитает в Африке), на территории России — 10 видов. Ласточки являются перелётными птицами.</string>
 	<string-array name="quiz_commonbirds_swallow_answers">
-    	<item>swallow</item>
+    	<item>ласточка</item>
 	</string-array>
-	<string name="quiz_commonbirds_swallow_link">http://en.m.wikipedia.org/wiki/swallow</string>
+	<string name="quiz_commonbirds_swallow_link">http://ru.m.wikipedia.org/wiki/Ласточковые</string>
 	<string-array name="quiz_commonbirds_swallow_facts">
 	</string-array>
 	
 	<!-- Sparrow -->
-    <string name="quiz_commonbirds_sparrow_name">Sparrow</string>
+    <string name="quiz_commonbirds_sparrow_name">Воробей</string>
     <string name="quiz_commonbirds_sparrow_hint"></string>
-    <string name="quiz_commonbirds_sparrow_description">Sparrows are a family of small passerine birds, Passeridae. They are also known as true sparrows, or Old World sparrows, names also used for a particular genus of the family, Passer. They are distinct from both the American sparrows, in the family Emberizidae, and from a few other birds sharing their name, such as the Java sparrow of the family Estrildidae. Many species nest on buildings, and the house and Eurasian tree sparrows in particular inhabit cities in large numbers, so sparrows may be the most familiar of all wild birds. They are primarily seed-eaters, though they also consume small insects. Some species scavenge for food around cities and, like gulls or rock doves, will happily eat virtually anything in small quantities.</string>
+    <string name="quiz_commonbirds_sparrow_description">Воробьи́ные (лат. Passeridae) — семейство небольших оседлых, реже кочевых, птиц из отряда воробьинообразных. Представители семейства имеют короткие ноги, многие виды по земле передвигаются прыжками.</string>
 	<string-array name="quiz_commonbirds_sparrow_answers">
-    	<item>sparrow</item>
+    	<item>воробей</item>
 	</string-array>
-	<string name="quiz_commonbirds_sparrow_link">http://en.m.wikipedia.org/wiki/sparrow</string>
+	<string name="quiz_commonbirds_sparrow_link">http://ru.m.wikipedia.org/wiki/Воробьиные</string>
 	<string-array name="quiz_commonbirds_sparrow_facts">
 	</string-array>
 	
 	<!-- Wagtail -->
-    <string name="quiz_commonbirds_wagtail_name">Wagtail</string>
+    <string name="quiz_commonbirds_wagtail_name">Трясогузка</string>
     <string name="quiz_commonbirds_wagtail_hint"></string>
-    <string name="quiz_commonbirds_wagtail_description">The wagtails form the passerine bird genus Motacilla. They are small birds with long tails which they wag frequently. Motacilla, the root of the family and genus name, means moving tail. The forest wagtail belongs to the monotypic genus Dendronanthus which is closely related to Motacilla and sometimes included herein.</string>
+    <string name="quiz_commonbirds_wagtail_description">Трясогузки (новолат. Motacilla, от лат. motacilla «трясогузка») — род певчих птиц семейства трясогузковых.Трясогузки — перелётные птицы. Большинство трясогузок держится возле воды отдельными семьями или небольшими стайками; гнездятся трясогузки на земле или в дуплах. В отличие от большинства мелких птиц по земле передвигается не прыжками, а бегом.</string>
 	<string-array name="quiz_commonbirds_wagtail_answers">
-    	<item>wagtail</item>
+    	<item>трясогузка</item>
 	</string-array>
-	<string name="quiz_commonbirds_wagtail_link">http://en.m.wikipedia.org/wiki/wagtail</string>
+	<string name="quiz_commonbirds_wagtail_link">http://ru.m.wikipedia.org/wiki/Трясогузки</string>
 	<string-array name="quiz_commonbirds_wagtail_facts">
 	</string-array>
 	
 	<!-- Great tit -->
-    <string name="quiz_commonbirds_greattit_name">Great tit</string>
+    <string name="quiz_commonbirds_greattit_name">Большая синица</string>
     <string name="quiz_commonbirds_greattit_hint"></string>
-    <string name="quiz_commonbirds_greattit_description">The great tit is a distinctive bird, with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats. Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods.</string>
+    <string name="quiz_commonbirds_greattit_description">Больша́я сини́ца, или больша́к (лат. Parus major), — распространённая птица из семейства синицевых, отряда воробьинообразных. Обитает на всей территории Европы, Ближнего Востока, Центральной и Северной Азии, в некоторых районах Северной Африки. В дикой природе встречается в разнообразных лесах, обычно на открытых участках, опушках, по берегам водоёмов. Это, как правило, неперелётные птицы, и большинство больших синиц не мигрирует, кроме очень суровых зим. Обычно в этот вид включается множество подвидов. Большая синица остаётся самым крупным и наиболее многочисленным из всех встречающихся видов рода синицы, в частности в России.</string>
 	<string-array name="quiz_commonbirds_greattit_answers">
-	    <item>tit</item>
-    	<item>great tit</item>
+	    <item>синица</item>
+    	<item>большая синица</item>
 	</string-array>
-	<string name="quiz_commonbirds_greattit_link">http://en.m.wikipedia.org/wiki/Great_tit</string>
+	<string name="quiz_commonbirds_greattit_link">http://ru.m.wikipedia.org/wiki/Большая_синица</string>
 	<string-array name="quiz_commonbirds_greattit_facts">
 	</string-array>
 	
 	<!-- Thrush -->
-    <string name="quiz_commonbirds_thrush_name">thrush</string>
+    <string name="quiz_commonbirds_thrush_name">Дрозд</string>
     <string name="quiz_commonbirds_thrush_hint"></string>
-    <string name="quiz_commonbirds_thrush_description">Thrushes are plump, soft-plumaged, small to medium-sized birds, inhabiting wooded areas, and often feed on the ground. The smallest thrush may be the forest rock thrush, at 21 g (0.74 oz) and 14.5 cm (5.7 in). However, the shortwings, which have ambiguous alliances with both thrushes and Old World flycatchers, can be even smaller. The lesser shortwing averages 12 cm (4.7 in). The largest thrush is the blue whistling thrush, at 178 g (6.3 oz) and 33 cm (13 in). The great thrush is similar in length, but less heavily built. Most species are grey or brown in colour, often with speckled underparts.</string>
+    <string name="quiz_commonbirds_thrush_description">Настоящие дрозды, или дрозды (лат. Turdus) — род птиц семейства дроздовых отряда воробьинообразных. 62 вида. Длина тела 20—25 см. По земле передвигаются прыжками, приседая при этом. Распространены в Европе, Азии и Америке; завезены в Новую Зеландию. На зиму северные виды улетают на юг, собираясь большими стаями. Гнездятся одиночками или небольшими колониями на деревьях, кустах или на земле; гнёзда массивные, часто с землёй или глиной в стенках. За лето дают 1—2 кладки, в каждой от 3 до 7 яиц. Питаются насекомыми, пауками, червями, моллюсками, ягодами, часто кормятся на земле.</string>
 	<string-array name="quiz_commonbirds_thrush_answers">
-    	<item>thrush</item>
+    	<item>дрозд</item>
 	</string-array>
-	<string name="quiz_commonbirds_thrush_link">http://en.m.wikipedia.org/wiki/Thrush_(bird)</string>
+	<string name="quiz_commonbirds_thrush_link">http://ru.m.wikipedia.org/wiki/Дрозды</string>
 	<string-array name="quiz_commonbirds_thrush_facts">
 	</string-array>
 	
 	<!-- Seagull -->
-    <string name="quiz_commonbirds_seagull_name">Seagull</string>
+    <string name="quiz_commonbirds_seagull_name">Чайка</string>
     <string name="quiz_commonbirds_seagull_hint"></string>
-    <string name="quiz_commonbirds_seagull_description">Gulls are typically medium to large seabirds, usually grey or white, often with black markings on the head or wings. They typically have harsh wailing or squawking calls, stout, longish bills, and webbed feet. Most gulls, particularly Larus species, are ground-nesting carnivores, which will take live food or scavenge opportunistically. Live food often includes crabs and small fish. Gulls have unhinging jaws which allow them to consume large prey.</string>
-	<string-array name="quiz_commonbirds_seagull_answers">
-    	<item>seagull</item>
-    	<item>gull</item>
+    <string name="quiz_commonbirds_seagull_description">Ча́йковые (лат. Laridae) — семейство птиц отряда ржанкообразных, обитающих на морских просторах либо внутренних водоёмах, а также в пределах населённых пунктов. Включает в себя около 60 видов птиц, подавляющее большинство из которых относится к роду настоящих чаек, которых в узком смысле также обычно именуют чайками.</string>
+	<string-array name="quiz_commonbirds_seagull_answers">   
+    	<item>чайка</item>
 	</string-array>
-	<string name="quiz_commonbirds_seagull_link">http://en.m.wikipedia.org/wiki/seagull</string>
+	<string name="quiz_commonbirds_seagull_link">http://ru.m.wikipedia.org/wiki/Чайковые</string>
 	<string-array name="quiz_commonbirds_seagull_facts">
-	    <item>Seen especially near the shoreline</item>
+	    <item>Наиболее часто их можно увидеть на берегу моря.</item>
 	</string-array>
 	
 	<!-- Raven -->
-    <string name="quiz_commonbirds_raven_name">Raven</string>
+    <string name="quiz_commonbirds_raven_name">Ворон</string>
     <string name="quiz_commonbirds_raven_hint"></string>
-    <string name="quiz_commonbirds_raven_description">A raven is one of several larger-bodied members of the genus Corvus. Most have black plumage and large beaks but their plumage can differ slightly in some species. Most species have dark brown irises but a few in Australia have white irises. The largest raven species are the Common raven and the Thick-billed raven. The smallest species are the Little raven, Fan-tailed raven and Chihuahuan raven. There are 4 larger species, 5 smaller species, 2 extinct species and 1 known extinct subspecies.</string>
+    <string name="quiz_commonbirds_raven_description">Во́рон (лат. Corvus corax) — вид птиц из рода воронов.Один из крупнейших представителей отряда Воробьинообразные. Длина тела 60—65 см. Самцы крупнее самок, в остальном половой диморфизм не выражен. Длина крыла самцов 410—473, самок 385—460, в среднем 441,2 и 432,3 мм. Масса самцов 1100—1560, самок 798—1315, в среднем 1383 и 1085 г. Размах крыльев достигает 1,40—1,50 м.</string>
 	<string-array name="quiz_commonbirds_raven_answers">
-    	<item>raven</item>
+    	<item>ворон</item>
 	</string-array>
-	<string name="quiz_commonbirds_raven_link">http://en.m.wikipedia.org/wiki/raven</string>
+	<string name="quiz_commonbirds_raven_link">http://ru.m.wikipedia.org/wiki/Ворон</string>
 	<string-array name="quiz_commonbirds_raven_facts">
 	</string-array>
 	
 	<!-- Magpie -->
-    <string name="quiz_commonbirds_magpie_name">Magpie</string>
+    <string name="quiz_commonbirds_magpie_name">Сорока</string>
     <string name="quiz_commonbirds_magpie_hint"></string>
-    <string name="quiz_commonbirds_magpie_description">Magpies are birds of the Corvidae (crow) family, including the black and white Eurasian magpie, which is one of the few animal species known to be able to recognize itself in a mirror test. In addition to other members of the genus Pica, corvids considered as magpies are in the genera Cissa, Cyanopica and Urocissa.</string>
+    <string name="quiz_commonbirds_magpie_description">Соро́ка, или европейская сорока, или обыкновенная сорока,(лат. Pica pica) — птица семейства врановых из рода сорок.Сороки населяют всю Европу от Нордкапа в Скандинавии до южных оконечностей Испании и Греции. Она отсутствует только на нескольких островах Средиземного моря. Также населяет части прибрежных областей Марокко, Алжира, Туниса на севере Африки. Сорока — это оседлая птица, но в Скандинавии также и перелётная.</string>
 	<string-array name="quiz_commonbirds_magpie_answers">
-    	<item>magpie</item>
+    	<item>сорока</item>
 	</string-array>
-	<string name="quiz_commonbirds_magpie_link">http://en.m.wikipedia.org/wiki/magpie</string>
+	<string name="quiz_commonbirds_magpie_link">http://ru.m.wikipedia.org/wiki/Сорока</string>
 	<string-array name="quiz_commonbirds_magpie_facts">
 	</string-array>
 	
 	<!-- Crow -->
-    <string name="quiz_commonbirds_crow_name">Crow</string>
+    <string name="quiz_commonbirds_crow_name">Ворона</string>
     <string name="quiz_commonbirds_crow_hint"></string>
-    <string name="quiz_commonbirds_crow_description">Corvus is a widely distributed genus of birds in the family Corvidae. Ranging in size from the relatively small pigeon-size jackdaws (Eurasian and Daurian) to the common raven of the Holarctic region and thick-billed raven of the highlands of Ethiopia, the 40 or so members of this genus occur on all temperate continents except South America, and several islands. In Europe, the word "crow" is used to refer to the carrion crow or the hooded crow, while in North America it is used for the American crow or the northwestern crow.</string>
+    <string name="quiz_commonbirds_crow_description">Се́рая воро́на (лат. Corvus cornix) — вид птиц из рода во́ронов. Иногда чёрную и серую ворону рассматривают как подвиды одного вида — в этом случае чёрную ворону называют Corvus corone corone, а серую — Corvus corone cornix. Воро́ны — всеядные птицы, питаются насекомыми, птенцами и яйцами, грызунами и ящерицами, лягушками, рыбой; растительной пищей — семенами различных растений, как и самими растениями, а также пищевыми отбросами. Также общеизвестны сообразительность ворон и их умение использовать предметы окружающей обстановки; например, если городской вороне попадается орех в скорлупе, она может бросить его на дорогу и подождать, когда автомобиль его раздавит, после чего спокойно съедает. В 70-80 годы двадцатого века, когда в магазинах продавалось молоко в полулитровых картонных пирамидках-тетраэдрах, вороны часто воровали эти пакеты, уносили в укромное место, пробивали клювом в картоне дыру и пили молоко. Чтобы пакет не выскальзывал в полете из клюва, ворона заранее клювом перегибала один из углов пакета.</string>
 	<string-array name="quiz_commonbirds_crow_answers">
-    	<item>crow</item>
+    	<item>ворона</item>
 	</string-array>
-	<string name="quiz_commonbirds_crow_link">http://en.m.wikipedia.org/wiki/crow</string>
+	<string name="quiz_commonbirds_crow_link">http://ru.m.wikipedia.org/wiki/Серая_ворона</string>
 	<string-array name="quiz_commonbirds_crow_facts">
 	</string-array>
 	
 	<!-- Pigeon -->
-    <string name="quiz_commonbirds_pigeon_name">Pigeon</string>
+    <string name="quiz_commonbirds_pigeon_name">Голубь</string>
     <string name="quiz_commonbirds_pigeon_hint"></string>
-    <string name="quiz_commonbirds_pigeon_description">Pigeons and doves constitute the bird clade Columbidae, that includes about 310 species. Pigeons are stout-bodied birds with short necks, and short, slender bills with fleshy ceres. They feed on seeds, fruits, and plants. This family occurs worldwide, but the greatest variety is in the Indomalaya and Australasia ecozones.</string>
+    <string name="quiz_commonbirds_pigeon_description">Го́луби, или настоя́щие го́луби (лат. Columba) — род птиц из семейства голубиных. Длина крыла 20—27 см, масса 200—650 г. Населяют Евразию, Африку и Австралию. Наиболее распространённый вид из этого рода — сизый голубь, интродуцирован на все континенты.</string>
 	<string-array name="quiz_commonbirds_pigeon_answers">
-    	<item>pigeon</item>
+    	<item>голубь</item>
 	</string-array>
-	<string name="quiz_commonbirds_pigeon_link">http://en.m.wikipedia.org/wiki/pigeon</string>
+	<string name="quiz_commonbirds_pigeon_link">http://ru.m.wikipedia.org/wiki/Голуби</string>
 	<string-array name="quiz_commonbirds_pigeon_facts">
-	    <item>Seen especially at the cities</item>
+	    <item>Городские птицы</item>
 	</string-array>
 	
 </resources>

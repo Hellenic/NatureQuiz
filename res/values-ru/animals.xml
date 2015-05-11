@@ -1,159 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Animals -->
-    <string name="quiz_animals_name">Animals</string>
-    <string name="quiz_animals_description">Test how well you know the most common animals!</string>
-    <string name="quiz_animals_link">http://en.m.wikipedia.org/wiki/Animals</string>
+    <string name="quiz_animals_name">Животные</string>
+    <string name="quiz_animals_description">Проверь, как ты знаешь животных!</string>
+    <string name="quiz_animals_link">http://ru.m.wikipedia.org/wiki/Животные</string>
     
     <!-- Animals / Levels -->
     
     <!-- Bear -->
-    <string name="quiz_animals_bear_name">Bear</string>
+    <string name="quiz_animals_bear_name">Медведь</string>
     <string name="quiz_animals_bear_hint"></string>
-    <string name="quiz_animals_bear_description">Bears are mammals of the family Ursidae. Bears are classified as caniforms, or doglike carnivorans, with the pinnipeds being their closest living relatives. Although only eight species of bears are extant, they are widespread, appearing in a wide variety of habitats throughout the Northern Hemisphere and partially in the Southern Hemisphere. Bears are found on the continents of North America, South America, Europe, and Asia.</string>
+    <string name="quiz_animals_bear_description">Медве́жьи (лат. Ursidae) — семейство млекопитающих отряда хищных. Отличаются от других представителей псообразных более коренастым телосложением. Медведи всеядны, хорошо лазают и плавают, могут стоять и проходить короткие расстояния на задних лапах. Имеют короткий хвост, длинную и густую шерсть, а также отличное обоняние. Охотятся вечером или на рассвете. Невосприимчивы к пчелиным укусам. В природе естественных врагов почти не имеют.</string>
 	<string-array name="quiz_animals_bear_answers">
-    	<item>bear</item>
+    	<item>медведь</item>
 	</string-array>
-	<string name="quiz_animals_bear_link">http://en.m.wikipedia.org/wiki/bear</string>
+	<string name="quiz_animals_bear_link">http://ru.m.wikipedia.org/wiki/Медвежьи</string>
 	<string-array name="quiz_animals_bear_facts">
-	    <item>Brown</item>
-	    <item>Furry</item>
+	    <item>Бурый</item>
+	    <item>Мохнатый</item>
 	</string-array>
 	
 	<!-- Moose -->
-	<string name="quiz_animals_moose_name">Moose</string>
+	<string name="quiz_animals_moose_name">Лось</string>
     <string name="quiz_animals_moose_hint"></string>
-    <string name="quiz_animals_moose_description">The moose (North America) or elk (Eurasia), Alces alces, is the largest extant species in the deer family. Moose are distinguished by the palmate antlers of the males; other members of the family have antlers with a dendritic ("twig-like") configuration. Moose typically inhabit boreal and mixed deciduous forests of the Northern Hemisphere in temperate to subarctic climates. Moose used to have a much wider range but hunting and other human activities greatly reduced it over the years. Moose have been reintroduced to some of their former habitats. Currently, most moose are found in Canada, Alaska, Scandinavia and Russia.</string>
+    <string name="quiz_animals_moose_description">Лось, или соха́тый (лат. Alces alces) — парнокопытное млекопитающее, самый крупный вид семейства оленевых. Длина тела самца до 3 м, высота в холке до 2,3 м, длина хвоста 12—13 см[2]; масса 360—600 кг; на Дальнем Востоке России и в Канаде — до 655 кг. Самки меньше. По внешнему облику лось заметно отличается от других оленей. Туловище и шея у него короткие, холка высокая, в виде горба. Ноги сильно вытянутые, поэтому, чтобы напиться, лось вынужден заходить глубоко в воду или становиться на колени передних ног. Голова крупная, горбоносая, с нависающей мясистой верхней губой. Под горлом мягкий кожистый вырост («серьга»), достигающий 25—40 см. Шерсть грубая, буровато-чёрная; ноги светло-серые, почти белые.</string>
 	<string-array name="quiz_animals_moose_answers">
-    	<item>moose</item>
+    	<item>лось</item>
 	</string-array>
-	<string name="quiz_animals_moose_link">http://en.m.wikipedia.org/wiki/moose</string>
+	<string name="quiz_animals_moose_link">http://ru.m.wikipedia.org/wiki/Лось</string>
 	<string-array name="quiz_animals_moose_facts">
-	    <item>Brown</item>
-	    <item>Furry</item>
+	    <item>Коричневый</item>
+	    <item>Мохнатый</item>
 	</string-array>
 	
 	<!-- Deer -->
-	<string name="quiz_animals_deer_name">Deer</string>
+	<string name="quiz_animals_deer_name">Олень</string>
     <string name="quiz_animals_deer_hint"></string>
-    <string name="quiz_animals_deer_description">Deer (singular and plural) are the ruminant mammals forming the family Cervidae. Species in the family include white-tailed deer, mule deer such as black-tailed deer, elk, moose, red deer, reindeer (caribou), fallow deer, roe deer, pudú and chital. Male deer of all species (except the Chinese water deer) and female reindeer grow and shed new antlers each year. In this they differ from permanently horned animals such as antelope, which are in the same order as deer and may bear a superficial resemblance to them.</string>
+    <string name="quiz_animals_deer_description">Оле́невые, или оле́ньи (лат. Cervidae) — семейство парнокопытных млекопитающих, содержащее 51 современный вид[1]. Оленевые распространены в Евразии, Северной и Южной Америке, а также были завезены человеком в Австралию и Новую Зеландию. Величина оленевых варьирует между величиной зайца (пуду) и лошади (лось). Характерны разветвлённые рога, которые имеются в наличии только у самцов. Исключениями являются только водяной олень, у которого вообще нет рогов, и северный олень, у которого рога носят оба пола. Рога сбрасываются каждый год и вырастают заново.</string>
 	<string-array name="quiz_animals_deer_answers">
-    	<item>deer</item>
+    	<item>олень</item>
 	</string-array>
-	<string name="quiz_animals_deer_link">http://en.m.wikipedia.org/wiki/deer</string>
+	<string name="quiz_animals_deer_link">http://ru.m.wikipedia.org/wiki/Оленевые</string>
 	<string-array name="quiz_animals_deer_facts">
-	    <item>Brown</item>
-	    <item>Furry</item>
+	    <item>Коричневый</item>
+	    <item>Мохнатый</item>
 	</string-array>
 	
 	<!-- Fox -->
-	<string name="quiz_animals_fox_name">Fox</string>
+	<string name="quiz_animals_fox_name">Лиса</string>
     <string name="quiz_animals_fox_hint"></string>
-    <string name="quiz_animals_fox_description">Foxes are small-to-medium-sized, omnivorous mammals belonging to several genera of the Canidae family. Foxes are slightly smaller than a medium-size domestic dog, with a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush).</string>
+    <string name="quiz_animals_fox_description">Лиса́, или лиси́ца — общее название нескольких видов млекопитающих семейства псовых. Лишь 10 видов этой группы относят к роду собственно лисиц (лат. Vulpes). Наиболее известный и распространённый представитель — обыкновенная лисица (Vulpes vulpes). Лисицы встречаются в фольклоре многих народов по всему миру.</string>
 	<string-array name="quiz_animals_fox_answers">
-    	<item>fox</item>
+    	<item>лиса</item>
 	</string-array>
-	<string name="quiz_animals_fox_link">http://en.m.wikipedia.org/wiki/fox</string>
+	<string name="quiz_animals_fox_link">http://ru.m.wikipedia.org/wiki/Лиса</string>
 	<string-array name="quiz_animals_fox_facts">
-	    <item>Reddish/orange</item>
-	    <item>Furry</item>
+	    <item>Красноватая/Рыжая</item>
+	    <item>Можнатая</item>
 	</string-array>
 	
 	<!-- Frog -->
-	<string name="quiz_animals_frog_name">Frog</string>
+	<string name="quiz_animals_frog_name">Лягушка</string>
     <string name="quiz_animals_frog_hint"></string>
-    <string name="quiz_animals_frog_description">Frogs are a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order Anura (Ancient Greek an-, without + oura, tail). The oldest fossil "proto-frog" appeared in the early Triassic of Madagascar, but molecular clock dating suggests their origins may extend further back to the Permian, 265 million years ago. Frogs are widely distributed, ranging from the tropics to subarctic regions, but the greatest concentration of species diversity is found in tropical rainforests.</string>
+    <string name="quiz_animals_frog_description">Бесхво́стые (лат. Anura) — крупнейший отряд земноводных, насчитывающий около 6000 современных[1] и 84 ископаемых видов. Часто представителей отряда называют лягушками, однако использование этого термина осложнено тем, что лягушками в узком смысле называют лишь представителей семейства настоящих лягушек (Ranidae). Личинки бесхвостых земноводных — головастики.Древнейшие представители бесхвостых известны из отложений батского яруса среднеюрской эпохи (≈165 млн лет назад), однако ископаемые формы с характерными для них чертами описаны начиная с нижнего триаса. В настоящее время бесхвостые распространены по всему земному шару — от тропиков до субарктических регионов; наибольшее разнообразие сосредоточено во влажных тропических лесах.</string>
 	<string-array name="quiz_animals_frog_answers">
-    	<item>frog</item>
+    	<item>лягушка</item>
 	</string-array>
-	<string name="quiz_animals_frog_link">http://en.m.wikipedia.org/wiki/frog</string>
+	<string name="quiz_animals_frog_link">http://ru.m.wikipedia.org/wiki/Бесхвостые</string>
 	<string-array name="quiz_animals_frog_facts">
-	    <item>Various colors</item>
+	    <item>Разной окраски</item>
 	</string-array>
 	
 	<!-- Snake -->
-	<string name="quiz_animals_snake_name">Snake</string>
+	<string name="quiz_animals_snake_name">Змея</string>
     <string name="quiz_animals_snake_hint"></string>
-    <string name="quiz_animals_snake_description">Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes that can be distinguished from legless lizards by their lack of eyelids and external ears. Like all squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads with their highly mobile jaws.</string>
+    <string name="quiz_animals_snake_description">Зме́и (лат. Serpentes) — подотряд пресмыкающихся отряда чешуйчатые. Живые змеи найдены на всех континентах, кроме Антарктиды и нескольких крупных островов, таких как Ирландия и Новая Зеландия, а также множества мелких островов Атлантического океана и центральной части Тихого океана. Некоторые змеи ядовиты, но неядовитые представлены бóльшим количеством видов. Ядовитые пользуются ядом в первую очередь для охоты (чтобы убить жертву), а не для самозащиты. Яд некоторых видов достаточно силён, чтобы убить человека. Неядовитые змеи либо заглатывают добычу целиком (ужи), либо предварительно убивают (удушают) её (полозы, удавы). Самые крупные известные змеи из ныне живущих на Земле — сетчатый питон и водяной удав анаконда. Длина самых мелких змей из ныне живущих — Leptotyphlops carlae — не превышает 10 сантиметров. Размер большинства змей не превышает одного метра.</string>
 	<string-array name="quiz_animals_snake_answers">
-    	<item>snake</item>
+    	<item>змея</item>
 	</string-array>
-	<string name="quiz_animals_snake_link">http://en.m.wikipedia.org/wiki/snake</string>
+	<string name="quiz_animals_snake_link">http://ru.m.wikipedia.org/wiki/Змеи</string>
 	<string-array name="quiz_animals_snake_facts">
-	    <item>Various colors</item>
+	    <item>Разной окраски</item>
 	</string-array>
 	
 	<!-- Wolf -->
-	<string name="quiz_animals_wolf_name">Wolf</string>
+	<string name="quiz_animals_wolf_name">Волк</string>
     <string name="quiz_animals_wolf_hint"></string>
-    <string name="quiz_animals_wolf_description">The gray wolf or grey wolf (Canis lupus) also known as the timber wolf, or western wolf, is a canid native to the wilderness and remote areas of North America, Eurasia, and northern, eastern and western Africa. It is the largest extant member of its family, with males averaging 43–45 kg (95–99 lb), and females 36–38.5 kg (79–85 lb). Like the red wolf, it is distinguished from other Canis species by its larger size and less pointed features, particularly on the ears and muzzle. Its winter fur is long and bushy, and predominantly a mottled gray in color, although nearly pure white, red, or brown to black also occur.</string>
+    <string name="quiz_animals_wolf_description">Волк, или серый волк, или обыкновенный волк (лат. Canis lupus) — вид хищных млекопитающих из семейства псовых (Canidae). Наряду с койотом (Canis latrans) и шакалом (Canis aureus) составляет небольшой род волков (Canis). Кроме того, как показывают результаты изучения последовательности ДНК и дрейфа генов, является прямым предком домашней собаки, которая обычно рассматривается как подвид волка (Canis lupus familiaris). Волк — один из самых крупных современных животных в своём семействе: длина его тела (без учёта хвоста) может достигать 160 см, длина хвоста — до 52 см, высота в холке — до 90 см; масса тела может доходить до 80 кг.</string>
 	<string-array name="quiz_animals_wolf_answers">
-    	<item>wolf</item>
+    	<item>волк</item>
 	</string-array>
-	<string name="quiz_animals_wolf_link">http://en.m.wikipedia.org/wiki/wolf</string>
+	<string name="quiz_animals_wolf_link">http://ru.m.wikipedia.org/wiki/Волк</string>
 	<string-array name="quiz_animals_wolf_facts">
-	    <item>Greyish</item>
-	    <item>Furry</item>
+	    <item>Серый</item>
+	    <item>Мохнатый</item>
 	</string-array>
 	
 	<!-- Squirrel -->
-	<string name="quiz_animals_squirrel_name">Squirrel</string>
+	<string name="quiz_animals_squirrel_name">Белка</string>
     <string name="quiz_animals_squirrel_hint"></string>
-    <string name="quiz_animals_squirrel_description">Squirrels are members of the family Sciuridae, consisting of small or medium-size rodents. The family includes tree squirrels, ground squirrels, chipmunks, marmots (including woodchucks), flying squirrels, and prairie dogs. Squirrels are indigenous to the Americas, Eurasia, and Africa, and have been introduced to Australia. The earliest known squirrels date from the Eocene and are most closely related to the mountain beaver and to the dormouse among living rodent families.</string>
+    <string name="quiz_animals_squirrel_description">Бе́личьи (устар. Бе́лковые, лат. Sciuridae) — семейство млекопитающих отряда грызунов.</string>
 	<string-array name="quiz_animals_squirrel_answers">
-    	<item>squirrel</item>
+    	<item>белка</item>
 	</string-array>
-	<string name="quiz_animals_squirrel_link">http://en.m.wikipedia.org/wiki/squirrel</string>
+	<string name="quiz_animals_squirrel_link">http://ru.m.wikipedia.org/wiki/squirrel</string>
 	<string-array name="quiz_animals_squirrel_facts">
-	    <item>Reddish/brown</item>
-	    <item>Furry</item>
+	    <item>Рыжеватая/Коричневая</item>
+	    <item>Можнатая</item>
 	</string-array>
 	
 	<!-- Hedgehog -->
-	<string name="quiz_animals_hedgehog_name">Hedgehog</string>
+	<string name="quiz_animals_hedgehog_name">Ёж</string>
     <string name="quiz_animals_hedgehog_hint"></string>
-    <string name="quiz_animals_hedgehog_description">A hedgehog is any of the spiny mammals of the subfamily Erinaceinae, which is in the order Erinaceomorpha. There are seventeen species of hedgehog in five genera, found through parts of Europe, Asia, Africa and New Zealand (by introduction). There are no hedgehogs native to Australia, and no living species native to the Americas.</string>
+    <string name="quiz_animals_hedgehog_description">Настоящие ежи (лат. Erinaceinae) — подсемейство млекопитающих семейства ежовых. Для ежей характерно плотное телосложение, очень короткий хвост и короткие, широко расставленные ноги. Спина и в значительной мере бока покрыты твёрдыми колючими иглами вперемешку с редкими тонкими волосками. Иглы представляют собой видоизменённые волосы. Они не выпадают, кроме тех случаев, когда ёж болен или меняет детские иглы на взрослые. Под кожей почти сплошным слоем расположены продольные и кольцевые мышцы, при сокращении которых ёж свертывается в клубок.</string>
 	<string-array name="quiz_animals_hedgehog_answers">
-    	<item>hedgehog</item>
+    	<item>ёж</item>
 	</string-array>
-	<string name="quiz_animals_hedgehog_link">http://en.m.wikipedia.org/wiki/hedgehog</string>
+	<string name="quiz_animals_hedgehog_link">http://ru.m.wikipedia.org/wiki/Настоящие_ежи</string>
 	<string-array name="quiz_animals_hedgehog_facts">
-	    <item>Spiky</item>
+	    <item>Колючий</item>
 	</string-array>
 	
 	<!-- Mouse -->
-	<string name="quiz_animals_mouse_name">Mouse</string>
+	<string name="quiz_animals_mouse_name">Мышь</string>
     <string name="quiz_animals_mouse_hint"></string>
-    <string name="quiz_animals_mouse_description">A mouse (plural: mice) is a small mammal belonging to the order of rodents, characteristically having a pointed snout, small rounded ears, a body-length scaly tail and a high breeding rate. The best known mouse species is the common house mouse (Mus musculus). It is also a popular pet. In some places, certain kinds of field mice are also common. They are known to invade homes for food and occasionally shelter.</string>
+    <string name="quiz_animals_mouse_description">Домовые мыши (лат. Mus) — род грызунов семейства Мышиные.Домовые мыши имеют небольшие размеры. Длина тела взрослых животных 6,5—12 см, хвоста до 10,5 см. Масса не превышает 30 грамм. Морда укороченная, уши относительно большие. Окраска верха тела более тёмная чем нижняя.</string>
 	<string-array name="quiz_animals_mouse_answers">
-    	<item>mouse</item>
+    	<item>мышь</item>
 	</string-array>
-	<string name="quiz_animals_mouse_link">http://en.m.wikipedia.org/wiki/mouse</string>
+	<string name="quiz_animals_mouse_link">http://ru.m.wikipedia.org/wiki/Домовые_мыши</string>
 	<string-array name="quiz_animals_mouse_facts">
 	</string-array>
 	
 	<!-- Rat -->
-	<string name="quiz_animals_rat_name">Rat</string>
+	<string name="quiz_animals_rat_name">Крыса</string>
     <string name="quiz_animals_rat_hint"></string>
-    <string name="quiz_animals_rat_description">Rats are various medium-sized, long-tailed rodents of the superfamily Muroidea. "True rats" are members of the genus Rattus, the most important of which to humans are the black rat, Rattus rattus, and the brown rat, Rattus norvegicus. Many members of other rodent genera and families are also referred to as rats, and share many characteristics with true rats.</string>
+    <string name="quiz_animals_rat_description">Кры́сы (лат. Rattus) — род грызунов семейства мышей. Включает в себя не менее 64 видов.Длина тела 8—30 см, длина хвоста равна длине тела или больше её, масса от 37—39 граммов (Rattus exulans) до 400—420 граммов (некоторые экземпляры серой крысы могут достигать 500 граммов). В окраске тела преобладают тёмно-серые или серо-бурые тона, однако встречаются жёлтые, красные и оранжевые оттенки[2]. Пальцы на лапах подвижные — это компенсирует недостаточное развитие мозолей, необходимых для лазания.</string>
 	<string-array name="quiz_animals_rat_answers">
-    	<item>rat</item>
+    	<item>крыса</item>
 	</string-array>
-	<string name="quiz_animals_rat_link">http://en.m.wikipedia.org/wiki/rat</string>
+	<string name="quiz_animals_rat_link">http://ru.m.wikipedia.org/wiki/Крысы</string>
 	<string-array name="quiz_animals_rat_facts">
 	</string-array>
 	
 	<!-- Rabbit -->
-	<string name="quiz_animals_rabbit_name">Rabbit</string>
+	<string name="quiz_animals_rabbit_name">Кролик</string>
     <string name="quiz_animals_rabbit_hint"></string>
-    <string name="quiz_animals_rabbit_description">Rabbits are small mammals in the family Leporidae of the order Lagomorpha, found in several parts of the world. There are eight different genera in the family classified as rabbits, including the European rabbit (Oryctolagus cuniculus), cottontail rabbits (genus Sylvilagus; 13 species), and the Amami rabbit (Pentalagus furnessi, an endangered species on Amami Ōshima, Japan). There are many other species of rabbit, and these, along with pikas and hares, make up the order Lagomorpha. The male is called a buck and the female is a doe; a young rabbit is a kitten or kit.</string>
+    <string name="quiz_animals_rabbit_description">Кро́лики — общее название нескольких родов млекопитающих из семейства зайцевых (в том числе и домашних кроликов); живут в среднем около 10 лет. Кролики чётко отличаются от зайцев в плане своей альтрициальности — их детёныши рождаются слепыми и лысыми, растут в норах. Детёныши зайцев рождаются с шерстью и со способностью видеть. Все кролики, за исключением американского кролика, живут в подземных норах, часто глубоких и сложных; в то время как зайцы живут в простых гнёздах, которые расположены на земле (так же делают и американские кролики). Зайцы, вдобавок, обычно не живут группами. Зайцы в целом больше чем кролики, их уши длиннее, и они имеют на своём мехе чёрные отметки. Зайцы до сих пор не приручены — кролики же часто выступают в качестве домашних питомцев.</string>
 	<string-array name="quiz_animals_rabbit_answers">
-    	<item>rabbit</item>
+    	<item>кролиу</item>
 	</string-array>
-	<string name="quiz_animals_rabbit_link">http://en.m.wikipedia.org/wiki/rabbit</string>
+	<string name="quiz_animals_rabbit_link">http://ru.m.wikipedia.org/wiki/Кролики</string>
 	<string-array name="quiz_animals_rabbit_facts">
-	    <item>Furry</item>
-	    <item>Cute</item>
+	    <item>Мохнатый</item>
+	    <item>Милый</item>
 	</string-array>
 	
 </resources>

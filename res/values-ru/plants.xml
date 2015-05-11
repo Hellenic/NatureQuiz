@@ -1,79 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Plants -->
-    <string name="quiz_plants_name">Plants</string>
-    <string name="quiz_plants_description">Test how well you know the most common plants!</string>
-    <string name="quiz_plants_link">http://en.m.wikipedia.org/wiki/Plants</string>
+    <string name="quiz_plants_name">Растения</string>
+    <string name="quiz_plants_description">Проверь, как ты знаешь растения!</string>
+    <string name="quiz_plants_link">http://ru.m.wikipedia.org/wiki/Растения</string>
     
     <!-- Plants / Levels -->
     
     <!-- Thistle -->
-    <string name="quiz_plants_thistle_name">Thistle</string>
+    <string name="quiz_plants_thistle_name">Чертополо́х</string>
     <string name="quiz_plants_thistle_hint"></string>
-    <string name="quiz_plants_thistle_description">Thistle is the common name of a group of flowering plants characterized by leaves with sharp prickles on the margins, mostly in the family Asteraceae. Prickles often occur all over the plant – on surfaces such as those of the stem and flat parts of leaves. These are an adaptation that protects the plant against herbivorous animals, discouraging them from feeding on the plant. Typically, an involucre with a clasping shape of a cup or urn subtends each of a thistle\'s flowerheads.</string>
+    <string name="quiz_plants_thistle_description">Чертополо́х (лат. Cárduus) — род растений семейства Астровые, или Сложноцветные, распространённых в Европе, Азии и Северной Африке. Большая часть представителей рода — колючие травянистые растения. Некоторыми видами чертополоха питаются личинки бабочек — гусеницы.</string>
 	<string-array name="quiz_plants_thistle_answers">
-    	<item>thistle</item>
+    	<item>Чертополо́х</item>
 	</string-array>
-	<string name="quiz_plants_thistle_link">http://en.m.wikipedia.org/wiki/thistle</string>
+	<string name="quiz_plants_thistle_link">http://ru.m.wikipedia.org/wiki/Чертополо́х</string>
 	<string-array name="quiz_plants_thistle_facts">
 	</string-array>
 	
 	<!-- Mugwort -->
-    <string name="quiz_plants_mugwort_name">Mugwort</string>
+    <string name="quiz_plants_mugwort_name">Полы́нь</string>
     <string name="quiz_plants_mugwort_hint"></string>
-    <string name="quiz_plants_mugwort_description">Mugwort is a common name for several species of aromatic plants in the genus Artemisia. In Europe, mugwort most often refers to the species Artemisia vulgaris, or common mugwort. While other species are sometimes referred to by more specific common names, they may be called simply "mugwort" in many contexts. For example, one species, Artemisia argyi, is often called "mugwort" in the context of traditional Asian medicine but may be also referred to by the more specific name "Chinese mugwort".</string>
+    <string name="quiz_plants_mugwort_description">Полы́нь обыкнове́нная, чернобы́льник, чернобы́ль (лат. Artemísia vulgáris) — вид многолетних травянистых растений рода Полынь семейства Астровые (Asteraceae). Полынь обыкновенная распространена повсюду в Европе, в Передней и Центральной Азии, Северной Африке. Занесена и прижилась в Северной Америке. В России растёт по всей территории (на Дальнем Востоке только в бассейне Амура). Растёт по заброшенным полям, пастбищам и пустошам, вдоль дорог, по берегам водоёмов. Рудеральное растение. Трудно выводимый сорняк.</string>
 	<string-array name="quiz_plants_mugwort_answers">
-    	<item>mugwort</item>
+    	<item>Полы́нь</item>
 	</string-array>
-	<string name="quiz_plants_mugwort_link">http://en.m.wikipedia.org/wiki/mugwort</string>
+	<string name="quiz_plants_mugwort_link">http://ru.m.wikipedia.org/wiki/Полынь_обыкновенная</string>
 	<string-array name="quiz_plants_mugwort_facts">
 	</string-array>
 	
 	<!-- Juniper -->
-    <string name="quiz_plants_juniper_name">Juniper</string>
+    <string name="quiz_plants_juniper_name">Можжеве́льник</string>
     <string name="quiz_plants_juniper_hint"></string>
-    <string name="quiz_plants_juniper_description">Junipers are coniferous plants in the genus Juniperus /dʒuːˈnɪpərəs/ of the cypress family Cupressaceae. Depending on taxonomic viewpoint, between 50 and 67 species of juniper are widely distributed throughout the Northern Hemisphere, from the Arctic, south to tropical Africa in the Old World, and to the mountains of Central America.</string>
+    <string name="quiz_plants_juniper_description">Можжеве́льник (лат. Juníperus) — род вечнозелёных хвойных кустарников и деревьев семейства Кипарисовые (Cupressaceae). Представители рода распространены в Северном полушарии от Арктики до субтропических горных районов, за исключением можжевельника восточно-африканского (Juniperus procera), распространённого в Африке до 18° южной широты. Большинство видов имеет небольшие ареалы, приуроченные к определённым горным странам или горным системам, и замещаются за пределами их другими, хотя и близкими, но хорошо различимыми видами. Только немногие, как, например, можжевельник обыкновенный (Juniperus communis), имеют весьма обширные ареалы.</string>
 	<string-array name="quiz_plants_juniper_answers">
-    	<item>juniper</item>
+    	<item>Можжеве́льник</item>
 	</string-array>
-	<string name="quiz_plants_juniper_link">http://en.m.wikipedia.org/wiki/juniper</string>
+	<string name="quiz_plants_juniper_link">http://ru.m.wikipedia.org/wiki/Можжевельник</string>
 	<string-array name="quiz_plants_juniper_facts">
 	</string-array>
 	
 	<!-- Willowherb -->
-    <string name="quiz_plants_willowherb_name">Willowherb</string>
+    <string name="quiz_plants_willowherb_name">Кипрей</string>
     <string name="quiz_plants_willowherb_hint"></string>
-    <string name="quiz_plants_willowherb_description">Epilobium is a genus in the family Onagraceae, containing about 160-200 species of flowering plants with a worldwide distribution. They are generally abundant in the subarctic, temperate and subantarctic regions, whereas in the subtropics and tropics they are restricted to the cool montane biomes, such as the New Guinea Highlands where they are plentiful.</string>
+    <string name="quiz_plants_willowherb_description">Кипрей (лат. Epilobium) — род трав или полукустарников семейства Кипрейные (Onagraceae). Ранее в род кипрей включались и растения рода Иван-чай (лат. Chamaenerion). Кипрей — высокая, иногда выше человеческого роста, трава. Листья у кипрея цельные, противоположные или разбросанные по стеблю так, что через них нельзя провести правильной винтовой линии. Цветы в углах листьев или образуют верхушечную кисть; построены по четверному плану; тычинок 8. Тёмно-розовые довольно крупные цветы её собраны длинными верхушечными кистями. Нижняя завязь четырёхгранная, превращается в очень длинную коробочку тоже четырёхгранную, которая лопается на 4 створки, начиная сверху, и выпускает множество семян, разлетающихся с помощью длинных волосков, на них находящихся. Длинноволосые мелкие семена разносятся ветром на далёкие расстояния.</string>
 	<string-array name="quiz_plants_willowherb_answers">
-    	<item>willowherb</item>
+    	<item>Кипрей</item>
     	<item>epilobium</item>
 	</string-array>
-	<string name="quiz_plants_willowherb_link">http://en.m.wikipedia.org/wiki/willowherb</string>
+	<string name="quiz_plants_willowherb_link">http://ru.m.wikipedia.org/wiki/Кипрей</string>
 	<string-array name="quiz_plants_willowherb_facts">
 	</string-array>
 	
 	<!-- Milfoil -->
-    <string name="quiz_plants_milfoil_name">Achillae Millefolium</string>
+    <string name="quiz_plants_milfoil_name">Тысячелистник обыкновенный</string>
     <string name="quiz_plants_milfoil_hint"></string>
-    <string name="quiz_plants_milfoil_description">Achillea millefolium, known commonly as yarrow /\ˈjæroʊ/ or common yarrow, is a flowering plant in the family Asteraceae. It is native to temperate regions of the Northern Hemisphere in Asia, Europe, and North America. In New Mexico and southern Colorado, it is called plumajillo (Spanish for \'little feather\') from its leaf shape and texture. In antiquity, yarrow was known as herbal militaris, for its use in staunching the flow of blood from wounds. Other common names for this species include gordaldo, nosebleed plant, old man\'s pepper, devil\'s nettle, sanguinary, milfoil, soldier\'s woundwort, thousand-leaf, and thousand-seal.</string>
+    <string name="quiz_plants_milfoil_description">Тысячели́стник обыкнове́нный, или Поре́зная трава́ (лат. Achilléa millefólium) — многолетнее травянистое растение; вид рода Тысячелистник (Achillea) семейства Астровые, или Сложноцветные (Asteraceae), типовой вид этого рода. Используется как лекарственное, пряное, декоративное и медоносное растение.</string>
 	<string-array name="quiz_plants_milfoil_answers">
-    	<item>milfoil</item>
-    	<item>yarrow</item>
-    	<item>achillea millefolium</item>
+    	<item>Тысячелистник</item>
+    	 <item>Тысячелистник обыкновенный</item>
 	</string-array>
-	<string name="quiz_plants_milfoil_link">http://en.m.wikipedia.org/wiki/Achillea_millefolium</string>
+	<string name="quiz_plants_milfoil_link">http://ru.m.wikipedia.org/wiki/Тысячелистник_обыкновенный</string>
 	<string-array name="quiz_plants_milfoil_facts">
 	</string-array>
 	
 	<!-- Burdock -->
-    <string name="quiz_plants_burdock_name">Burdock</string>
+    <string name="quiz_plants_burdock_name">Лопу́х</string>
     <string name="quiz_plants_burdock_hint"></string>
-    <string name="quiz_plants_burdock_description">Arctium is a genus of biennial plants commonly known as burdock, family Asteraceae. Native to the Old World, several species have been widely introduced worldwide.</string>
+    <string name="quiz_plants_burdock_description">Лопу́х (лат. Árctium) — род двулетних растений семейства Астровые, или Сложноцветные. Растения хорошо распознаются по своим соцветиям-корзинкам, у которых наружные листочки шиловидно-заострённые, крючковатые на концах. Благодаря этим крючкам обёртки сильно запутываются в шерсти, легко пристают к одежде.</string>
 	<string-array name="quiz_plants_burdock_answers">
-	    <item>arctium</item>
-    	<item>burdock</item>
+	<item>arctium</item>
+    	<item>Лопу́х</item>
 	</string-array>
-	<string name="quiz_plants_burdock_link">http://en.m.wikipedia.org/wiki/burdock</string>
+	<string name="quiz_plants_burdock_link">http://ru.m.wikipedia.org/wiki/Лопух</string>
 	<string-array name="quiz_plants_burdock_facts">
 	</string-array>
 	

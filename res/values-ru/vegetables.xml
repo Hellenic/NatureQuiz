@@ -1,179 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Vegetables -->
-    <string name="quiz_vegetables_name">Vegetables</string>
-    <string name="quiz_vegetables_description">Test how well you know the most common and healthy vegetables!</string>
-    <string name="quiz_vegetables_link">http://en.m.wikipedia.org/wiki/Vegetable</string>
+    <string name="quiz_vegetables_name">Овощи</string>
+    <string name="quiz_vegetables_description">Проверь, как ты знаешь вкусные и полезные овощи!</string>
+    <string name="quiz_vegetables_link">http://ru.m.wikipedia.org/wiki/Овощи</string>
     
     <!-- Vegetables / Levels -->
 	
 	<!-- Potato -->
-    <string name="quiz_vegetables_potato_name">Potato</string>
+    <string name="quiz_vegetables_potato_name">Карто́фель</string>
     <string name="quiz_vegetables_potato_hint"></string>
-    <string name="quiz_vegetables_potato_description">The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum L. The word &quot;potato&quot; may refer either to the plant itself or the edible tuber. In the Andes, where the species is indigenous, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region approximately four centuries ago, and have since become an integral part of much of the world\'s food supply. It is the world\'s fourth-largest food crop, following maize, wheat, and rice.</string>
+    <string name="quiz_vegetables_potato_description">Карто́фель, Паслён клубненосный (лат. Solánum tuberósum) — вид многолетних клубненосных травянистых растений из рода Паслён (Solanum) семейства Паслёновые (Solanaceae). Клубни картофеля являются важным продуктом питания, в отличие от ядовитых плодов, содержащих гликоалкалоид соланин. Клубни картофеля имеют свойство зеленеть при хранении на свету, что является индикатором повышенного содержания соланина в них. Употребление в пищу одного позеленевшего клубня вместе с кожурой может привести к серьёзному отравлению. Другим индикатором повышенного содержания яда в картофеле является горьковатый вкус.</string>
 	<string-array name="quiz_vegetables_potato_answers">
-    	<item>potato</item>
+    	<item>Карто́фель</item>
 	</string-array>
-	<string name="quiz_vegetables_potato_link">http://en.m.wikipedia.org/wiki/potato</string>
+	<string name="quiz_vegetables_potato_link">http://ru.m.wikipedia.org/wiki/Картофель</string>
 	<string-array name="quiz_vegetables_potato_facts">
 	</string-array>
 	
 	<!-- carrot -->
-    <string name="quiz_vegetables_carrot_name">Carrot</string>
+    <string name="quiz_vegetables_carrot_name">Морковь</string>
     <string name="quiz_vegetables_carrot_hint"></string>
-    <string name="quiz_vegetables_carrot_description">The carrot (Daucus carota subsp. sativus) is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist. It has a crisp texture when fresh. The most commonly eaten part of a carrot is a taproot, although the greens are sometimes eaten as well. It is a domesticated form of the wild carrot Daucus carota, native to Europe and southwestern Asia. The domestic carrot has been selectively bred for its greatly enlarged and more palatable, less woody-textured edible taproot. </string>
+    <string name="quiz_vegetables_carrot_description">Морко́вь (лат. Daúcus) — род растений семейства Зонтичные (Apiaceae). Морковь — двулетнее растение (редко одно- или многолетнее), в первый год жизни образует розетку листьев и корнеплод, во второй год жизни — семенной куст и семена. 
+Широко распространена, в том числе в средиземноморских странах, Африке, Австралии, Новой Зеландии и Америке. </string>
 	<string-array name="quiz_vegetables_carrot_answers">
-    	<item>carrot</item>
+    	<item>Морковь</item>
 	</string-array>
-	<string name="quiz_vegetables_carrot_link">http://en.m.wikipedia.org/wiki/carrot</string>
+	<string name="quiz_vegetables_carrot_link">http://ru.m.wikipedia.org/wiki/Морковь</string>
 	<string-array name="quiz_vegetables_carrot_facts">
-	    <item>Orange</item>
+	    <item>Оранжевого цвета</item>
 	</string-array>
 	
 	<!-- Pea -->
-    <string name="quiz_vegetables_pea_name">Pea</string>
+    <string name="quiz_vegetables_pea_name">Горох</string>
     <string name="quiz_vegetables_pea_hint"></string>
-    <string name="quiz_vegetables_pea_description">The pea is most commonly the small spherical seed or the seed-pod of the pod fruit Pisum sativum. Each pod contains several peas. Pea pods are botanically fruit, since they contain seeds and developed from the ovary of a (pea) flower. The name is also used to describe other edible seeds from the Fabaceae such as the pigeon pea (Cajanus cajan), the cowpea (Vigna unguiculata), and the seeds from several species of Lathyrus.</string>
+    <string name="quiz_vegetables_pea_description">Горо́х (лат. Písum) — род травянистых растений семейства Бобовые (Fabaceae).Виды рода Горох — однолетние травы со слабыми вьющимися стеблями. Листья перистые и заканчиваются ветвистыми усиками, с помощью которых они цепляются за другие растения. Прилистники особенно велики. Цветки с венчиком мотылькового типа. Родовым отличительным признаком в цветке служит трёхрёберный столбик с желобком внизу и пучком волосков вверху.</string>
 	<string-array name="quiz_vegetables_pea_answers">
-    	<item>pea</item>
+    	<item>Горох</item>
 	</string-array>
-	<string name="quiz_vegetables_pea_link">http://en.m.wikipedia.org/wiki/pea</string>
+	<string name="quiz_vegetables_pea_link">http://ru.m.wikipedia.org/wiki/Горох</string>
 	<string-array name="quiz_vegetables_pea_facts">
-	    <item>Green</item>
+	    <item>Зеленый</item>
 	</string-array>
 	
 	<!-- Cabbage -->
-    <string name="quiz_vegetables_cabbage_name">Cabbage</string>
+    <string name="quiz_vegetables_cabbage_name">Капуста</string>
     <string name="quiz_vegetables_cabbage_hint"></string>
-    <string name="quiz_vegetables_cabbage_description">Cabbage (Brassica oleracea or variants) is a leafy green or purple biennial plant, grown as an annual vegetable crop for its dense-leaved heads. Closely related to other cole crops, such as broccoli, cauliflower, and brussels sprouts, it descends from B. oleracea var. oleracea, a wild field cabbage. Cabbage heads generally range from 0.5 to 4 kilograms (1 to 9 lb), and can be green, purple and white. It is a multi-layered vegetable.</string>
+    <string name="quiz_vegetables_cabbage_description">Капу́ста огоро́дная (лат. Brássica olerácea) — двулетнее растение, сельскохозяйственная культура; вид рода Капуста (лат. Brassica) семейства Капустные (Крестоцветные).Капуста принадлежит к числу важнейших овощных растений. Она введена в культуру, по-видимому, в доисторические времена. Археологические раскопки свидетельствуют о том, что капусту люди стали использовать со времён каменного и бронзового веков. Возделывали капусту древние египтяне, а позднее освоили технологию её выращивания древние греки и римляне, им было известно всего от 3 до 10 сортов капусты.</string>
 	<string-array name="quiz_vegetables_cabbage_answers">
-    	<item>cabbage</item>
+    	<item>Капуста</item>
 	</string-array>
-	<string name="quiz_vegetables_cabbage_link">http://en.m.wikipedia.org/wiki/cabbage</string>
+	<string name="quiz_vegetables_cabbage_link">http://ru.m.wikipedia.org/wiki/Капуста_огородная</string>
 	<string-array name="quiz_vegetables_cabbage_facts">
 	</string-array>
 	
 	<!-- cucumber -->
-    <string name="quiz_vegetables_cucumber_name">Cucumber</string>
+    <string name="quiz_vegetables_cucumber_name">Огурец</string>
     <string name="quiz_vegetables_cucumber_hint"></string>
-    <string name="quiz_vegetables_cucumber_description">Cucumber (Cucumis sativus) is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cylindrical fruits that are used as culinary vegetables. There are three main varieties of cucumber: slicing, pickling, and burpless. Within these varieties, several different cultivars have emerged. The cucumber is originally from Southern Asia, but now grows on most continents. Many different varieties are traded on the global market.</string>
+    <string name="quiz_vegetables_cucumber_description">Огуре́ц обыкнове́нный, или Огурец посевно́й (лат. Cucumis sativus) — однолетнее травянистое растение, вид рода Огурец (Cucumis) семейства Тыквенные (Cucurbitaceae). Огурец появился в культуре более 6 тысяч лет назад. Родина этого вида — тропические и субтропические районы Индии, подножия Гималаев, где он до сих пор растёт в естественных условиях. Упомянут в Библии как овощ Египта (Чис. 11:5). Эта культура была известна уже грекам, от которых перешла к римлянам, и в эпоху Карла Великого была распространена уже по Средней Европе.</string>
 	<string-array name="quiz_vegetables_cucumber_answers">
-    	<item>cucumber</item>
+    	<item>Огурец</item>
 	</string-array>
-	<string name="quiz_vegetables_cucumber_link">http://en.m.wikipedia.org/wiki/cucumber</string>
+	<string name="quiz_vegetables_cucumber_link">http://ru.m.wikipedia.org/wiki/Огурец_обыкновенный</string>
 	<string-array name="quiz_vegetables_cucumber_facts">
-	    <item>Green</item>
+	    <item>Зеленый</item>
 	</string-array>
 	
 	<!-- onion -->
-    <string name="quiz_vegetables_onion_name">Onion</string>
+    <string name="quiz_vegetables_onion_name">Лук</string>
     <string name="quiz_vegetables_onion_hint"></string>
-    <string name="quiz_vegetables_onion_description">The onion (Allium cepa L.) (Latin \'cepa\' = onion), also known as the bulb onion or common onion, is used as a vegetable and is the most widely cultivated species of the genus Allium. This genus also contains several other species variously referred to as onions and cultivated for food, such as the Japanese bunching onion (A. fistulosum), the Egyptian onion (A. ×proliferum), and the Canada onion (A. canadense).</string>
+    <string name="quiz_vegetables_onion_description">Лук ре́пчатый (лат. Állium cépa) — многолетнее травянистое растение, вид рода Лук (Allium) семейства Луковые (Alliaceae), широко распространённая овощная культура. В настоящее время лук репчатый является одной из важнейших овощных культур. Луковицы и листья используются как приправа в консервной промышленности, к салатам, винегретам, грибам, овощным и мясным блюдам, а также как пряно-витаминная закуска и вкусовая добавка к супам, соусам, подливкам, фаршам. Чаще всего лук употребляется в сыром виде или поджаренным на сале или растительном масле до золотистого цвета. Сырой лук отлично дополняет колбасные и мясные изделия, творог, сыры, хлеб с салом.</string>
 	<string-array name="quiz_vegetables_onion_answers">
-    	<item>onion</item>
+    	<item>лук</item>
 	</string-array>
-	<string name="quiz_vegetables_onion_link">http://en.m.wikipedia.org/wiki/onion</string>
+	<string name="quiz_vegetables_onion_link">http://ru.m.wikipedia.org/wiki/Лук_репчатый</string>
 	<string-array name="quiz_vegetables_onion_facts">
 	</string-array>
 	
 	<!-- tomato -->
-    <string name="quiz_vegetables_tomato_name">Tomato</string>
+    <string name="quiz_vegetables_tomato_name">Томат</string>
     <string name="quiz_vegetables_tomato_hint"></string>
-    <string name="quiz_vegetables_tomato_description">The tomato is the edible, often red fruit/berry of the nightshade Solanum lycopersicum, commonly known as a tomato plant. The species originated in the South American Andes and its use as a food originated in Mexico, and spread throughout the world following the Spanish colonization of the Americas. Its many varieties are now widely grown, sometimes in greenhouses in cooler climates.</string>
+    <string name="quiz_vegetables_tomato_description">Тома́т (лат. Solánum lycopérsicum) — однолетнее или многолетнее травянистое растение, вид рода Паслён (Solanum) семейства Паслёновые. Возделывается как овощная культура. Плод томата (ягода) в разговорной речи называется помидо́р. Название помидор происходит от итал. pomo d\'oro — золотое яблоко. Настоящее название было у ацтеков — томатль, французы переделали его в фр. tomate (томат).</string>
 	<string-array name="quiz_vegetables_tomato_answers">
-    	<item>tomato</item>
+    	<item>Томат</item>
+        <item>Помидор</item>
 	</string-array>
-	<string name="quiz_vegetables_tomato_link">http://en.m.wikipedia.org/wiki/tomato</string>
+	<string name="quiz_vegetables_tomato_link">http://ru.m.wikipedia.org/wiki/Томат</string>
 	<string-array name="quiz_vegetables_tomato_facts">
-	    <item>It\'s red.</item>
+	    <item>Красного цвета</item>
 	</string-array>
 	
 	<!-- rhubarb -->
-    <string name="quiz_vegetables_rhubarb_name">Rhubarb</string>
+    <string name="quiz_vegetables_rhubarb_name">Ревень</string>
     <string name="quiz_vegetables_rhubarb_hint"></string>
-    <string name="quiz_vegetables_rhubarb_description">Rhubarb (Rheum rhabarbarum) is a species of plant in the family Polygonaceae. It is a herbaceous perennial growing from short, thick rhizomes. It produces large leaves that are somewhat triangular, with long fleshy petioles. and small flowers grouped in large compound leafy greenish-white to rose-red inflorescences. Grows during the summer. Especially popular on pies or as a jam.</string>
+    <string name="quiz_vegetables_rhubarb_description">Реве́нь (лат. Rhéum) — род травянистых растений семейства Гречишные. Культура ревеня наиболее распространена в Англии и США Из культурных сортов наиболее излюблены: исполинский, виктория, королевский и красный ранний, или тобольский; первые два подходящи уже потому, что редко цветут (цветение останавливает рост листьев). Климат России ревень переносит вполне хорошо и в большинстве случаев перезимовывает без покрышки; только самые нежные сорта его в более северной полосе России требуют защиты от морозов в виде земляной насыпи и слоя соломы или листьев над головками корней. Ревень любит свежую, глубокую, богатую почву с непроницаемой подпочвой (глубокие чернозёмные суглинки наиболее пригодны).</string>
 	<string-array name="quiz_vegetables_rhubarb_answers">
-    	<item>rhubarb</item>
+    	<item>Ревень</item>
 	</string-array>
-	<string name="quiz_vegetables_rhubarb_link">http://en.m.wikipedia.org/wiki/rhubarb</string>
+	<string name="quiz_vegetables_rhubarb_link">http://ru.m.wikipedia.org/wiki/Ревень</string>
 	<string-array name="quiz_vegetables_rhubarb_facts">
 	</string-array>
 	
 	<!-- redish -->
-    <string name="quiz_vegetables_redish_name">redish</string>
+    <string name="quiz_vegetables_redish_name">Редис</string>
     <string name="quiz_vegetables_redish_hint"></string>
-    <string name="quiz_vegetables_redish_description">The radish (Raphanus sativus) is an edible root vegetable of the Brassicaceae family that was domesticated in Europe in pre-Roman times. Radishes are grown and consumed throughout the world, being mostly eaten raw as a crunchy salad vegetable. They have numerous varieties, varying in size, flavor, color and the length of time they take to mature.</string>
+    <string name="quiz_vegetables_redish_description">Реди́с — однолетние или двулетние растения из рода Редька семейства Капустные. Редис с точки зрения классификации — группа разновидностей вида Редька посевная (Raphanus sativus).Редис — съедобное растение и выращивается как овощ во многих странах мира. Его название происходит от лат. radix — корень. В пищу обычно употребляют корнеплоды, которые имеют диаметр от 2,5 см и покрыты тонкой кожей, окрашенной в красный, розовый или бело-розовый цвет. Корнеплоды редиса имеют острый вкус. Такой типичный вкус редиса обусловлен содержанием в растении горчичного масла, которое при давлении преобразуется в гликозид горчичного масла.</string>
 	<string-array name="quiz_vegetables_redish_answers">
-    	<item>redish</item>
+    	<item>редис</item>
 	</string-array>
-	<string name="quiz_vegetables_redish_link">http://en.m.wikipedia.org/wiki/radish</string>
+	<string name="quiz_vegetables_redish_link">http://ru.m.wikipedia.org/wiki/Редис</string>
 	<string-array name="quiz_vegetables_redish_facts">
 	</string-array>
 	
 	<!-- bean -->
-    <string name="quiz_vegetables_bean_name">Bean</string>
+    <string name="quiz_vegetables_bean_name">Боб</string>
     <string name="quiz_vegetables_bean_hint"></string>
-    <string name="quiz_vegetables_bean_description">Bean is a common name for large plant seeds of several genera of the family Fabaceae (alternately Leguminosae) which are used for human or animal food.</string>
+    <string name="quiz_vegetables_bean_description">Бобы́ — термин, как правило обозначающий плоды либо семена любой зернобобовой культуры, а также растений семейства Бобовые (Fabaceae) в целом. Мировым лидером в производстве сухих бобов является Индия, затем следует Бразилия и Мьянма, соответственно с 4,87, 3,2 и 3,03 миллионов тонн. В производстве зеленых бобов лидирует Китай с 13 миллионами тонн.</string>
 	<string-array name="quiz_vegetables_bean_answers">
-    	<item>bean</item>
+    	<item>Боб</item>
 	</string-array>
-	<string name="quiz_vegetables_bean_link">http://en.m.wikipedia.org/wiki/bean</string>
+	<string name="quiz_vegetables_bean_link">http://ru.m.wikipedia.org/wiki/Бобы</string>
 	<string-array name="quiz_vegetables_bean_facts">
 	</string-array>
 	
 	<!-- pepper -->
-    <string name="quiz_vegetables_pepper_name">Pepper</string>
+    <string name="quiz_vegetables_pepper_name">Перец</string>
     <string name="quiz_vegetables_pepper_hint"></string>
-    <string name="quiz_vegetables_pepper_description">Bell pepper, also known as sweet pepper or a pepper (in the United Kingdom, Canada and Ireland) and capsicum /ˈkæpsɨkəm/ (in India, Pakistan, Bangladesh, Australia, Singapore and New Zealand), is a cultivar group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colors, including red, yellow, orange, green, chocolate/brown, vanilla/white, and purple. Bell peppers are sometimes grouped with less pungent pepper varieties as "sweet peppers." Peppers are native to Mexico, Central America and northern South America. The ribs and seeds inside bell peppers may be consumed, but some find the taste to be bitter.</string>
+    <string name="quiz_vegetables_pepper_description">Пе́рец стручко́вый, кра́сный пе́рец, ка́псикум одноле́тний, перец однолетний, пе́рец овощно́й (лат. Cápsicum ánnuum) — вид однолетних травянистых растений рода Capsicum семейства Паслёновые, или его плоды. Сельскохозяйственная культура. Сорта перца стручкового делят на сладкие и горькие, последним острый вкус придаёт алкалоид капсаицин. Разновидности с плодами сладкого вкуса — пе́рец сла́дкий. Существует множество сортотипов, например, пе́рец болга́рский.</string>
 	<string-array name="quiz_vegetables_pepper_answers">
-    	<item>pepper</item>
+    	<item>Перец</item>
 	</string-array>
-	<string name="quiz_vegetables_pepper_link">http://en.m.wikipedia.org/wiki/Bell_pepper</string>
+	<string name="quiz_vegetables_pepper_link">http://ru.m.wikipedia.org/wiki/Перец_овощной</string>
 	<string-array name="quiz_vegetables_pepper_facts">
-	    <item>It\'s red.</item>
-	</string-array>
+	   	</string-array>
 	
 	<!-- pumpkin -->
-    <string name="quiz_vegetables_pumpkin_name">Pumpkin</string>
+    <string name="quiz_vegetables_pumpkin_name">Тыква</string>
     <string name="quiz_vegetables_pumpkin_hint"></string>
-    <string name="quiz_vegetables_pumpkin_description">A pumpkin is a cultivar of the squash plant, most commonly of Cucurbita pepo, that is round, with smooth, slightly ribbed skin and deep yellow to orange coloration. The thick shell contains the seeds and pulp. Some exceptionally large cultivars of squash with similar appearance have also been derived from Cucurbita maxima. Specific cultivars of winter squash derived from other species, including C. argyrosperma, and C. moschata, are also sometimes called "pumpkin". In New Zealand and Australian English, the term "pumpkin" generally refers to the broader category called winter squash elsewhere.</string>
+    <string name="quiz_vegetables_pumpkin_description">Ты́ква (лат. Cucurbita) — род травянистых растений семейства Тыквенные (Cucurbitaceae). Под словом «тыква» в России обычно понимается вид Тыква обыкновенная (Cucurbita pepo).В отличие от декоративных, съедобные сорта тыквы употребляются в пищу. После тепловой обработки варёная или печёная тыква очень хорошо усваивается организмом и широко применяется даже для детского и диетического питания. Также хорошо используется для салатов и гарниров.</string>
 	<string-array name="quiz_vegetables_pumpkin_answers">
-    	<item>pumpkin</item>
+    	<item>Тыква</item>
 	</string-array>
-	<string name="quiz_vegetables_pumpkin_link">http://en.m.wikipedia.org/wiki/pumpkin</string>
+	<string name="quiz_vegetables_pumpkin_link">http://ru.m.wikipedia.org/wiki/Тыква</string>
 	<string-array name="quiz_vegetables_pumpkin_facts">
 	</string-array>
 	
 	<!-- garlic -->
-    <string name="quiz_vegetables_garlic_name">Garlic</string>
+    <string name="quiz_vegetables_garlic_name">Чеснок</string>
     <string name="quiz_vegetables_garlic_hint"></string>
-    <string name="quiz_vegetables_garlic_description">Allium sativum, commonly known as garlic, is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and rakkyo. With a history of human use of over 7,000 years, garlic is native to central Asia, and has long been a staple in the Mediterranean region, as well as a frequent seasoning in Asia, Africa, and Europe. It was known to Ancient Egyptians, and has been used for both culinary and medicinal purposes.</string>
+    <string name="quiz_vegetables_garlic_description">Чесно́к (лат. Állium satívum) — многолетнее травянистое растение; вид рода Лук семейства Амариллисовые (Amaryllidaceae) подсемейства Луковые (Allioideae), ранее помещался в самостоятельное ныне упразднённое семейство Луковые (Alliaceae).
+Популярная овощная культура у многих народов по всему миру, что объясняется острым вкусом и характерным запахом, связанным с наличием в составе растения тиоэфиров (органических сульфидов). Дольки луковицы («зубчики») используются в качестве посевного материала, употребляются в пищу (в сыром или приготовленном виде, как приправа). Листья, стрелки и цветоносы также съедобны и употребляются в основном у молодых растений.</string>
 	<string-array name="quiz_vegetables_garlic_answers">
-    	<item>garlic</item>
+    	<item>Чеснок</item>
 	</string-array>
-	<string name="quiz_vegetables_garlic_link">http://en.m.wikipedia.org/wiki/garlic</string>
+	<string name="quiz_vegetables_garlic_link">http://ru.m.wikipedia.org/wiki/Чеснок</string>
 	<string-array name="quiz_vegetables_garlic_facts">
 	</string-array>
 	
 	<!-- beetroot -->
-    <string name="quiz_vegetables_beetroot_name">Beetroot</string>
+    <string name="quiz_vegetables_beetroot_name">Свёкла</string>
     <string name="quiz_vegetables_beetroot_hint"></string>
-    <string name="quiz_vegetables_beetroot_description">The beetroot is the taproot portion of the beet plant, also known in North America as the table beet, garden beet, red or golden beet, or informally simply as the beet. It is several of the cultivated varieties of beet (Beta vulgaris) grown for their edible taproots and their greens.</string>
+    <string name="quiz_vegetables_beetroot_description">Свёкла (лат. Béta) — род одно-, дву- и многолетних травянистых растений семейства Амарантовые (ранее род относился к семейству Маревые). Самыми известными представителями являются: свёкла обыкновенная, сахарная свёкла, кормовая свёкла. В обиходе все они носят общее название — свёкла. В юго-западных областях России и на большей части Украины растение называют буряк или бурак (также и в Белоруссии — белор. бурак). Встречается на всех континентах кроме Антарктиды.</string>
 	<string-array name="quiz_vegetables_beetroot_answers">
-    	<item>beetroot</item>
+    	<item>Свёкла</item>
 	</string-array>
-	<string name="quiz_vegetables_beetroot_link">http://en.m.wikipedia.org/wiki/beetroot</string>
+	<string name="quiz_vegetables_beetroot_link">http://ru.m.wikipedia.org/wiki/Свёкла</string>
 	<string-array name="quiz_vegetables_beetroot_facts">
 	</string-array>
 	
 	<!-- marrow -->
-    <string name="quiz_vegetables_marrow_name">Marrow</string>
+    <string name="quiz_vegetables_marrow_name">Кабачок</string>
     <string name="quiz_vegetables_marrow_hint"></string>
-    <string name="quiz_vegetables_marrow_description">Cucurbita (Latin for gourd) is a genus of herbaceous vine in the gourd family Cucurbitaceae, also known as cucurbits, native to the Andes and Mesoamerica. Five species are grown worldwide for their edible fruit, variously known as squash, pumpkin, or gourd depending on species, variety, and local parlance, and seeds. First cultivated in the Americas before being brought to Europe after the discovery of the New World, plants in the genus Cucurbita are important sources of human food, beverages, and oil. Other kinds of gourd, also called bottle-gourds, are native to Africa and belong to the genus Lagenaria, which is in the same family and subfamily as Cucurbita but in a different tribe. These gourds are used as utensils or vessels.</string>
+    <string name="quiz_vegetables_marrow_description">Кабачок (уменьш. от укр. кабак, «тыква», из тюркских языков) — кустовая разновидность тыквы обыкновенной с продолговатыми плодами, без плетей. Плоды могут быть зелёного, жёлтого, чёрного или белого цвета. Мякоть нежная и быстроваркая, употребляется также и в сыром виде (в салатах).</string>
 	<string-array name="quiz_vegetables_marrow_answers">
-    	<item>marrow</item>
+    	<item>Кабачок</item>
 	</string-array>
-	<string name="quiz_vegetables_marrow_link">http://en.m.wikipedia.org/wiki/Cucurbita</string>
+	<string name="quiz_vegetables_marrow_link">http://ru.m.wikipedia.org/wiki/Кабачок</string>
 	<string-array name="quiz_vegetables_marrow_facts">
 	</string-array>
 

@@ -1,157 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Fish -->
-    <string name="quiz_fish_name">Fish</string>
-    <string name="quiz_fish_description">Test how well you know the most common animals!</string>
-    <string name="quiz_fish_link">http://en.m.wikipedia.org/wiki/Fish</string>
+    <string name="quiz_fish_name">Рыбы</string>
+    <string name="quiz_fish_description">Проверь, как ты знаешь рыб!</string>
+    <string name="quiz_fish_link">http://ru.m.wikipedia.org/wiki/Рыбы</string>
     
     <!-- Fish / Levels -->
     
     <!-- Perch -->
-    <string name="quiz_fish_perch_name">Perch</string>
+    <string name="quiz_fish_perch_name">Окунь</string>
     <string name="quiz_fish_perch_hint"></string>
-    <string name="quiz_fish_perch_description">Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae. The perch, of which there are three species in different geographical areas, lend their name to a large order of vertebrates: the Perciformes, from the Greek perke meaning spotted, and the Latin forma meaning shape. Many species of freshwater gamefish more or less resemble perch, but belong to different genera. In fact, the exclusively saltwater dwelling red drum is often referred to as a red perch, though by definition perch are freshwater fish. Though many fish are referred to as perch as a common name, to be considered a true perch, the fish must be of the family Percidae.</string>
+    <string name="quiz_fish_perch_description">Пресново́дные о́куни (лат. Perca) — род рыб семейства окунёвых (Percidae), отряда окунеобразных (Perciformes). Окуни держатся преимущественно в местах с тихим течением, мелкие и средние летом — преимущественно на небольшой глубине, в местах сильно заросших водяными растениями, где они устраивают засаду на мелкую рыбу, крупные окуни всегда держатся в более глубоких местах. В некоторых озёрах, например, Псковском, Чудском, Онежском, Боденском, речной окунь встречается на глубине 80 метров. Окуни держатся обыкновенно небольшими стайками, но перед нерестом и в конце лета собираются в большие стаи. Окуни хищны и крайне прожорливы, поедают самых разнообразных гидробионтов: мелких рыбок, рыбью икру, насекомых, червей, головастиков, ракообразных, особенно бокоплавов, а крупные — и речных раков.</string>
 	<string-array name="quiz_fish_perch_answers">
-    	<item>perch</item>
+    	<item>окунь</item>
 	</string-array>
-	<string name="quiz_fish_perch_link">http://en.m.wikipedia.org/wiki/perch</string>
+	<string name="quiz_fish_perch_link">http://ru.m.wikipedia.org/wiki/Пресноводные_окуни</string>
 	<string-array name="quiz_fish_perch_facts">
 	</string-array>
 	
 	<!-- Pike -->
-    <string name="quiz_fish_pike_name">Pike / Northern Pike</string>
+    <string name="quiz_fish_pike_name">Щука</string>
     <string name="quiz_fish_pike_hint"></string>
-    <string name="quiz_fish_pike_description">The northern pike (Esox lucius), known simply as a pike in Britain, Ireland, most of Canada, and most parts of the USA, (also called jackfish or simply "northern" in the Upper Midwest of the USA and in Manitoba, Canada), is a species of carnivorous fish of the genus Esox (the pikes). They are typical of brackish and fresh waters of the Northern Hemisphere (i.e. holarctic in distribution). Pike grow to a relatively large size: the average length is about 70–120 cm (28–47 in). Even so, lengths of up to 150 cm (59 in) and weights of 25 kg (55 lb) are very rare. The heaviest specimen known so far was caught in 1983 at an abandoned stone quarry in Germany, where the species is called Hecht. This specimen was 147 cm (58 in) long and weighed 31 kg (68 lb). T</string>
+    <string name="quiz_fish_pike_description">Щука, или обыкновенная щука (лат. Esox lucius) — рыба семейства щуковых. Распространена в пресных водах Евразии и Северной Америки. Живёт обычно в прибрежной зоне, в водных зарослях, в непроточных или слабопроточных водах. Может также встречаться и в опреснённых частях морей — например в Финском, Рижском и Куршском заливах Балтийского моря, в Таганрогском заливе Азовского моря. Щука хорошо выдерживает кислую реакцию воды, может комфортно жить в водоёмах с pH 4,75. При снижении содержания кислорода до 3,0—2,0 мг/литр наступает угнетение дыхания, поэтому в заморных водоёмах зимой щука часто погибает.</string>
 	<string-array name="quiz_fish_pike_answers">
-    	<item>pike</item>
-    	<item>northern pike</item>
+    	<item>щука</item>   
 	</string-array>
-	<string name="quiz_fish_pike_link">http://en.m.wikipedia.org/wiki/Northern_pike</string>
+	<string name="quiz_fish_pike_link">http://ru.m.wikipedia.org/wiki/Щука</string>
 	<string-array name="quiz_fish_pike_facts">
 	</string-array>
 	
 	<!-- Pike perch -->
-    <string name="quiz_fish_pikeperch_name">Pike perch</string>
+    <string name="quiz_fish_pikeperch_name">Судак</string>
     <string name="quiz_fish_pikeperch_hint"></string>
-    <string name="quiz_fish_pikeperch_description">Sander (formerly known as Stizostedion) is a genus of fish in the Percidae (perch) family. They are also known as "pike-perch" because of their resemblance to fish in the unrelated Esocidae (pike) family. Local names for the fish have been the basis for many geographical names, like River Suda in Russia or Saunags village on the Baltic coast.</string>
+    <string name="quiz_fish_pikeperch_description">Судаки́ (лат. Sander) — род рыб из семейства окуневых (Percidae). В водах России два вида — обыкновенный судак и волжский судак (бёрш). На Дону и на побережье Азовского моря распространено местное название судака — сула́. От названия рыбы происходит ряд географических названий и фамилий — см. Саунагс (Латвия), Цандер.</string>
 	<string-array name="quiz_fish_pikeperch_answers">
-    	<item>pikeperch</item>
+    	<item>судак</item>
 	</string-array>
-	<string name="quiz_fish_pikeperch_link">http://en.m.wikipedia.org/wiki/pikeperch</string>
+	<string name="quiz_fish_pikeperch_link">http://ru.m.wikipedia.org/wiki/Судаки</string>
 	<string-array name="quiz_fish_pikeperch_facts">
 	</string-array>
 	
 	<!-- Salmon -->
-    <string name="quiz_fish_salmon_name">Salmon</string>
+    <string name="quiz_fish_salmon_name">Лосось</string>
     <string name="quiz_fish_salmon_hint"></string>
-    <string name="quiz_fish_salmon_description">Salmon /ˈsæmən/ is the common name for several species of fish in the family Salmonidae. Other fish in the same family include trout, char, grayling and whitefish. Salmon are native to tributaries of the North Atlantic (genus Salmo) and Pacific Ocean (genus Oncorhynchus). Many species of salmon have been introduced into non-native environments such as the Great Lakes of North America and Patagonia in South America. Salmon are intensively produced in aquaculture in many parts of the world.</string>
+    <string name="quiz_fish_salmon_description">Атлантический лосось, или озёрный лосось, или сёмга (лат. Salmo salar) — вид лососёвых рыб из рода лососей. Может достигать длины 1,5 м и массы 43 кг. Максимальная продолжительность жизни 13 лет.Проходная форма обитает в северной части Атлантического океана. Заходит на нерест в реки от Португалии и Испании до Баренцева моря. Озёрная форма сёмги в России обитает в озёрах Кольского полуострова и Карелии: Имандра, системе озёр Куйто (Верхнее, Среднее и Нижнее), Нюкозеро, Каменное, Выгозеро, Сегозеро, Сандал, Янисъярви, Онежское и Ладожское, в Европе — в Норвегии, Швеции, Финляндии.</string>
 	<string-array name="quiz_fish_salmon_answers">
-    	<item>salmon</item>
+    	<item>лосось</item>
+        <item>сёмга</item>
 	</string-array>
-	<string name="quiz_fish_salmon_link">http://en.m.wikipedia.org/wiki/salmon</string>
+	<string name="quiz_fish_salmon_link">http://ru.m.wikipedia.org/wiki/Сёмга</string>
 	<string-array name="quiz_fish_salmon_facts">
 	</string-array>
 	
 	<!-- Trout -->
-    <string name="quiz_fish_trout_name">Trout</string>
+    <string name="quiz_fish_trout_name">Форель</string>
     <string name="quiz_fish_trout_hint"></string>
-    <string name="quiz_fish_trout_description">Trout is the name for a number of species of freshwater fish belonging to the genera Oncorhynchus, Salmo and Salvelinus, all of the subfamily Salmoninae of the family Salmonidae. The word trout is also used as part of the name of some non-salmonid fish such as Cynoscion nebulosus, the spotted seatrout or speckled trout.</string>
+    <string name="quiz_fish_trout_description">Форе́ль — общее название нескольких пресноводных видов и форм рыб, относящихся к семейству лососёвых (Salmonidae). Форели присутствуют в трёх из семи родов семейства: лососи (Salmo), который включает атлантические виды; тихоокеанские лососи (Oncorhynchus) и гольцы (Salvelinus).</string>
 	<string-array name="quiz_fish_trout_answers">
-    	<item>trout</item>
-    	<item>rainbow trout</item>
+    	<item>форель</item>
+    	<item>радужная форель</item>
 	</string-array>
-	<string name="quiz_fish_trout_link">http://en.m.wikipedia.org/wiki/trout</string>
+	<string name="quiz_fish_trout_link">http://ru.m.wikipedia.org/wiki/Форель</string>
 	<string-array name="quiz_fish_trout_facts">
 	</string-array>
 	
 	<!-- Burbot -->
-    <string name="quiz_fish_burbot_name">Burbot</string>
+    <string name="quiz_fish_burbot_name">Налим</string>
     <string name="quiz_fish_burbot_hint"></string>
-    <string name="quiz_fish_burbot_description">The burbot (Lota lota) or bubbot is the only gadiform (cod-like) freshwater fish. Also known as mariah, freshwater ling, the lawyer, coney-fish, and (misleadingly) eelpout, the burbot is closely related to the marine common ling and the cusk. It is the only member of the genus Lota.</string>
+    <string name="quiz_fish_burbot_description"> Нали́м, или обыкнове́нный нали́м (лат. Lota lota) — единственная исключительно пресноводная рыба отряда трескообразных (Gadiformes). Имеет промысловую ценность.Тело удлиненное, невысокое, округлое в передней части и сильно сжатое с боков - в задней. Голова уплощена, ее длина превышает максимальную высоту тела. Глаз маленький. Рот большой, полунижний, нижняя челюсть короче верхней. На челюстях и головке сошника имеются мелкие щетинковидные зубы, но на нёбе их нет. На подбородке имеется один непарный усик (составляющий 20—30% длины головы) и пара усиков на верхней челюсти.</string>
 	<string-array name="quiz_fish_burbot_answers">
-    	<item>Burbot</item>
+    	<item>налим</item>
 	</string-array>
-	<string name="quiz_fish_burbot_link">http://en.m.wikipedia.org/wiki/burbot</string>
+	<string name="quiz_fish_burbot_link">http://ru.m.wikipedia.org/wiki/Налим</string>
 	<string-array name="quiz_fish_burbot_facts">
 	</string-array>
 	
 	<!-- Bream -->
-    <string name="quiz_fish_bream_name">Bream</string>
+    <string name="quiz_fish_bream_name">Лещ</string>
     <string name="quiz_fish_bream_hint"></string>
-    <string name="quiz_fish_bream_description">"Bream (Listeni/ˈbrɪm/) is a general term for a number of species of freshwater and marine fish belonging to a variety of genera including: Abramis (e.g. A. brama, the common bream), Acanthopagrus, Argyrops, Blicca, Brama, Chilotilapia, Etelis, Lepomis, Gymnocranius, Lethrinus, Nemipterus, Pharyngochromis, Rhabdosargus or Scolopsis.
-
-Although species from all of these genera are called "bream", the term does not imply a degree of relatedness between these species. Fish termed "bream" tend to be narrow, deep bodied species. The name is a derivation of the Middle English word breme, of Old French origin."</string>
+    <string name="quiz_fish_bream_description">(Обыкновенный, восточный, дунайский) лещ (лат. Abramis brama); (молодые особи — подле́щики, старые в южных областях России — чебаки́, средние в южных областях России — киляки́) — единственный представитель рода лещей (Abramis) из семейства карповых (Cyprinidae), отряда карпообразных (Cypriniformes). Лещ держится группами, преимущественно в глубоких местах, поросших растениями. Осторожен и довольно сообразителен. Выпуклая форма рта идеально подходит для поиска пищи в мягком иле. Личинки питаются зоопланктоном. Мальки по достижении длины 30 мм переходят на питание бентосом. Питается личинками насекомых, трубочниками, ракушками и улитками. Также может употреблять в пищу водоросли.</string>
 	<string-array name="quiz_fish_bream_answers">
-    	<item>Bream</item>
+    	<item>Лещ</item>
 	</string-array>
-	<string name="quiz_fish_bream_link">http://en.m.wikipedia.org/wiki/bream</string>
+	<string name="quiz_fish_bream_link">http://ru.m.wikipedia.org/wiki/Лещ</string>
 	<string-array name="quiz_fish_bream_facts">
 	</string-array>
 	
 	<!-- Roach -->
-    <string name="quiz_fish_roach_name">Roach</string>
+    <string name="quiz_fish_roach_name">Плотва</string>
     <string name="quiz_fish_roach_hint"></string>
-    <string name="quiz_fish_roach_description">The roach (Rutilus rutilus), also known as the common roach, is a fresh and brackish water fish of the Cyprinidae family, native to most of Europe and western Asia. The name "roach" is not unique, but fishes called roach can be any species of the genera Rutilus and Hesperoleucus, depending on locality. The plural of the term is also roach.</string>
+    <string name="quiz_fish_roach_description">Плотва́ обыкнове́нная (плотва, тара́нь, во́бла, соро́га, бублица, плотица) (лат. Rutilus rutilus) — вид лучепёрых рыб из семейства карповых (Cyprinidae). Имеет много подвидов, из которых некоторые имеют собственные названия: тарань, вобла, сорога.
+В Сибири, как минимум в Западной её части, и на Урале общеупотребительное название плотвы — чебак. Чебак с желтыми глазами и узкий, Сорога — с красными глазами и широкая. В Архангельской области общеупотребительное название для обыкновенной плотвы — «сорога».</string>
 	<string-array name="quiz_fish_roach_answers">
-    	<item>Roach</item>
+    	<item>Плотва</item>
 	</string-array>
-	<string name="quiz_fish_roach_link">http://en.m.wikipedia.org/wiki/Common_roach</string>
+	<string name="quiz_fish_roach_link">http://ru.m.wikipedia.org/wiki/Обыкновенная_плотва</string>
 	<string-array name="quiz_fish_roach_facts">
 	</string-array>
 	
 	<!-- Whitefish -->
-    <string name="quiz_fish_whitefish_name">Whitefish</string>
+    <string name="quiz_fish_whitefish_name">Сиг</string>
     <string name="quiz_fish_whitefish_hint"></string>
-    <string name="quiz_fish_whitefish_description">Coregonus lavaretus is a species of freshwater whitefish, in the family Salmonidae. It is the type species of its genus Coregonus. There is much variation among the European whitefish forms, but in general they have a tapered body, a slightly protruding upper jaw and a fleshy dorsal fin that is typical of the salmon family. The snout is short and tapered, a fact that distinguishes this species from the two other North European Coregonus species, vendace (Coregonus albula) and the introduced peled (Coregonus peled). The former has a protuberant lower jaw while in the latter, the jaws are equal in length. The back is bluish green or brownish, the flanks silvery and the belly white. The fins are dark grey. This fish seldom grows more than 55 cm (22 in) long or exceeds 2 kg (4.4 lb) in weight.</string>
+    <string name="quiz_fish_whitefish_description">Обыкновенный сиг, или Сиг проходной (лат. Coregonus lavaretus) — чрезвычайно полиморфный вид рыб семейства лососёвых, занесённый в международную Красную Книгу. Oтличается особенно сильной изменчивостью, распадается на множество форм, сходных только по нижнему положению рта и большей, чем у чира (Coregonus nasus), голове с менее горбатым рылом. Число жаберных тычинок может изменяться от 15 до 60, они могут быть гладкими или зазубренными; тело бывает высокое или низкое, удлиненное. Эти сиги могут быть проходными, речными и озерными, крупными и мелкими, могут питаться донными планктонными организмами и быть хищниками.</string>
 	<string-array name="quiz_fish_whitefish_answers">
-    	<item>whitefish</item>
+    	<item>сиг</item>
 	</string-array>
-	<string name="quiz_fish_whitefish_link">http://en.m.wikipedia.org/wiki/Coregonus_lavaretus</string>
+	<string name="quiz_fish_whitefish_link">http://ru.m.wikipedia.org/wiki/Обыкновенный_сиг</string>
 	<string-array name="quiz_fish_whitefish_facts">
 	</string-array>
 	
 	<!-- Herring -->
-    <string name="quiz_fish_herring_name">Herring</string>
+    <string name="quiz_fish_herring_name">Сельдь</string>
     <string name="quiz_fish_herring_hint"></string>
-    <string name="quiz_fish_herring_description">Herring are forage fish, mostly belonging to the family Clupeidae. They often move in large schools around fishing banks and near the coast. The most abundant and commercially important species belong to the genus Clupea, found particularly in shallow, temperate waters of the North Pacific and the North Atlantic oceans, including the Baltic Sea, as well as off the west coast of South America. Three species of Clupea are recognised, and provide about 90% of all herrings captured in fisheries. Most abundant of all is the Atlantic herring, providing over half of all herring capture. Fishes called herring are also found in India, in the Arabian Sea, Indian Ocean and Bay of Bengal.</string>
+    <string name="quiz_fish_herring_description">Сельди (лат. Clupea) — род рыб из семейства сельдевых (лат. Clupeidae), обитают в северной части Атлантического и Тихого океанов, а также в Северном Ледовитом океане. Ценные промысловые рыбы. Область распространения сельди обнимает Атлантический океан (как у европейских, так и у североамериканских берегов), на север до южной Гренландии и Финнмарка, на юг до Бискайского залива; Балтийское море с его заливом (именно мелкая разновидность, называемая салакой), Финнмарк и Мурманский берег и Белое море (преимущественно у западного и южного берега); Тихий океан.</string>
 	<string-array name="quiz_fish_herring_answers">
-    	<item>herring</item>
+    	<item>сельдь</item>
 	</string-array>
-	<string name="quiz_fish_herring_link">http://en.m.wikipedia.org/wiki/herring</string>
+	<string name="quiz_fish_herring_link">http://ru.m.wikipedia.org/wiki/Сельди</string>
 	<string-array name="quiz_fish_herring_facts">
 	</string-array>
 	
 	<!-- Crab -->
-    <string name="quiz_fish_crab_name">Crab</string>
+    <string name="quiz_fish_crab_name">Краб</string>
     <string name="quiz_fish_crab_hint"></string>
-    <string name="quiz_fish_crab_description">Crabs are decapod crustaceans of the infraorder Brachyura, which typically have a very short projecting &quot;tail&quot; (abdomen) (Greek: βραχύς / brachys = short, οὐρά / οura = tail), usually entirely hidden under the thorax. They live in all the world\'s oceans, in fresh water, and on land, are generally covered with a thick exoskeleton and have a single pair of claws. Many other animals with similar names – such as hermit crabs, king crabs, porcelain crabs, horseshoe crabs and crab lice – are not true crabs.</string>
+    <string name="quiz_fish_crab_description">Кра́бы, или короткохво́стые ра́ки (лат. Brachyura) — инфраотряд десятиногих ракообразных. Крабы составляют более 20 % морских ракообразных, вылавливаемых, выращиваемых и продаваемых во всём мире, приблизительно 1,5 млн т в год. Ловля крабов осуществляется сетями, крабовыми ловушками и вручную.</string>
 	<string-array name="quiz_fish_crab_answers">
-    	<item>crab</item>
+    	<item>краб</item>
 	</string-array>
-	<string name="quiz_fish_crab_link">http://en.m.wikipedia.org/wiki/crab</string>
+	<string name="quiz_fish_crab_link">http://ru.m.wikipedia.org/wiki/Крабы</string>
 	<string-array name="quiz_fish_crab_facts">
 	</string-array>
 	
 	<!-- Crayfish -->
-    <string name="quiz_fish_crayfish_name">Crayfish</string>
+    <string name="quiz_fish_crayfish_name">Рак</string>
     <string name="quiz_fish_crayfish_hint"></string>
-    <string name="quiz_fish_crayfish_description">Crayfish, also known as crawfish, crawdads, freshwater lobsters, or mudbugs, are freshwater crustaceans resembling small lobsters, to which they are related; taxonomically, they are members of the superfamilies Astacoidea and Parastacoidea. They breathe through feather-like gills and are found in bodies of water. Some species are found in brooks and streams where there is fresh water running, while others thrive in swamps, ditches, and rice paddies. Most crayfish cannot tolerate polluted water, although some species such as Procambarus clarkii are hardier. Crayfish feed on living and dead animals and plants.</string>
+    <string name="quiz_fish_crayfish_description">Ракообра́зные (лат. Crustacea) — крупная группа членистоногих, в настоящее время рассматриваемая в ранге подтипа. К ракообразным относятся такие широко известные животные, как крабы, омары, широкопалый речной рак, креветки и криль. Описано около 73 000 видов. Ракообразные освоили практически все типы водоёмов. Большинство из них являются активно передвигающимися животными, однако существуют и неподвижные формы — морские жёлуди (балянусы) и морские уточки. Некоторые ракообразные обитают на суше (мокрицы, некоторые крабы и крабоиды), а в почве влажных тропических районов встречаются рачки-бокоплавы. Ряд таксонов характеризуется паразитическим образом жизни, их хозяевами выступают водные беспозвоночные и рыбы. Ракообразным посвящена наука карцинология.</string>
 	<string-array name="quiz_fish_crayfish_answers">
-    	<item>crayfish</item>
-    	<item>crawdad</item>
-	</string-array>
-	<string name="quiz_fish_crayfish_link">http://en.m.wikipedia.org/wiki/crayfish</string>
+    	<item>рак</item>
+    	</string-array>
+	<string name="quiz_fish_crayfish_link">http://ru.m.wikipedia.org/wiki/Ракообразные</string>
 	<string-array name="quiz_fish_crayfish_facts">
 	</string-array>
 	
 	<!-- Lobster -->
-    <string name="quiz_fish_lobster_name">Lobster</string>
+    <string name="quiz_fish_lobster_name">Омар</string>
     <string name="quiz_fish_lobster_hint"></string>
-    <string name="quiz_fish_lobster_description">Clawed lobsters comprise a family (Nephropidae, sometimes also Homaridae) of large marine crustaceans. They have long bodies with muscular tails, and live in crevices or burrows on the sea floor. Three of their five pairs of legs have claws, including the first pair, which are usually much larger than the others. Highly prized as seafood, lobsters are economically important, and are often one of the most profitable commodities in coastal areas they populate. Commercially important species include two species of Homarus from the northern Atlantic Ocean, and scampi – the northern-hemisphere genus Nephrops and the southern-hemisphere genus Metanephrops. Although several other groups of crustaceans have the word "lobster" in their names, the unqualified term "lobster" generally refers to the clawed lobsters of the family Nephropidae. Clawed lobsters are not closely related to spiny lobsters or slipper lobsters, which have no claws (chelae), or to squat lobsters. The closest living relatives of clawed lobsters are the reef lobsters and the three families of freshwater crayfish.</string>
+    <string name="quiz_fish_lobster_description">Ома́ры (лат. Nephropidae, иногда лат. Homaridae) — семейство крупных морских десятиногих ракообразных. Представители семейства омаров имеют большие клешненосные конечности, в остальном их форма подобна речным ракам. Истинных омаров отличают по наличию очень больших клешней на первой паре ног, и меньших на второй и третьей парах. Ярко выражен половой диморфизм — самцы намного крупнее самок. Брюшной отдел хорошо развит и его сегменты и придатки без труда различимы. Стенка тела представлена, как и у всех ракообразных, двумя слоями — экзоскелетом и эктодермальным эпидермисом, который и образует панцирь.</string>
 	<string-array name="quiz_fish_lobster_answers">
-    	<item>lobster</item>
+    	<item>омар</item>
 	</string-array>
-	<string name="quiz_fish_lobster_link">http://en.m.wikipedia.org/wiki/lobster</string>
+	<string name="quiz_fish_lobster_link">http://ru.m.wikipedia.org/wiki/Омары</string>
 	<string-array name="quiz_fish_lobster_facts">
 	</string-array>
 	

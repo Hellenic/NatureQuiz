@@ -1,16 +1,16 @@
 <resources>
     
     <!-- Strings related to Settings -->
-    <string name="title_activity_settings">предпочтения</string>
+    <string name="title_activity_settings">Настройки</string>
 
     <!-- General settings -->
-    <string name="pref_header_general">общий</string>
+    <string name="pref_header_general">Общие</string>
     
-    <string name="pref_localization_title">локализация</string>
+    <string name="pref_localization_title">Язык</string>
     <string-array name="pref_localization_titles">
-        <item>английский</item>
-        <item>финский</item>
-        <item>русский</item>
+        <item>Английский</item>
+        <item>Финский</item>
+        <item>Русский</item>
     </string-array>
     <string-array name="pref_localization_values">
         <item>en</item>

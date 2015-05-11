@@ -1,100 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Mushrooms -->
-    <string name="quiz_mushrooms_name">Mushrooms</string>
-    <string name="quiz_mushrooms_description">Test how well you know the most common delicious mushrooms!</string>
-    <string name="quiz_mushrooms_link">http://en.m.wikipedia.org/wiki/Mushrooms</string>
+    <string name="quiz_mushrooms_name">Грибы</string>
+    <string name="quiz_mushrooms_description">Проверь, как ты знаешь грибы!</string>
+    <string name="quiz_mushrooms_link">http://ru.m.wikipedia.org/wiki/Грибы</string>
     
     <!-- Mushrooms / Levels -->
     
     <!-- Cep -->
-    <string name="quiz_mushrooms_cep_name">Cep</string>
+    <string name="quiz_mushrooms_cep_name">Белый гриб</string>
     <string name="quiz_mushrooms_cep_hint"></string>
-    <string name="quiz_mushrooms_cep_description">Boletus edulis (English: cep, penny bun, porcino, or king bolete, usually called porcini) is a basidiomycete fungus, and the type species of the genus Boletus. Widely distributed in the Northern Hemisphere across Europe, Asia, and North America, it does not occur naturally in the Southern Hemisphere, although it has been introduced to southern Africa, Australia, and New Zealand. Several closely related European mushrooms formerly thought to be varieties or forms of B. edulis have been shown using molecular phylogenetic analysis to be distinct species, and others previously classed as separate species are conspecific with this species. The western North American species commonly known as the California king bolete (Boletus edulis var. grandedulis) is a large, darker-colored variant first formally identified in 2007.</string>
+    <string name="quiz_mushrooms_cep_description">Бе́лый гриб (лат. Boletus edulis), или борови́к (сокращённо: белый) — гриб из рода Боровик.В старину «грибами» называли главным образом съедобные грибы, в наибольшей мере это слово относилось к белому грибу как к наиболее ценному. Шляпка зрелого гриба диаметром 7—30 см (иногда до 50 см), выпуклая, у старых грибов плоско-выпуклая, редко распростёртая. Поверхность гладкая или морщинистая, в сухую погоду может растрескиваться, голая, может быть тонковойлочная (особенно у края), редко волокнисто-чешуйчатая. Во влажную погоду поверхность слегка слизистая, в сухую матовая или блестящая. Цвет кожицы — от красно-коричневого до почти белого, с возрастом темнеет, может также быть лимонно-жёлтых, оранжевых, пурпурных тонов, часто окраска неравномерная, со светлыми краями, иногда с узким чисто-белым или желтоватым ободком. Кожица приросшая, не отделяется от мякоти.</string>
 	<string-array name="quiz_mushrooms_cep_answers">
-    	<item>cep</item>
+    	<item>Белый гриб</item>
 	</string-array>
-	<string name="quiz_mushrooms_cep_link">http://en.m.wikipedia.org/wiki/Boletus_edulis</string>
+	<string name="quiz_mushrooms_cep_link">http://ru.m.wikipedia.org/wiki/Белый_гриб</string>
 	<string-array name="quiz_mushrooms_cep_facts">
-	    <item>Eatable</item>
 	</string-array>
 	
 	<!-- Morel -->
-    <string name="quiz_mushrooms_morel_name">Morel</string>
+    <string name="quiz_mushrooms_morel_name">Gyromitra esculenta</string>
     <string name="quiz_mushrooms_morel_hint"></string>
-    <string name="quiz_mushrooms_morel_description">Morchella, the true morels, is a genus of edible mushrooms closely related to anatomically simpler cup fungi. These distinctive mushrooms appear honeycomb-like in that the upper portion is composed of a network of ridges with pits between them. The ascocarps are prized by gourmet cooks, particularly for French cuisine. Commercial value aside, morels are hunted by thousands of people every year simply for their taste and the joy of the hunt.</string>
+    <string name="quiz_mushrooms_morel_description">Строчок обыкновенный (лат. Gyromitra esculenta) — вид сумчатых грибов рода Строчок (Gyromitra) семейства Дисциновые (Discinaceae) порядка Пецицевые (Pezizales); типовой вид рода. Широко распространён в Европе и Северной Америке. Сапротроф. Обитает на гарях, песчаных почвах. Преимущественно встречается под хвойными деревьями. Плодовые тела появляются в апреле-мае. Хотя данный гриб является условно съедобным,известны случаи отравления. Употребление строчка распространено в некоторых странах Европы и Северной Америки. В Италии его продажа запрещена.</string>
 	<string-array name="quiz_mushrooms_morel_answers">
-    	<item>morel</item>
+    	<item>строчок</item>
+    	<item>строчок обыкновенный</item>
 	</string-array>
-	<string name="quiz_mushrooms_morel_link">http://en.m.wikipedia.org/wiki/morel</string>
+	<string name="quiz_mushrooms_morel_link">http://ru.m.wikipedia.org/wiki/Строчок_обыкновенный</string>
 	<string-array name="quiz_mushrooms_morel_facts">
-	    <item>Eatable</item>
+	    <item>Съедобный</item>
 	</string-array>
 	
 	<!-- Chanterelle -->
-    <string name="quiz_mushrooms_chanterelle_name">Chanterelle</string>
+    <string name="quiz_mushrooms_chanterelle_name">Лиси́чка обыкнове́нная</string>
     <string name="quiz_mushrooms_chanterelle_hint"></string>
-    <string name="quiz_mushrooms_chanterelle_description">Cantharellus cibarius, commonly known as the chanterelle, golden chanterelle or girolle, is a fungus. It is probably the best known species of the genus Cantharellus, if not the entire family of Cantharellaceae. It is orange or yellow, meaty and funnel-shaped. On the lower surface, underneath the smooth cap, it has gill-like ridges that run almost all the way down its stipe, which tapers down seamlessly from the cap. It emits a fruity aroma, reminiscent of apricots and a mildly peppery taste (hence its German name, Pfifferling) and is considered an excellent edible mushroom.</string>
+    <string name="quiz_mushrooms_chanterelle_description">Лиси́чка обыкнове́нная, или Лисичка настоя́щая (лат. Cantharēllus cibārius) — вид грибов семейства лисичковых.  Образует микоризу с различными деревьями, наиболее часто с елью, сосной, дубом, буком. Встречается повсеместно в лесах умеренного климата, чаще в хвойных и смешанных лесах, во влажном мху, среди травы или под опадом. Образует плодовые тела, расположенные группами, часто очень многочисленными, часто появляется летом после грозовых дождей.</string>
 	<string-array name="quiz_mushrooms_chanterelle_answers">
-    	<item>chanterelle</item>
+    	<item>лисичка</item>
 	</string-array>
-	<string name="quiz_mushrooms_chanterelle_link">http://en.m.wikipedia.org/wiki/chanterelle</string>
+	<string name="quiz_mushrooms_chanterelle_link">http://ru.m.wikipedia.org/wiki/Лисичка_обыкновенная</string>
 	<string-array name="quiz_mushrooms_chanterelle_facts">
-	    <item>Eatable</item>
+	    <item>Съедобный</item>
 	</string-array>
 	
 	<!-- Fly agaric -->
-    <string name="quiz_mushrooms_flyagaric_name">Fly agaric</string>
+    <string name="quiz_mushrooms_flyagaric_name">Мухомо́р кра́сный</string>
     <string name="quiz_mushrooms_flyagaric_hint"></string>
-    <string name="quiz_mushrooms_flyagaric_description">Amanita muscaria, commonly known as the fly agaric or fly amanita, is a mushroom and psychoactive basidiomycete fungus, one of many in the genus Amanita. Native throughout the temperate and boreal regions of the Northern Hemisphere, Amanita muscaria has been unintentionally introduced to many countries in the Southern Hemisphere, generally as a symbiont with pine and birch plantations, and is now a true cosmopolitan species. It associates with various deciduous and coniferous trees.</string>
+    <string name="quiz_mushrooms_flyagaric_description">Мухомо́р кра́сный (лат. Amanita muscaria) — ядовитый психоактивный гриб рода Мухомор, или Аманита (лат. Amanita) порядка агариковых (лат. Agaricales), относится к базидиомицетам. Мухомор красный использовался как опьяняющее вещество и энтеоген в Сибири и имел религиозное значение в местной культуре. Во многих европейских языках название этого гриба происходит от старинного его способа применения — в качестве средства против мух (англ. fly agaric, нем. Fliegenpilz, фр. amanite tue-mouches), латинский видовой эпитет тоже происходит от слова «муха» (лат. musca). В славянских языках слово «мухомор» (польск. muchomor, болг. мухоморка, чеш. muchomůrka и др.) стало названием рода Amanita.</string>
 	<string-array name="quiz_mushrooms_flyagaric_answers">
-    	<item>flyagaric</item>
-    	<item>toadstool</item>
-	</string-array>
-	<string name="quiz_mushrooms_flyagaric_link">http://en.m.wikipedia.org/wiki/Amanita_muscaria</string>
+    	<item>мухомор</item>
+    	</string-array>
+	<string name="quiz_mushrooms_flyagaric_link">http://ru.m.wikipedia.org/wiki/Мухомор_красный</string>
 	<string-array name="quiz_mushrooms_flyagaric_facts">
-	    <item>Toxic</item>
+	    <item>Ядовитый</item>
 	</string-array>
 	
 	<!-- Annulated boletus -->
-    <string name="quiz_mushrooms_annulatedboletus_name">Boletus</string>
+    <string name="quiz_mushrooms_annulatedboletus_name">Боровик</string>
     <string name="quiz_mushrooms_annulatedboletus_hint"></string>
-    <string name="quiz_mushrooms_annulatedboletus_description">""Boletus is a genus of mushroom-producing fungi, comprising over 100 species. The genus Boletus was originally broadly defined and described by Carl Linnaeus in 1753, essentially containing all fungi with pores. Since then, other genera have been defined gradually, such as Tylopilus by Petter Adolf Karsten in 1881, and old names such as Leccinum have been resurrected or redefined.
-
-The genus Boletus contains many members which are edible and tasty, not the least of which is the famed Boletus edulis, though many others are eaten as well, such as B. badius, B. aereus and others. Many species, such as B. calopus, are bitter tasting and inedible, and others are toxic."</string>
+    <string name="quiz_mushrooms_annulatedboletus_description">Борови́к, или Бо́лет (Бо́летус) (лат. Bolētus) — род грибов семейства Болетовые (лат. Boletaceae). Боровиком называют также один из наиболее распространённых видов этого рода — Белый гриб. Некоторыми микологами к роду Боровик часто причисляются представители рода Моховик (лат. Xerocomus). Боровики издавна используются в пищу.</string>
 	<string-array name="quiz_mushrooms_annulatedboletus_answers">
-    	<item>boletus</item>
-    	<item>annulated boletus</item>
+    	<item>боровик</item>
+    	<item>болет</item>
 	</string-array>
-	<string name="quiz_mushrooms_annulatedboletus_link">http://en.m.wikipedia.org/wiki/Boletus</string>
+	<string name="quiz_mushrooms_annulatedboletus_link">http://ru.m.wikipedia.org/wiki/Боровик</string>
 	<string-array name="quiz_mushrooms_annulatedboletus_facts">
-	    <item>Toxic / Eatable</item>
+	    <item>Ядовитый/Съедобный</item>
 	</string-array>
 	
 	<!-- Russula -->
-    <string name="quiz_mushrooms_russula_name">Russula</string>
+    <string name="quiz_mushrooms_russula_name">Сырое́жка</string>
     <string name="quiz_mushrooms_russula_hint"></string>
-    <string name="quiz_mushrooms_russula_description">round 750 worldwide species of ectomycorrhizal mushrooms compose the genus Russula. They are typically common, fairly large, and brightly colored – making them one of the most recognizable genera among mycologists and mushroom collectors. Their distinguishing characteristics include a white to dark yellow spore print, brittle free white gills, and an absence of partial veil or volva tissue on the stem. Members of the related Lactarius genus have similar characteristics but emit a milky latex when their gills are broken. The genus was described by Christian Hendrik Persoon in 1796.</string>
+    <string name="quiz_mushrooms_russula_description"> (лат. Rússula, от лат. rússulus — красноватый) — род пластинчатых грибов семейства Сыроежковые (лат. Russulaceae). Большинство грибов этого рода съедобно, некоторые имеют горький вкус, однако он обычно исчезает после вымачивания и отваривания. Виды со жгуче-едкой мякотью несъедобны, их часто описывают как ядовитые. При употреблении в сыром виде они сильно раздражают слизистые оболочки, что может привести к рвоте, но такое действие нельзя считать отравлением в полном смысле.</string>
 	<string-array name="quiz_mushrooms_russula_answers">
-    	<item>russula</item>
+    	<item>Сырое́жка</item>
 	</string-array>
-	<string name="quiz_mushrooms_russula_link">http://en.m.wikipedia.org/wiki/russula</string>
+	<string name="quiz_mushrooms_russula_link">http://ru.m.wikipedia.org/wiki/Сырое́жка</string>
 	<string-array name="quiz_mushrooms_russula_facts">
-	    <item>Eatable</item>
+	    <item>Съедобный</item>
 	</string-array>
 	
 	<!-- Champignon -->
-    <string name="quiz_mushrooms_champignon_name">Champignon</string>
+    <string name="quiz_mushrooms_champignon_name">Шампиньо́н</string>
     <string name="quiz_mushrooms_champignon_hint"></string>
-    <string name="quiz_mushrooms_champignon_description">"Agaricus bisporus is an edible basidiomycete mushroom native to grasslands in Europe and North America. It has two color states while immature—white and brown—both of which have various names. When mature, it is known as Portobello mushroom.
-
-When immature and white—this mushroom may be known as common mushroom, button mushroom, white mushroom, cultivated mushroom, table mushroom, and champignon mushroom. When immature and brown—this mushroom may be known variously as Swiss brown mushroom, Roman brown mushroom, Italian brown, Italian mushroom, cremini or crimini mushroom, brown cap mushroom, or chestnut mushroom."</string>
+    <string name="quiz_mushrooms_champignon_description">Шампиньо́н двуспо́ровый (лат. Agaricus bisporus) — вид грибов рода шампиньонов. В природных условиях встречается сравнительно редко, обычно на местах, лишённых травы. Плодоносит большими группами на компостных кучах, в садах, около теплиц, в придорожных канавах.</string>
 	<string-array name="quiz_mushrooms_champignon_answers">
-    	<item>champignon</item>
+    	<item>Шампиньо́н</item>
 	</string-array>
-	<string name="quiz_mushrooms_champignon_link">http://en.m.wikipedia.org/wiki/champignon</string>
+	<string name="quiz_mushrooms_champignon_link">http://ru.m.wikipedia.org/wiki/Шампиньо́н</string>
 	<string-array name="quiz_mushrooms_champignon_facts">
-	    <item>Eatable</item>
+	    <item>Съедобный</item>
 	</string-array>
 	
 </resources>

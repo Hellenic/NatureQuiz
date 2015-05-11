@@ -1,132 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Fruits -->
-    <string name="quiz_fruits_name">Fruits</string>
-    <string name="quiz_fruits_description">Test how well you know the most common fruits!</string>
-    <string name="quiz_fruits_link">http://en.m.wikipedia.org/wiki/Fruits</string>
+    <string name="quiz_fruits_name">Фрукты</string>
+    <string name="quiz_fruits_description">Проверь, как ты знаешь фрукты!</string>
+    <string name="quiz_fruits_link">http://ru.m.wikipedia.org/wiki/Фрукт</string>
     
     <!-- Fruits / Levels -->
     
     <!-- Apple -->
-    <string name="quiz_fruits_apple_name">Apple</string>
+    <string name="quiz_fruits_apple_name">Яблоко</string>
     <string name="quiz_fruits_apple_hint"></string>
-    <string name="quiz_fruits_apple_description">The apple tree (Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.</string>
+    <string name="quiz_fruits_apple_description">Я́блоко — плод яблони, который употребляется в пищу в свежем виде, служит сырьём в кулинарии и для приготовления напитков. Считается, что родиной яблони является Центральная Азия. Наибольшее распространение получила яблоня домашняя. На сегодняшний день существует множество сортов этого вида яблони, произрастающих в различных климатических условиях.</string>
 	<string-array name="quiz_fruits_apple_answers">
-    	<item>apple</item>
+    	<item>яблоко</item>
 	</string-array>
-	<string name="quiz_fruits_apple_link">http://en.m.wikipedia.org/wiki/apple</string>
+	<string name="quiz_fruits_apple_link">http://ru.m.wikipedia.org/wiki/Яблоко</string>
 	<string-array name="quiz_fruits_apple_facts">
 	</string-array>
 	
 	<!-- Orange -->
-    <string name="quiz_fruits_orange_name">Orange</string>
+    <string name="quiz_fruits_orange_name">Апельсин</string>
     <string name="quiz_fruits_orange_hint"></string>
-    <string name="quiz_fruits_orange_description">"The orange (specifically, the sweet orange) is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. The fruit of the Citrus × sinensis is considered a sweet orange, (whereas the fruit of the Citrus × aurantium is considered a bitter orange).
-
-The orange is a hybrid, between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a simple backcrossed BC1 hybrid, but hybridized over multiple generations. The chloroplast genes, and therefore the maternal line, seem to be pomelo."</string>
+    <string name="quiz_fruits_orange_description">Апельси́н (лат. Cītrus sinēnsis) — плодовое дерево; вид рода Цитрус семейства Рутовые; а также плод этого дерева. Гибрид, возможно, мандарина (Citrus reticulata) и помело (Citrus maxima). Растение культивировалось в Китае ещё за 2,5 тысячи лет до н. э. В Европу было привезено португальскими мореплавателями. После этого быстро распространилась мода на выращивание апельсиновых деревьев; для этого стали строить специальные стеклянные сооружения, названные оранжереями (от фр. orange апельсин). Апельсиновые деревья растут по всему побережью Средиземного моря (а также в Центральной Америке).</string>
 	<string-array name="quiz_fruits_orange_answers">
-    	<item>orange</item>
+    	<item>апельсин</item>
 	</string-array>
-	<string name="quiz_fruits_orange_link">http://en.m.wikipedia.org/wiki/Orange_(fruit)</string>
+	<string name="quiz_fruits_orange_link">http://ru.m.wikipedia.org/wiki/Апельсин</string>
 	<string-array name="quiz_fruits_orange_facts">
 	</string-array>
 	
 	<!-- Lemon -->
-    <string name="quiz_fruits_lemon_name">Lemon</string>
+    <string name="quiz_fruits_lemon_name">Лимон</string>
     <string name="quiz_fruits_lemon_hint"></string>
-    <string name="quiz_fruits_lemon_description">The lemon (Citrus x limon) is a small evergreen tree native to Asia. The tree\'s ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, though the pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5\%% to 6\%% citric acid, which gives lemons a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie.</string>
+    <string name="quiz_fruits_lemon_description">Лимо́н (лат. Citrus limon) — вид небольших деревьев из рода Цитрус (Citrus) подтрибы Цитрусовые (Citreae) семейства Рутовые (Rutacea). Лимоном также называют плод этого растения.Плод длиной 6—9 см, диаметром 4—6 см, яйцевидный или овальный гесперидий, к обоим концам суженный, с соском на верхушке, светло-жёлтый, с трудно отделяющейся бугорчатой или ямчатой коркой, содержащей множество желёзок с эфирным маслом.</string>
 	<string-array name="quiz_fruits_lemon_answers">
-    	<item>lemon</item>
+    	<item>лимон</item>
 	</string-array>
-	<string name="quiz_fruits_lemon_link">http://en.m.wikipedia.org/wiki/lemon</string>
+	<string name="quiz_fruits_lemon_link">http://ru.m.wikipedia.org/wiki/Лимон</string>
 	<string-array name="quiz_fruits_lemon_facts">
 	</string-array>
 	
 	<!-- Banana -->
-    <string name="quiz_fruits_banana_name">Banana</string>
+    <string name="quiz_fruits_banana_name">Банан</string>
     <string name="quiz_fruits_banana_hint"></string>
-    <string name="quiz_fruits_banana_description">A banana is an edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa. (In some countries, bananas used for cooking may be called plantains.) The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind which may be green, yellow, red, purple, or brown when ripe. The fruits grow in clusters hanging from the top of the plant. Almost all modern edible parthenocarpic (seedless) bananas come from two wild species – Musa acuminata and Musa balbisiana. The scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa × paradisiaca for the hybrid Musa acuminata × M. balbisiana, depending on their genomic constitution. The old scientific name Musa sapientum is no longer used.</string>
+    <string name="quiz_fruits_banana_description">Банан — название съедобных плодов культивируемых видов рода Банан (Musa); обычно под таковыми понимают Musa acuminata и Musa × paradisiaca, а также Musa balbisiana, Musa fehi, Musa troglodytarum и ряд других. Также бананами могут называть плоды Ensete ventricosum (строго говоря, являющегося представителем другого рода семейства Банановые). С ботанической точки зрения банан является ягодой, многосеменной и толстокожей. У культурных форм часто отсутствуют семена, ненужные при вегетативном размножении. Имеют размеры до 15 см в длину и 3—4 см в диаметре. Соплодия могут состоять из 300 плодов и иметь массу до 50—60 кг.</string>
 	<string-array name="quiz_fruits_banana_answers">
-    	<item>banana</item>
+    	<item>банан</item>
 	</string-array>
-	<string name="quiz_fruits_banana_link">http://en.m.wikipedia.org/wiki/banana</string>
+	<string name="quiz_fruits_banana_link">http://ru.m.wikipedia.org/wiki/Банан</string>
 	<string-array name="quiz_fruits_banana_facts">
 	</string-array>
 	
 	<!-- Cherry -->
-    <string name="quiz_fruits_cherry_name">Cherry</string>
+    <string name="quiz_fruits_cherry_name">Вишня</string>
     <string name="quiz_fruits_cherry_hint"></string>
-    <string name="quiz_fruits_cherry_description">The cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). The cherry fruits of commerce are usually obtained from a limited number of species such as cultivars of the sweet cherry, Prunus avium. The name \'cherry\' also refers to the cherry tree, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in "ornamental cherry", "cherry blossom", etc. Wild Cherry may refer to any of the cherry species growing outside of cultivation, although Prunus avium is often referred to specifically by the name "wild cherry" in the British Isles.</string>
+    <string name="quiz_fruits_cherry_description">Ви́шня (лат. Prúnus subg. Cerásus) — подрод растений рода Слива (Prunus) семейства Розовые (Rosaceae). Русское слово «вишня» считается общеславянским производным от той же основы, что и нем. Weichsel «черешня», лат. viscum «птичий клей» и т. д. В таком случае первоначальное значение слова — «дерево с клейким соком». Небольшой город Керасунда (греч. Κερασουντα), находившийся между Фарнакией и Трапезундом, прославился вишнями. Именно там их впервые встретили римляне, дав название «керасунтских плодов», лат. cerasi. Отсюда итал. ciliegia, фр. cerise, исп. cereza, порт. cereja, нем. Kirsche, англ. cherry, рус. черешня.</string>
 	<string-array name="quiz_fruits_cherry_answers">
-    	<item>cherry</item>
+    	<item>вишня</item>
 	</string-array>
-	<string name="quiz_fruits_cherry_link">http://en.m.wikipedia.org/wiki/cherry</string>
+	<string name="quiz_fruits_cherry_link">http://ru.m.wikipedia.org/wiki/Вишня</string>
 	<string-array name="quiz_fruits_cherry_facts">
 	</string-array>
 	
 	<!-- Peach -->
-    <string name="quiz_fruits_peach_name">Peach</string>
+    <string name="quiz_fruits_peach_name">Персик</string>
     <string name="quiz_fruits_peach_hint"></string>
-    <string name="quiz_fruits_peach_description">The peach (Prunus persica) is a deciduous tree, native to Northwest China, in the region between the Tarim Basin and the north slopes of the Kunlun Shan mountains, where it was first domesticated and cultivated. It bears an edible juicy fruit also called a peach.</string>
+    <string name="quiz_fruits_peach_description">Пе́рсик, пе́рсиковое де́рево (лат. Prúnus pérsica: «персидская (слива)») — растение из семейства Розовые, подрода Миндаль. Весьма близко к миндалевому дереву, от которого отличается только плодами. Родина растения достоверно неизвестна, но предполагается, что встречающийся в северном Китае (близ Пекина) вид Prunus davidiana Franch. является либо дикой формой культурного персика, либо, по крайней мере, очень близок к ней. Рано одичало в северо-западной Индии, проникло в Персию, в Европе было в первый раз посажено в Италии около середины первого столетия. Разводится из-за плодов в тёплых частях умеренной Евразии (в том числе в России, в Закавказье и Средней Азии, на Украине) и Америки.</string>
 	<string-array name="quiz_fruits_peach_answers">
-    	<item>peach</item>
+    	<item>персик</item>
 	</string-array>
-	<string name="quiz_fruits_peach_link">http://en.m.wikipedia.org/wiki/peach</string>
+	<string name="quiz_fruits_peach_link">http://ru.m.wikipedia.org/wiki/Персик</string>
 	<string-array name="quiz_fruits_peach_facts">
 	</string-array>
 	
 	<!-- Pineapple -->
-    <string name="quiz_fruits_pineapple_name">Pineapple</string>
+    <string name="quiz_fruits_pineapple_name">Ананас</string>
     <string name="quiz_fruits_pineapple_hint"></string>
-    <string name="quiz_fruits_pineapple_description">The pineapple (Ananas comosus) is a tropical plant with edible multiple fruit consisting of coalesced berries, and the most economically significant plant in the Bromeliaceae family. Pineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 20–24 months and fruiting in the following six months. Pineapple does not ripen significantly post-harvest.</string>
+    <string name="quiz_fruits_pineapple_description">Анана́с (лат. Ananas) — род травянистых растений семейства Бромелиевые (Bromeliaceae), происходят из тропической Америки. Один из видов — Ананас крупнохохолковый (Ananas comosus) — является важной плодовой культурой, широко возделывается в тропических странах по всему миру.</string>
 	<string-array name="quiz_fruits_pineapple_answers">
-    	<item>pineapple</item>
+    	<item>Ананас</item>
 	</string-array>
-	<string name="quiz_fruits_pineapple_link">http://en.m.wikipedia.org/wiki/pineapple</string>
+	<string name="quiz_fruits_pineapple_link">http://ru.m.wikipedia.org/wiki/Ананас</string>
 	<string-array name="quiz_fruits_pineapple_facts">
 	</string-array>
 	
 	<!-- Pear -->
-    <string name="quiz_fruits_pear_name">Pear</string>
+    <string name="quiz_fruits_pear_name">Груша</string>
     <string name="quiz_fruits_pear_hint"></string>
-    <string name="quiz_fruits_pear_description">The pear is any of several tree and shrub species of genus Pyrus /ˈpaɪrəs/, in the family Rosaceae. It is also the name of the pomaceous fruit of these trees. Several species of pear are valued for their edible fruit, while others are cultivated as ornamental trees.</string>
+    <string name="quiz_fruits_pear_description">Гру́ша (лат. Pýrus) — род плодовых и декоративных деревьев и кустарников семейства Розовые (Rosaceae). В диком виде в Европе груша распространена примерно до 60° с. ш. На северной границе ареала — редка. К 2006 году, в результате успешной селекции морозоустойчивых сортов, груша эффективно выращивается на садовых участках, расположенных на Урале и в Западной Сибири до 55° с. ш.</string>
 	<string-array name="quiz_fruits_pear_answers">
-    	<item>pear</item>
+    	<item>Груша</item>
 	</string-array>
-	<string name="quiz_fruits_pear_link">http://en.m.wikipedia.org/wiki/pear</string>
+	<string name="quiz_fruits_pear_link">http://ru.m.wikipedia.org/wiki/Груша</string>
 	<string-array name="quiz_fruits_pear_facts">
 	</string-array>
 	
 	<!-- Plum -->
-    <string name="quiz_fruits_plum_name">Plum</string>
+    <string name="quiz_fruits_plum_name">Слива</string>
     <string name="quiz_fruits_plum_hint"></string>
-    <string name="quiz_fruits_plum_description">A plum is a fruit of the subgenus Prunus of the genus Prunus. The subgenus is distinguished from other subgenera (peaches, cherries, bird cherries, etc.) in the shoots having a terminal bud and solitary side buds (not clustered), the flowers in groups of one to five together on short stems, and the fruit having a groove running down one side and a smooth stone (or pit).</string>
+    <string name="quiz_fruits_plum_description">Сли́ва (лат. Prúnus) — род растений, включает такие виды, как сливы, вишни, персик, абрикосы, миндаль, черешня, черёмухи и другие. Обычно относят к подсемейству Сливовые (Prunoideae) или Миндальные (Amygdaloideae) семейства Розовые (Rosaceae). Известно около двухсот пятидесяти видов сливы, распространённых, главным образом, в северных умеренных областях земного шара.</string>
 	<string-array name="quiz_fruits_plum_answers">
-    	<item>plum</item>
+    	<item>Слива</item>
 	</string-array>
-	<string name="quiz_fruits_plum_link">http://en.m.wikipedia.org/wiki/plum</string>
+	<string name="quiz_fruits_plum_link">http://ru.m.wikipedia.org/wiki/Слива</string>
 	<string-array name="quiz_fruits_plum_facts">
 	</string-array>
 	
 	<!-- Grapefruit -->
-    <string name="quiz_fruits_grapefruit_name">Grapefruit</string>
+    <string name="quiz_fruits_grapefruit_name">Грейпфрут</string>
     <string name="quiz_fruits_grapefruit_hint"></string>
-    <string name="quiz_fruits_grapefruit_description">The grapefruit (Citrus × paradisi) is a subtropical citrus tree known for its sour to semi-sweet fruit, an 18th-century hybrid first bred in Barbados. When found, it was named the "forbidden fruit"; and it has also been misidentified with the pomelo or shaddock (C. maxima), one of the parents of this hybrid, the other being sweet orange (C. × sinensis).</string>
+    <string name="quiz_fruits_grapefruit_description">Грейпфру́т (лат. Cītrus paradīsi) — субтропическое вечнозелёное дерево; вид рода Цитрус семейства Рутовые (Rutaceae); а также его плод, достигающий в диаметре 10—15 см. Первым поведал миру о грейпфруте валлийский ботаник-священник Гриффитс Хьюджес в 1750 году. Он назвал фрукт «запретным плодом». Позднее грейпфрут стали называть «маленьким шеддоком» из-за его сходства с помело, которое тогда называли шеддоком (по фамилии английского капитана Шеддока, завёзшего его в XVII веке на остров Барбадос), а в 1814 году на Ямайке торговцы переименовали плод в грейпфрут. После 1880 года начался быстрый рост промышленного производства этой культуры в США, затем в странах Карибского бассейна, Бразилии, Израиле и ЮАР). В XX веке грейпфрут занял ведущее место на мировом фруктовом рынке.</string>
 	<string-array name="quiz_fruits_grapefruit_answers">
-    	<item>grapefruit</item>
+    	<item>Грейпфрут</item>
 	</string-array>
-	<string name="quiz_fruits_grapefruit_link">http://en.m.wikipedia.org/wiki/grapefruit</string>
+	<string name="quiz_fruits_grapefruit_link">http://ru.m.wikipedia.org/wiki/Грейпфрут</string>
 	<string-array name="quiz_fruits_grapefruit_facts">
 	</string-array>
 	
 	<!-- Watermelon -->
-    <string name="quiz_fruits_watermelon_name">Watermelon</string>
+    <string name="quiz_fruits_watermelon_name">Арбуз</string>
     <string name="quiz_fruits_watermelon_hint"></string>
-    <string name="quiz_fruits_watermelon_description">Watermelon (Citrullus lanatus var. lanatus, family Cucurbitaceae) is a vine-like (scrambler and trailer) flowering plant originally from southern Africa. It is a large, sprawling annual plant with coarse, hairy pinnately-lobed leaves and white to yellow flowers. It is grown for its edible fruit, also known as a watermelon, which is a special kind of berry referred to by botanists as a pepo. The fruit has a smooth hard rind, usually green with dark green stripes or yellow spots, and a juicy, sweet interior flesh, usually deep red to pink, but sometimes orange, yellow, or white, with many seeds.</string>
+    <string name="quiz_fruits_watermelon_description">Арбу́з обыкнове́нный (лат. Citrúllus lanátus) — однолетнее травянистое растение, вид рода Арбуз (Citrullus) семейства Тыквенные (Cucurbitaceae).Бахчевая культура. Плод — тыквина, шаровидной, овальной, уплощённой или цилиндрической формы; окраска коры от белой и жёлтой до тёмно-зелёной с рисунком в виде сетки, полос, пятен; мякоть розовая, красная, малиновая, реже — белая и жёлтая. Тыквина морфологически (по строению) схожа с ягодой.</string>
 	<string-array name="quiz_fruits_watermelon_answers">
-    	<item>watermelon</item>
+    	<item>Арбуз</item>
 	</string-array>
-	<string name="quiz_fruits_watermelon_link">http://en.m.wikipedia.org/wiki/watermelon</string>
+	<string name="quiz_fruits_watermelon_link">http://ru.m.wikipedia.org/wiki/Арбуз_обыкновенный</string>
 	<string-array name="quiz_fruits_watermelon_facts">
 	</string-array>
 	

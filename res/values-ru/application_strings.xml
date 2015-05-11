@@ -2,48 +2,48 @@
 <resources>
 	
     <!-- Application string -->
-    <string name="app_name">Nature Quiz</string>
-    <string name="nature_quiz_header">Nature Quiz</string>
-    <string name="action_settings">предпочтения</string>
-    <string name="action_quit">Quit</string>
-    <string name="play_button">играть</string>
-    <string name="help_button">помощь</string>
-    <string name="title_activity_help">помощь</string>
-    <string name="help_description">"Nature Quiz will show you various pictures and then you need to type in the name of the object in the picture. For example, if picture of bear is shown to you, you need to type in 'bear'. You do not need to know if it's a grey bear or brown bear, so just 'bear' is enough.\n
-        To play Nature Quiz you first select 'Play' on the first screen. On the second screen, you select the category you want to try out. After that you can see the pictures and if you want, you can browse between them if you don't want to answer (or just don't know) all of them.\n
-        Have a great time with Nature Quiz!\n
+    <string name="app_name">Nature Quiz - Игра о природе</string>
+    <string name="nature_quiz_header"></string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_quit">Выйти</string>
+    <string name="play_button">Играть</string>
+    <string name="help_button">Помощь</string>
+    <string name="title_activity_help">Помощь</string>
+    <string name="help_description">"В Nature Quiz ты увидишь разные картинки, и тебе нужно написать , что изображено на картинке. Например, если изображен медведь, тебе нужно написать "медведь". Не нужно определять, бурый или белый, достаточно просто написать "медведь".Чтобы начать игру в Nature Quiz, выбери "Играть" на первом экране. На втором экране выбери тот раздел, в котором ты хочешь проверить свои знания. После этого ты увидишь картинки и если ты хочешь (или не знаешь ответ), то картинку можно пропустить и перейти к следующей.
+     .\n
+        Желаем приятно провести время с Nature Quiz - Игрой о природе!\n
         Information from Wikipedia.\n
         Thanks for the pictures goes to:
          * http://pixabay.com/
          * http://commons.wikimedia.org/wiki/
         "
     </string>
-    <string name="title_activity_play">Quiz</string>
-    <string name="title_activity_final">Completed</string>
-    <string name="title_activity_category">Categories</string>
+    <string name="title_activity_play">Игра</string>
+    <string name="title_activity_final">Завершен</string>
+    <string name="title_activity_category">Разделы</string>
     
     <!-- Game strings -->
-    <string name="quiz_picture_description">Quiz picture</string>
-    <string name="quiz_answer_message">Write the answer here</string>
-    <string name="quiz_answer_button">Done</string>
-    <string name="quiz_next_button">Okay</string>
-    <string name="quiz_complete_game">Complete</string>
-    <string name="quiz_category_text">Category</string>
-    <string name="quiz_dialog_reset_category">Reset the category progress?</string>
-    <string name="quiz_dialog_yes">Yes</string>
-    <string name="quiz_dialog_no">Cancel</string>
+    <string name="quiz_picture_description">Картинка в игре</string>
+    <string name="quiz_answer_message">Напиши ответ здесь</string>
+    <string name="quiz_answer_button">Сделано</string>
+    <string name="quiz_next_button">ОК</string>
+    <string name="quiz_complete_game">Заверши игру</string>
+    <string name="quiz_category_text">Раздел</string>
+    <string name="quiz_dialog_reset_category">Сбросить результаты в этом разделе?</string>
+    <string name="quiz_dialog_yes">Да</string>
+    <string name="quiz_dialog_no">Нет</string>
     
-    <string name="game_action_back_fast">Skip backwards</string>
-    <string name="game_action_back">Back</string>
-    <string name="game_action_forward">Forward</string>
-    <string name="game_action_forward_fast">Skip forward</string>
+    <string name="game_action_back_fast">Вернуться назад</string>
+    <string name="game_action_back">Назад</string>
+    <string name="game_action_forward">Вперед</string>
+    <string name="game_action_forward_fast">Перейти вперед</string>
     
     <!-- Game defaults -->
-    <string name="quiz_default_hint">Default hint text placeholder</string>
-    <string name="quiz_default_answer_text">Correct!</string>
-    <string name="quiz_default_synonym_answer_text">Close enough, we\'ll give you this one!</string>
-    <string name="quiz_default_incorrect_answer_text">Try again!</string>
-    <string name="quiz_default_category_completed">Congratulations! You\'ve completed all the levels of the category. See if you can do the other categories!</string>
-    <string name="quiz_default_category_progress">Good attempt. However, there is still some unanswered questions. Try to get those too!</string>
+    <string name="quiz_default_hint">Подсказка</string>
+    <string name="quiz_default_answer_text">Правильно!</string>
+    <string name="quiz_default_synonym_answer_text">Почти угадал, зачтем за правильный ответ!</string>
+    <string name="quiz_default_incorrect_answer_text">Попробуй снова!</string>
+    <string name="quiz_default_category_completed">Молодец! Все уровни этого раздела завершены. Посмотрим, сможешь ли ты справиться с другими разделами игры!</string>
+    <string name="quiz_default_category_progress">Хорошо! Но ты не ответил на некоторые вопросы. Попробуй ответить и на них!</string>
     
 </resources>

@@ -1,145 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Big birds -->
-    <string name="quiz_bigbirds_name">Big birds</string>
-    <string name="quiz_bigbirds_description">Test how well you know the most common bigger birds!</string>
-    <string name="quiz_bigbirds_link">http://en.m.wikipedia.org/wiki/Bird</string>
+    <string name="quiz_bigbirds_name">Крупные птицы</string>
+    <string name="quiz_bigbirds_description">Проверь, как ты знаешь крупных птиц!</string>
+    <string name="quiz_bigbirds_link">http://ru.m.wikipedia.org/wiki/Птицы</string>
     
     <!-- Big birds / Levels -->
     
     <!-- Duck -->
-    <string name="quiz_bigbirds_duck_name">Duck</string>
+    <string name="quiz_bigbirds_duck_name">Утка</string>
     <string name="quiz_bigbirds_duck_hint"></string>
-    <string name="quiz_bigbirds_duck_description">Duck is the common name for a large number of species in the Anatidae family of birds which also includes swans and geese. The ducks are divided among several subfamilies in the Anatidae family; they do not represent a monophyletic group (the group of all descendants of a single common ancestral species) but a form taxon, since swans and geese are not considered ducks. Ducks are mostly aquatic birds, mostly smaller than the swans and geese, and may be found in both fresh water and sea water.</string>
+    <string name="quiz_bigbirds_duck_description">У́тка, несколько родов птиц семейства утиных. К уткам относятся пеганки, нырковые утки (нырки), савки, речные утки, утки-пароходы, мускусные утки и крохали; всего более 110 видов. Распространены утки широко, в России более 30 видов. Самец утки называется селезень. Утки — это птицы средних и небольших размеров с относительно короткой шеей и цевкой, покрытой спереди поперечными щитками. </string>
 	<string-array name="quiz_bigbirds_duck_answers">
-    	<item>duck</item>
+    	<item>утка</item>
 	</string-array>
-	<string name="quiz_bigbirds_duck_link">http://en.m.wikipedia.org/wiki/duck</string>
+	<string name="quiz_bigbirds_duck_link">http://ru.m.wikipedia.org/wiki/Утки</string>
 	<string-array name="quiz_bigbirds_duck_facts">
 	</string-array>
 	
 	<!-- Goose -->
-    <string name="quiz_bigbirds_goose_name">Goose</string>
+    <string name="quiz_bigbirds_goose_name">Гусь</string>
     <string name="quiz_bigbirds_goose_hint"></string>
-    <string name="quiz_bigbirds_goose_description">Geese are waterfowl belonging to the tribe Anserini of the family Anatidae. This tribe comprises the genera Anser (the grey geese), Branta (the black geese) and Chen (the white geese). A number of other birds, mostly related to the shelducks, have "goose" as part of their names. More distantly related members of the Anatidae family are swans, most of which are larger than true geese, and ducks, which are smaller.</string>
+    <string name="quiz_bigbirds_goose_description">Гуси (лат. Anser) — род водоплавающих птиц семейства утиных, отряда гусеобразных.Гуси отличаются клювом, имеющим при основании большую высоту, чем ширину, и оканчивающимся ноготком с острым краем. По краям клюва идут мелкие зубчики. Гуси отличаются шеей средней длины (более длинной, чем у уток, но короче, чем у лебедей), довольно высокими ногами, прикрепленными ближе к середине тела, чем у уток, и твердым бугром, или шпорой, на сгибе крыла.Перья и пух сильно развиты. Самцы практически не отличаются от самок, отличие состоит лишь в костном наросте «горбинке» в начале клюва у переносицы самца, а также несколько более крупным размером тела. Многие гуси гогочут или издают бормочущие звуки, при опасности или в раздражении шипят.</string>
 	<string-array name="quiz_bigbirds_goose_answers">
-    	<item>goose</item>
+    	<item>гусь</item>
 	</string-array>
-	<string name="quiz_bigbirds_goose_link">http://en.m.wikipedia.org/wiki/goose</string>
+	<string name="quiz_bigbirds_goose_link">http://ru.m.wikipedia.org/wiki/Гуси</string>
 	<string-array name="quiz_bigbirds_goose_facts">
 	</string-array>
 	
 	<!-- Swan -->
-    <string name="quiz_bigbirds_swan_name">Swan</string>
+    <string name="quiz_bigbirds_swan_name">Лебедь</string>
     <string name="quiz_bigbirds_swan_hint"></string>
-    <string name="quiz_bigbirds_swan_description">Swans are birds of the family Anatidae within the genus Cygnus. The swans\' close relatives include the geese and ducks. Swans are grouped with the closely related geese in the subfamily Anserinae where they form the tribe Cygnini. Sometimes, they are considered a distinct subfamily, Cygninae. There are six or seven species of swan in the genus Cygnus; in addition there is another species known as the coscoroba swan, although this species is no longer considered one of the true swans.</string>
+    <string name="quiz_bigbirds_swan_description">Ле́беди (лат. Cygnus) — род птиц из отряда гусеобразных семейства утиных. Оперение лебедей по своей окраске бывает либо чисто белого, либо серого или чёрного цвета. Самок и самцов внешне весьма трудно различить. Лебедей от гусей отличает более длинная шея, позволяющая в более глубоких водах обыскивать дно в поисках пищи, а также их величина, по которой они являются самыми крупными водными птицами. Размах их крыльев достигает двух метров, а вес может превышать 15 кг. Лапы довольно короткие, из-за чего лебеди, передвигаясь по земле, производят несколько неуклюжее впечатление. Зато у них очень развитая летательная мускулатура, позволяющая им преодолевать тысячи километров при ежегодных перелётах на юг и обратно.</string>
 	<string-array name="quiz_bigbirds_swan_answers">
-    	<item>swan</item>
+    	<item>лебедь</item>
 	</string-array>
-	<string name="quiz_bigbirds_swan_link">http://en.m.wikipedia.org/wiki/swan</string>
+	<string name="quiz_bigbirds_swan_link">http://ru.m.wikipedia.org/wiki/Лебеди</string>
 	<string-array name="quiz_bigbirds_swan_facts">
 	</string-array>
 	
 	<!-- Goldeneye -->
-    <string name="quiz_bigbirds_goldeneye_name">Goldeneye</string>
+    <string name="quiz_bigbirds_goldeneye_name">Гоголь</string>
     <string name="quiz_bigbirds_goldeneye_hint"></string>
-    <string name="quiz_bigbirds_goldeneye_description">Goldeneye or whistler (Bucephala clangula) is a species of small tree-hole nesting northern hemisphere seaducks belonging to the genus Bucephala. The plumage is black and white. Goldeneyes eat fish, crustaceans, and other marine life. The "whistler" name comes from the noise their beating wings make in flight.</string>
+    <string name="quiz_bigbirds_goldeneye_description">Го́голи (лат. Bucephala) — род птиц семейства утиных, распространённых в северном полушарии. Отличаются преимущественно чёрно-белым оперением, большой головой, короткой шеей, высоким и коротким клювом с узким ноготком. Хвост достаточно длинный, на заднем пальце имеется кожистая лопасть. Гнездятся в пустотах деревьев, питаются рыбой, ракообразными и другими водными кормами.</string>
 	<string-array name="quiz_bigbirds_goldeneye_answers">
-    	<item>goldeneye</item>
+    	<item>гоголь</item>
 	</string-array>
-	<string name="quiz_bigbirds_goldeneye_link">http://en.m.wikipedia.org/wiki/Goldeneye_(duck)</string>
+	<string name="quiz_bigbirds_goldeneye_link">http://ru.m.wikipedia.org/wiki/Гоголи</string>
 	<string-array name="quiz_bigbirds_goldeneye_facts">
 	</string-array>
 	
 	<!-- Crane -->
-    <string name="quiz_bigbirds_crane_name">Crane</string>
+    <string name="quiz_bigbirds_crane_name">Журавль</string>
     <string name="quiz_bigbirds_crane_hint"></string>
-    <string name="quiz_bigbirds_crane_description">Cranes are a clade (Gruidae) of large, long-legged and long-necked birds in the group Gruiformes. There are fifteen species of crane in four genera. Unlike the similar-looking but unrelated herons, cranes fly with necks outstretched, not pulled back. Cranes live on all continents except Antarctica and South America.</string>
+    <string name="quiz_bigbirds_crane_description">Журавлиные (лат. Gruidae) — семейство птиц отряда журавлеобразных (лат. Gruiformes). Это древнее семейство, его образование относят к окончанию эпохи динозавров, во времена эоцена 40—60 млн лет назад. Ближайшими родственниками журавлей, считаются пастушковые журавли (Aramidae) и трубачи (Psophiidae), а исторической родиной американский континент, откуда журавли попали сначала в Азию, а оттуда в Африку и Австралию. Журавли широко распространены в мире, отсутствуя лишь в Антарктиде и Южной Америке. Ещё в древности люди были знакомы с этими птицами, о чём имеются археологические свидетельства в виде наскальных рисунков в Африке, Австралии и Европе.Семейство включает 4 рода с 15 видами, из них на территории России гнездятся 7 видов, относящихся к 2 родам.</string>
 	<string-array name="quiz_bigbirds_crane_answers">
-    	<item>crane</item>
+    	<item>журавль</item>
 	</string-array>
-	<string name="quiz_bigbirds_crane_link">http://en.m.wikipedia.org/wiki/Crane_(bird)</string>
+	<string name="quiz_bigbirds_crane_link">http://ru.m.wikipedia.org/wiki/Журавлиные</string>
 	<string-array name="quiz_bigbirds_crane_facts">
 	</string-array>
 	
 	<!-- Heron -->
-    <string name="quiz_bigbirds_heron_name">Heron</string>
+    <string name="quiz_bigbirds_heron_name">Цапля</string>
     <string name="quiz_bigbirds_heron_hint"></string>
-    <string name="quiz_bigbirds_heron_description">The herons are long-legged freshwater and coastal birds in the family Ardeidae, with 64 recognised species (some are called "egrets" or "bitterns" instead of "heron"). Although herons resemble birds in some other families, such as the storks, ibises, spoonbills and cranes, they differ from these in flying with their necks retracted, not outstretched. They are also one of the bird groups that have powder down. Some members of this group nest colonially in trees, while others, notably the bitterns, use reed beds.</string>
+    <string name="quiz_bigbirds_heron_description">Ца́плевые (лат. Ardeidae) — семейство птиц отряда аистообразных. В целом семейство имеет ряд общих признаков, но классификация отдельных видов до сих пор затруднена и находится на стадии пересмотра. Выделение цапель в отдельный отряд цаплеобразные (лат. Ardeiformes) не является общепризнанным. Цаплевые — живущие на мелководье птицы, обитающие на заболоченных либо медленно текущих водоёмах. Как правило длинноногие, с длинным и узким, приплюснутым с боков клювом и сквозными ноздрями. Они неподвижно стоят в воде и всматриваются в воду, выискивая добычу. Большинство видов гнездится колониями, иногда вперемешку с другими видами птиц. Моногамны, хотя пары обычно держатся только один сезон. Оба родителя строят гнездо — как правило, самец приносит материал для гнезда, а самка занимается его строительством. Также оба родителя насиживают яйца и кормят птенцов. Летают медленно, при этом вытягивают лапы назад, а шею S-образно втягивают в себя, чем отличаются от схожих с ними аистов, ибисов и колпиц, которые наоборот вытягивают голову.</string>
 	<string-array name="quiz_bigbirds_heron_answers">
-    	<item>heron</item>
+    	<item>цапля</item>
 	</string-array>
-	<string name="quiz_bigbirds_heron_link">http://en.m.wikipedia.org/wiki/heron</string>
+	<string name="quiz_bigbirds_heron_link">http://ru.m.wikipedia.org/wiki/Цаплевые</string>
 	<string-array name="quiz_bigbirds_heron_facts">
 	</string-array>
 	
 	<!-- Hawk -->
-    <string name="quiz_bigbirds_hawk_name">Hawk</string>
+    <string name="quiz_bigbirds_hawk_name">Ястреб</string>
     <string name="quiz_bigbirds_hawk_hint"></string>
-    <string name="quiz_bigbirds_hawk_description">Hawk is a common name for some small to medium-sized diurnal birds of prey, widely distributed and varying greatly in size.</string>
+    <string name="quiz_bigbirds_hawk_description">Я́стребы, или ястреба́ (лат. Accipitrinae) — подсемейство хищных птиц из семейства ястребиных. В более широком смысле, я́стребом называют любую птицу из этого подсемейства. На территории России широкое распространение имеют ястреб-перепелятник и ястреб-тетеревятник.</string>
 	<string-array name="quiz_bigbirds_hawk_answers">
-    	<item>hawk</item>
+    	<item>ястреб</item>
 	</string-array>
-	<string name="quiz_bigbirds_hawk_link">http://en.m.wikipedia.org/wiki/hawk</string>
+	<string name="quiz_bigbirds_hawk_link">http://ru.m.wikipedia.org/wiki/Ястребы</string>
 	<string-array name="quiz_bigbirds_hawk_facts">
 	</string-array>
 	
 	<!-- Eagle -->
-    <string name="quiz_bigbirds_eagle_name">Eagle</string>
+    <string name="quiz_bigbirds_eagle_name">Орёл</string>
     <string name="quiz_bigbirds_eagle_hint"></string>
-    <string name="quiz_bigbirds_eagle_description">Eagle is a common name for many large birds of prey of the family Accipitridae; it belongs to several groups of genera that are not necessarily closely related to each other. Most of the sixty species of eagles are from Eurasia and Africa. Outside this area, just fourteen species can be found – two in North America, nine in Central and South America, and three in Australia.</string>
+    <string name="quiz_bigbirds_eagle_description">Орлы в широком смысле слова — название, применяемое к представителям подсемейства орлиных (лат. Aquilinae) семейства ястребиных (Accipitridae). Кроме того, так называют крупных хищных птиц, имеющих сходство с представителями вышеуказанной группы птиц, то есть, имеющими орлиный облик. Характерными чертами орлов являются массивное телосложение, длинные и относительно широкие крылья с пальцеобразно расставленными маховыми перьями, массивный клюв и сильные лапы с крупными загнутыми когтями и удлинёнными перьями с внешней стороны бедра и голени («штаны»). При охоте, как правило, парят высоко над поверхностью земли, в поиске добычи полагаясь на зрение. Состав питания зависит от вида и условий обитания птиц, но во всех случаях орлы находятся на наивысших ступенях трофических пирамид.</string>
 	<string-array name="quiz_bigbirds_eagle_answers">
-    	<item>eagle</item>
+    	<item>орёл</item>
 	</string-array>
-	<string name="quiz_bigbirds_eagle_link">http://en.m.wikipedia.org/wiki/eagle</string>
+	<string name="quiz_bigbirds_eagle_link">http://ru.m.wikipedia.org/wiki/Орлиные</string>
 	<string-array name="quiz_bigbirds_eagle_facts">
 	</string-array>
 	
 	<!-- Owl -->
-    <string name="quiz_bigbirds_owl_name">Owl</string>
+    <string name="quiz_bigbirds_owl_name">Сова</string>
     <string name="quiz_bigbirds_owl_hint"></string>
-    <string name="quiz_bigbirds_owl_description">Owls are birds from the order Strigiformes, which includes about 200 species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing and feathers adapted for silent flight. Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.</string>
+    <string name="quiz_bigbirds_owl_description">Совообра́зные (лат. Strigiformes, или Striges) — отряд хищных птиц, включающий более 420 крупных и средней величины видов, в основном ночных птиц, распространённых во всех странах света. В отряде два семейства: совиные, или настоящие совы, и сипуховые, однако в таксономии Сибли-Алквиста в отряд помещаются все семейства отряда козодоеобразных (Caprimulgiformes). Краткая характеристика: крупная голова, большие круглые глаза спереди головы, клюв короткий, хищный. Охотится ночью, оперение мягкое, полёт бесшумный, когти длинные и острые, окрас маскирующий.</string>
 	<string-array name="quiz_bigbirds_owl_answers">
-    	<item>owl</item>
+    	<item>сова</item>
 	</string-array>
-	<string name="quiz_bigbirds_owl_link">http://en.m.wikipedia.org/wiki/owl</string>
+	<string name="quiz_bigbirds_owl_link">http://ru.m.wikipedia.org/wiki/Совообразные</string>
 	<string-array name="quiz_bigbirds_owl_facts">
 	</string-array>
 	
 	<!-- Grouse -->
-    <string name="quiz_bigbirds_grouse_name">Grouse</string>
+    <string name="quiz_bigbirds_grouse_name">Тетерев</string>
     <string name="quiz_bigbirds_grouse_hint"></string>
-    <string name="quiz_bigbirds_grouse_description">Grouse /\ˈɡraʊs/ are a group of birds from the order Galliformes, in the family Phasianidae. Grouse are frequently assigned to the subfamily Tetraoninae (sometimes Tetraonidae), a classification supported by mitochondrial DNA sequence studies, and applied by the American Ornithologists\' Union, ITIS, and others. Grouse inhabit temperate and subarctic regions of the northern hemisphere, from pine forests to moorland and mountainside, from 83° North (rock ptarmigan in northern Greenland) to 28° North (Attwater\'s prairie chicken in Texas).</string>
+    <string name="quiz_bigbirds_grouse_description">Тетерева́ (лат. Lyrurus) — род тетеревиных птиц из отряда курообразных. Кавказский тетерев (Lyrurus mlokosiewiczi) находится на грани вымирания и занесён в Красную книгу России.</string>
 	<string-array name="quiz_bigbirds_grouse_answers">
-    	<item>grouse</item>
-    	<item>wood grouse</item>
-    	<item>male grouse</item>
+    	<item>тетерев</item>
+    	<item>глухарь</item>
 	</string-array>
-	<string name="quiz_bigbirds_grouse_link">http://en.m.wikipedia.org/wiki/grouse</string>
+	<string name="quiz_bigbirds_grouse_link">http://ru.m.wikipedia.org/wiki/Тетерева</string>
 	<string-array name="quiz_bigbirds_grouse_facts">
 	</string-array>
 	
 	<!-- Hazel grouse -->
-    <string name="quiz_bigbirds_fgrouse_name">Hazel Grouse</string>
+    <string name="quiz_bigbirds_fgrouse_name">Рябчик</string>
     <string name="quiz_bigbirds_fgrouse_hint"></string>
-    <string name="quiz_bigbirds_fgrouse_description">Grouse /\ˈɡraʊs/ are a group of birds from the order Galliformes, in the family Phasianidae. Grouse are frequently assigned to the subfamily Tetraoninae (sometimes Tetraonidae), a classification supported by mitochondrial DNA sequence studies, and applied by the American Ornithologists\' Union, ITIS, and others. Grouse inhabit temperate and subarctic regions of the northern hemisphere, from pine forests to moorland and mountainside, from 83° North (rock ptarmigan in northern Greenland) to 28° North (Attwater\'s prairie chicken in Texas).</string>
+    <string name="quiz_bigbirds_fgrouse_description">Ря́бчик (лат. Bonasa bonasia) — птица из рода рябчиков, подсемейства тетеревиных, отряда курообразных. Широко распространённый вид, обитающий практически повсеместно в лесной и таёжной зоне Евразии, от Западной Европы до Кореи. Рябчик — самый мелкий представитель тетеревиных. Вес даже самых крупных особей редко превышает 500 граммов. В лесу его сложно спутать с другими тетеревиными птицами, от которых он отличается не только небольшой величиной, но и достаточно узнаваемым окрасом. Несмотря на пёстрое, «рябое» оперение (от которого птица и получила своё русское название), уже с небольшого расстояния рябчик кажется однотонным, серо-рыжеватым. Половой диморфизм у рябчика выражен значительно слабее, чем у других тетеревиных — самца от самки в природе различить весьма трудно. Кроме того, в отличие от других тетеревиных, рябчик — моногамная птица.</string>
 	<string-array name="quiz_bigbirds_fgrouse_answers">
-    	<item>grouse</item>
-    	<item>hazel grouse</item>
-    	<item>female grouse</item>
-	</string-array>
-	<string name="quiz_bigbirds_fgrouse_link">http://en.m.wikipedia.org/wiki/grouse</string>
+    	<item>тетерев</item>
+    	<item>рябчик</item>
+    	</string-array>
+	<string name="quiz_bigbirds_fgrouse_link">http://ru.m.wikipedia.org/wiki/рябчик</string>
 	<string-array name="quiz_bigbirds_fgrouse_facts">
 	</string-array>
 	
 	<!-- Pheasant -->
-    <string name="quiz_bigbirds_pheasant_name">Pheasant</string>
+    <string name="quiz_bigbirds_pheasant_name">Фазан</string>
     <string name="quiz_bigbirds_pheasant_hint"></string>
-    <string name="quiz_bigbirds_pheasant_description">Pheasant (/ˈfɛzənt/) refers to several genera within the subfamily Phasianinae, of the family Phasianidae in the order Galliformes. The best-known is the common pheasant, which is widespread throughout the world in introduced feral populations and in farm operations. Various other pheasant species are popular in aviaries, such as the golden pheasant (Chrysolophus pictus).</string>
+    <string name="quiz_bigbirds_pheasant_description">Обыкнове́нный фаза́н, или кавка́зский фаза́н (Phasianus colchicus), — птица из подсемейства Phasianinae, семейства Phasianidae, отряда курообразных. Изначально азиатский вид, интродуцированный в других частях света. Относится к числу одомашненных птиц и является распространённым объектом охотничьего промысла.</string>
 	<string-array name="quiz_bigbirds_pheasant_answers">
-    	<item>pheasant</item>
+    	<item>фазан</item>
 	</string-array>
-	<string name="quiz_bigbirds_pheasant_link">http://en.m.wikipedia.org/wiki/pheasant</string>
+	<string name="quiz_bigbirds_pheasant_link">http://ru.m.wikipedia.org/wiki/Обыкновенный_фазан</string>
 	<string-array name="quiz_bigbirds_pheasant_facts">
 	</string-array>
 	
