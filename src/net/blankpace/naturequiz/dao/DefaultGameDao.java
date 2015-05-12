@@ -57,7 +57,7 @@ public class DefaultGameDao implements GameDao
             
             return category;
 		}
-		catch (IOException | XmlPullParserException ioe)
+		catch (Exception ioe)
 		{
 			Log.e(TAG, "Error while parsing the category XML... "+ categoryFile, ioe);
 		}
@@ -144,19 +144,18 @@ public class DefaultGameDao implements GameDao
 		if (StringUtils.isEmpty(name) || StringUtils.isEmpty(value))
 			return;
 		
-		switch (name)
+		if (name.equalsIgnoreCase("image"))
 		{
-			case "image":
-				//category.setImage(resourceManager.resolveDrawableResource(value));
-				category.setImagePath(value);
-				break;
-			case "levels":
-				break;
-			case "category":
-				break;
-			default:
-				invokeStringSetter(category, category.getClass(), name, value);
-				break;
+			//category.setImage(resourceManager.resolveDrawableResource(value));
+			category.setImagePath(value);
+		}
+		else if (name.equalsIgnoreCase("levels") || name.equalsIgnoreCase("category"))
+		{
+			// TODO Refactor
+		}
+		else
+		{
+			invokeStringSetter(category, category.getClass(), name, value);
 		}
 	}
 	
@@ -165,24 +164,27 @@ public class DefaultGameDao implements GameDao
 		if (StringUtils.isEmpty(name) || StringUtils.isEmpty(value))
 			return;
 		
-		switch (name)
+		// TODO Refactor
+		if (name.equalsIgnoreCase("image"))
 		{
-			case "image":
-				//level.setImage(resourceManager.resolveDrawableResource(categoryCode +"/"+ value));
-				level.setImagePath(categoryCode +"/"+ value);
-				break;
-			case "answers":
-				level.setAnswers(resourceManager.resolveStringArrayResource(value));
-				break;
-			case "synonyms":
-				level.setSynonyms(resourceManager.resolveStringArrayResource(value));
-				break;
-			case "facts":
-				level.setFacts(resourceManager.resolveStringArrayResource(value));
-				break;
-			default:
-				invokeStringSetter(level, level.getClass(), name, value);
-				break;
+			//level.setImage(resourceManager.resolveDrawableResource(categoryCode +"/"+ value));
+			level.setImagePath(categoryCode +"/"+ value);
+		}
+		else if (name.equalsIgnoreCase("answers"))
+		{
+			level.setAnswers(resourceManager.resolveStringArrayResource(value));
+		}
+		else if (name.equalsIgnoreCase("synonyms"))
+		{
+			level.setSynonyms(resourceManager.resolveStringArrayResource(value));
+		}
+		else if (name.equalsIgnoreCase("facts"))
+		{
+			level.setFacts(resourceManager.resolveStringArrayResource(value));
+		}
+		else
+		{
+			invokeStringSetter(level, level.getClass(), name, value);
 		}
 	}
 	
@@ -197,11 +199,11 @@ public class DefaultGameDao implements GameDao
 			String localizedValue = resourceManager.resolveStringResource(value);
 			setter.invoke(receiver, localizedValue);
 		}
-		catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException e) {
-			Log.e(TAG, "Error on reflection while populating data...");
-		}
 		catch (NoSuchMethodException e) {
 			Log.e(TAG, "No method on Level for: " + name);
+		}
+		catch (Exception e) {
+			Log.e(TAG, "Error on reflection while populating data...");
 		}
 	}
 }

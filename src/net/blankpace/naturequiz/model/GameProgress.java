@@ -1,9 +1,9 @@
 package net.blankpace.naturequiz.model;
 
+import android.annotation.SuppressLint;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.JSONTokener;
@@ -27,12 +27,13 @@ public class GameProgress
 	private int levelCount;
 	private int completedCount;
 	
+	@SuppressLint("UseSparseArrays")
 	public GameProgress()
 	{
 		categoryName = "";
 		currentLevelId = 0;
 		levelCount = 0;
-		levelProgress = new HashMap<>();
+		levelProgress = new HashMap<Integer, Boolean>();
 	}
 	
 	public GameProgress(String jsonString)
@@ -60,7 +61,7 @@ public class GameProgress
 					completedCount++;
 			}
 		}
-		catch (JSONException | NullPointerException e)
+		catch (Exception e)
 		{
 			// If it fails, then it fails.
 		}
@@ -135,7 +136,7 @@ public class GameProgress
 			
 			return progress.toString();
 		}
-		catch (JSONException | NullPointerException e)
+		catch (Exception e)
 		{
 			// Too bad.
 		}

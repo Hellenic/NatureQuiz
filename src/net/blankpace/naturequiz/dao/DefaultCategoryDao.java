@@ -76,7 +76,7 @@ public class DefaultCategoryDao implements CategoryDao
 	        category = parseCategoryViewFromXML(parser);
 	        category.setFile(categoryFile);
 		}
-		catch (IOException | XmlPullParserException ioe)
+		catch (Exception ioe)
 		{
 			Log.e(TAG, "Error while parsing the category XML... "+ categoryFile, ioe);
 		}
@@ -105,16 +105,15 @@ public class DefaultCategoryDao implements CategoryDao
                 	
                 case XmlPullParser.END_TAG:
                 	name = parser.getName();
-            		switch (name)
-            		{
-	            		case "name":
-	            			category.setName(resourceManager.resolveStringResource(text));
-	            			break;
-	            		case "image":
-	            			//category.setImage(resourceManager.resolveDrawableResource(text));
-	            			category.setImagePath(text);
-	            			break;
-            		}
+                	if (name.equalsIgnoreCase("name"))
+                	{
+                		category.setName(resourceManager.resolveStringResource(text));
+                	}
+                	else if (name.equalsIgnoreCase("image"))
+                	{
+            			//category.setImage(resourceManager.resolveDrawableResource(text));
+            			category.setImagePath(text);
+                	}
                 	break;
             }
             

@@ -13,7 +13,7 @@ public class Category extends CategoryView
 	
 	public Category()
 	{
-		levels = new ArrayList<>();
+		levels = new ArrayList<Level>();
 	}
 
 	public String getDescription() {

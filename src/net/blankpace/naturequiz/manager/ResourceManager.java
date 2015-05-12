@@ -87,7 +87,7 @@ public class ResourceManager
 		{
 	        return resources.getString(getResourceIdentifier(textResource));
 		}
-		catch (NotFoundException | ArrayIndexOutOfBoundsException | NullPointerException e)
+		catch (Exception e)
 		{
 			return textResource;
 		}
@@ -95,14 +95,14 @@ public class ResourceManager
 	
 	public List<String> resolveStringArrayResource(String textResource)
 	{
-		List<String> resourceArray = new ArrayList<>();
+		List<String> resourceArray = new ArrayList<String>();
 		
 		try
 		{
 	        int id = getResourceIdentifier(textResource);
 	        resourceArray = Arrays.asList(resources.getStringArray(id));
 		}
-		catch (NotFoundException | ArrayIndexOutOfBoundsException | NullPointerException e)
+		catch (Exception e)
 		{
 			resourceArray.add(textResource);
 		}

@@ -13,15 +13,15 @@ public class Level implements Serializable
 	private String name = "";
 	private String hint = "";
 	private String description = "";
-	private List<String> answers = new ArrayList<>();
+	private List<String> answers = new ArrayList<String>();
 	private String answerText = "";
-	private List<String> synonyms = new ArrayList<>();
+	private List<String> synonyms = new ArrayList<String>();
 	private String synonymText = "";
 	private String imagePath;
 	// TODO Sound
 //	private Sound sound;
 	private String link;
-	private List<String> facts = new ArrayList<>();
+	private List<String> facts = new ArrayList<String>();
 	
 	public Level()
 	{
