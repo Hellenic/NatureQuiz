@@ -43,26 +43,26 @@
 	</string-array>
 	
 	<!-- Black currant -->
-    <string name="quiz_berries_mustaherukka_name">Mustaherukka</string>
-    <string name="quiz_berries_mustaherukka_hint"></string>
-    <string name="quiz_berries_mustaherukka_description">Mustaherukka (Ribes nigrum) eli musta viinimarja on herukoiden sukuun kuuluva yksikotinen pensas, joka kasvaa suurimmassa osassa Eurooppaa sekä villinä että viljeltynä. Mustaherukka on 1–1,5 metriä korkea pensas. Lehtilapa on 6–10 cm leveä ja 3–5-liuskainen. Lehti on päältä kalju ja alta karvainen. Lehtien liuskat ovat suippoja. Mustaherukan kukinto on nuokkuva monikukkainen terttu.</string>
-	<string-array name="quiz_berries_mustaherukka_answers">
+    <string name="quiz_berries_blackcurrant_name">Mustaherukka</string>
+    <string name="quiz_berries_blackcurrant_hint"></string>
+    <string name="quiz_berries_blackcurrant_description">Mustaherukka (Ribes nigrum) eli musta viinimarja on herukoiden sukuun kuuluva yksikotinen pensas, joka kasvaa suurimmassa osassa Eurooppaa sekä villinä että viljeltynä. Mustaherukka on 1–1,5 metriä korkea pensas. Lehtilapa on 6–10 cm leveä ja 3–5-liuskainen. Lehti on päältä kalju ja alta karvainen. Lehtien liuskat ovat suippoja. Mustaherukan kukinto on nuokkuva monikukkainen terttu.</string>
+	<string-array name="quiz_berries_blackcurrant_answers">
     	<item>mustaherukka</item>
 	</string-array>
-	<string name="quiz_berries_mustaherukka_link">http://fi.m.wikipedia.org/wiki/mustaherukka</string>
-	<string-array name="quiz_berries_mustaherukka_facts">
+	<string name="quiz_berries_blackcurrant_link">http://fi.m.wikipedia.org/wiki/mustaherukka</string>
+	<string-array name="quiz_berries_blackcurrant_facts">
 	    <item>Se on musta.</item>
 	</string-array>
 	
 	<!-- Blueberry -->
-    <string name="quiz_berries_pensasmustikka_name">Mustikka</string>
-    <string name="quiz_berries_pensasmustikka_hint"></string>
-    <string name="quiz_berries_pensasmustikka_description">Mustikka (Vaccinium myrtillus) on puolukoiden (Vaccinium) sukuun kuuluva kanervakasvi (Ericaceae), joka tuottaa syötäviä marjoja. Mustikka kasvaa tuoreissa kangasmetsissä ja muissa kosteissa metsissä Euroopan, Aasian ja Pohjois-Amerikan pohjoisosissa. Mustikka kukkii toukokuusta heinäkuuhun, ja marjat kypsyvät heinäkuusta alkaen. Suomessa mustikka on toiseksi tärkein kaupallinen luonnonmarja.</string>
-	<string-array name="quiz_berries_pensasmustikka_answers">
+    <string name="quiz_berries_blueberry_name">Mustikka</string>
+    <string name="quiz_berries_blueberry_hint"></string>
+    <string name="quiz_berries_blueberry_description">Mustikka (Vaccinium myrtillus) on puolukoiden (Vaccinium) sukuun kuuluva kanervakasvi (Ericaceae), joka tuottaa syötäviä marjoja. Mustikka kasvaa tuoreissa kangasmetsissä ja muissa kosteissa metsissä Euroopan, Aasian ja Pohjois-Amerikan pohjoisosissa. Mustikka kukkii toukokuusta heinäkuuhun, ja marjat kypsyvät heinäkuusta alkaen. Suomessa mustikka on toiseksi tärkein kaupallinen luonnonmarja.</string>
+	<string-array name="quiz_berries_blueberry_answers">
     	<item>mustikka</item>
 	</string-array>
-	<string name="quiz_berries_pensasmustikka_link">http://fi.m.wikipedia.org/wiki/mustikka</string>
-	<string-array name="quiz_berries_pensasmustikka_facts">
+	<string name="quiz_berries_blueberry_link">http://fi.m.wikipedia.org/wiki/mustikka</string>
+	<string-array name="quiz_berries_blueberry_facts">
 	    <item>Se on sininen.</item>
 	</string-array>
 	
