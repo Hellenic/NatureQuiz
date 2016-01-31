@@ -1,0 +1,8 @@
+cd Development/Android/NatureQuiz/
+git add -u
+git commit
+git push origin master
+gradle build
+cd build/outputs/apk/
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore ../../../naturequiz-key.keystore NatureQuiz-release-unsigned.apk NatureQuiz
+zipalign -v 4 NatureQuiz-release-unsigned.apk NatureQuiz-release-signed-aligned.apk
